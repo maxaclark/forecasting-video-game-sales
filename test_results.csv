@@ -1,0 +1,2269 @@
+Name,Actual_Global_Sales,Predicted_Global_Sales,Publisher,Genre,FranchiseTag,Year,Decade
+chronicles of mystery the secret tree of life,0.08,0.22953497,city interactive,adventure,0,2011,2010
+back at the barnyard slop bucket games,0.14,0.44248968,thq,sports,0,2008,2000
+earth defense force 2025,0.51,0.4556721,d3publisher,shooter,0,2013,2010
+scoobydoo unmasked,0.75,0.5711536,thq,platform,0,2005,2000
+mlb 10 the show,1.3199999999999998,0.8853337,sony computer entertainment,sports,0,2010,2010
+star wars the clone wars lightsaber duels,1.68,1.2769833,lucasarts,action,0,2008,2000
+mountain sports,0.12,0.6752715,activision,sports,0,2009,2000
+dead to rights,2.24,0.5428852,electronic arts,shooter,0,2002,2000
+micro machines,0.14,0.35449183,atari,racing,0,2002,2000
+killzone,0.94,0.6698059,sony computer entertainment,shooter,0,2004,2000
+playmobil pirates,0.09,0.32585734,mindscape,action,0,2009,2000
+gon bakubakubakubaku adventure,0.02,0.30421883,namco bandai games,action,0,2012,2010
+super robot gakuen,0.04,0.5409764,namco bandai games,adventure,0,2009,2000
+warioware inc mega party game,0.71,0.5063668,nintendo,puzzle,0,2003,2000
+we sing deutsche hits,0.36,0.41076982,nordic games,misc,0,2011,2010
+ys viii lacrimosa of dana,0.09,0.42357856,nihon falcom corporation,roleplaying,0,2016,2010
+higurashi daybreak portable,0.06,0.21883355,alchemist,adventure,0,2008,2000
+spongebob squigglepants,0.41,0.95921504,thq,misc,0,2011,2010
+the king of fighters evolution,0.07,0.6288989,snk,fighting,0,2000,2000
+bangaio spirits,0.08,0.2976873,d3publisher,shooter,0,2008,2000
+bottom of the 9th,0.51,0.43730944,konami digital entertainment,sports,0,1999,1990
+durarara 3way standoff alley,0.04,0.3377566,kadokawa shoten,adventure,0,2011,2010
+devil dice,1.26,0.42757267,thq,puzzle,0,1998,1990
+doctor lautrec and the forgotten knights,0.16,0.42825955,konami digital entertainment,adventure,0,2011,2010
+god hand,0.07,0.4603573,capcom,action,0,2006,2000
+sangoku koi senki omoide gaeshi  cs edition,0.01,0.19461064,prototype,adventure,0,2016,2010
+popn music 13 carnival,0.03,0.29719254,konami digital entertainment,simulation,0,2006,2000
+cabelas dangerous hunts ultimate challenge,0.06,0.5900668,activision value,sports,0,2006,2000
+the sims 4 spa day,0.04,0.9657853,electronic arts,simulation,1,2015,2010
+sword of mana,0.74,2.182044,nintendo,roleplaying,0,2003,2000
+zero escape zero time dilemma,0.12,0.3220557,aksys games,adventure,0,2016,2010
+star wars dark forces,2.5,3.1727514,lucasarts,shooter,0,1994,1990
+yogi bear the video game,0.26,0.5777417,d3publisher,action,0,2010,2010
+samurai warriors 4ii,0.27,0.20965979,tecmo koei,action,0,2015,2010
+cool boarders 2001,0.74,0.4374205,sony computer entertainment,sports,0,2000,2000
+final fantasy crystal chronicles ring of fates,0.67,1.4832469,square enix,roleplaying,0,2007,2000
+saints row gat out of hell,0.05,1.097951,deep silver,action,0,2015,2010
+disney fairies tinker bell and the lost treasure,1.04,0.42825955,disney interactive studios,adventure,0,2009,2000
+dollar dash,1.6,0.6351985,taketwo interactive,action,0,2005,2000
+mobile suit zgundam,0.36,0.4140101,namco bandai games,action,0,1997,1990
+densha de go 3 tsuukinhen,0.06,0.26216725,taito,simulation,1,2001,2000
+super robot taisen scramble commander,0.19,0.5318944,banpresto,strategy,0,2003,2000
+tony hawk shred,1.1,0.5943886,activision,sports,0,2010,2010
+kono aozora ni yakusoku o melody of the sun and sea,0.01,0.19480404,alchemist,adventure,0,2007,2000
+heroes of ruin,0.21,0.44031137,nintendo,roleplaying,0,2012,2010
+dengeki bunko fighting climax,0.3399999999999999,0.1707137,sega,fighting,0,2014,2010
+tom clancys hawx 2,0.94,0.75120246,ubisoft,action,1,2010,2010
+bubble bobble double shot,0.04,0.34693807,rising star games,puzzle,0,2007,2000
+dragoneers aria,0.07,0.33796927,tecmo koei,roleplaying,0,2007,2000
+cheer we go,0.04,0.35088044,natsume,misc,0,2010,2010
+combat flight simulator 3 battle for europe,0.02,0.9044961,microsoft game studios,simulation,1,2002,2000
+okage shadow king,0.36,0.3840332,sony computer entertainment,roleplaying,0,2001,2000
+mega man zero 4,0.11,0.9000555,capcom,platform,1,2005,2000
+wwe smackdown vs raw 2007,3.76,1.6729499,thq,fighting,0,2006,2000
+game no kanzume vol 2,0.05,0.33533943,sega,misc,1,1994,1990
+nfl 2k,1.2,0.4859649,sega,sports,0,1999,1990
+imagine zookeeper,0.25,0.36217678,ubisoft,simulation,0,2009,2000
+the 1 pyramid,0.09,0.63602537,ubisoft,misc,0,2011,2010
+international superstar soccer deluxe,0.16,0.55752474,konami digital entertainment,sports,0,1995,1990
+viewtiful joe,0.9,0.4263767,capcom,action,0,2003,2000
+yugioh the eternal duelist soul jp sales,0.41,0.15125981,konami digital entertainment,misc,0,2001,2000
+socom tactical strike,0.35,0.6762191,sony computer entertainment,shooter,0,2007,2000
+darkwatch,0.53,0.6404366,ubisoft,shooter,0,2005,2000
+tempest 3x,0.08,0.30002177,interplay,shooter,0,1995,1990
+pro race driver,0.31,0.5489715,codemasters,racing,0,2002,2000
+super robot taisen ,0.8,0.40241593,banpresto,strategy,0,2000,2000
+hana to otome ni shukufuku o harekaze no okurimono,0.02,0.17648944,alchemist,adventure,0,2010,2010
+pony friends mini breeds edition,0.05,0.31349748,eidos interactive,simulation,0,2008,2000
+mario party ds,9.02,1.7385722,nintendo,misc,0,2007,2000
+ore no imouto ga konna ni kawaii wake ga nai portable,0.15,0.10294875,banpresto,adventure,0,2011,2010
+the history channel great battles  medieval,0.13,0.31802434,slitherine software,strategy,0,2010,2010
+walle,4.92,0.4405824,thq,platform,0,2008,2000
+tropico 4 modern times,0.02,0.37122405,kalypso media,strategy,1,2012,2010
+fear effect,0.72,0.3484636,eidos interactive,action,0,1998,1990
+sakura wars 1  2,0.02,0.26363972,sega,strategy,1,2006,2000
+nightcaster,0.13,0.46337664,microsoft game studios,action,0,2002,2000
+custom beat battle draglade 2,0.03,0.57906145,namco bandai games,fighting,1,2008,2000
+special forces nemesis strike,0.03,0.42374957,hip interactive,shooter,0,2005,2000
+turbo super stunt squad,0.13,0.3136915,d3publisher,sports,0,2013,2010
+motto sonicomi,0.02,0.2394791,kadokawa games,simulation,0,2014,2010
+winning post 7 maximum 2008,0.02,0.22326866,tecmo koei,sports,1,2008,2000
+nobunaga no yabou reppuuden,0.2,0.1414542,tecmo koei,strategy,0,1999,1990
+command  conquer red alert,3.26,0.541776,virgin interactive,strategy,0,1996,1990
+the legend of the mystical ninja,0.48,0.70416725,konami digital entertainment,adventure,0,1991,1990
+magic encyclopedia moonlight,0.02,0.27637446,foreign media games,misc,0,2010,2010
+sushi academy,0.08,0.32517678,dtp entertainment,action,0,2009,2000
+davis cup tennis,0.02,0.44250202,ubisoft,sports,0,2002,2000
+dokidoki majo shinpan 2,0.03,0.16520342,snk playmore,adventure,1,2008,2000
+ace another centurys episode r,0.26,0.33721647,namco bandai games,simulation,0,2010,2010
+the fairly oddparents breakin da rules,0.21,1.4558359,thq,platform,0,2003,2000
+jitsumei jikkyou keiba dream classic 2002,0.02,0.39526004,namco bandai games,sports,0,2002,2000
+battle spirits digital starter,0.04,0.29404724,namco bandai games,roleplaying,0,2010,2010
+yugioh world championship 2008,0.28,0.28066337,konami digital entertainment,strategy,0,2007,2000
+breach,0.01,0.25621635,destineer,shooter,0,2011,2010
+bcfx the black college football xperience the doug williams edition,0.16,0.22676326,aspyr,sports,0,2009,2000
+assassins creed chronicles,0.21,4.358187,ubisoft,action,0,2016,2010
+baseball blast,0.15,0.49586302,taketwo interactive,sports,0,2009,2000
+wii fit,22.72,12.643062,nintendo,sports,0,2007,2000
+xcom ufo defense,0.09,0.23147255,microprose,strategy,0,1995,1990
+reel fishing iii,0.37,0.31407857,natsume,sports,1,2003,2000
+world of dragon warrior  torneko the last hope,0.65,0.41092682,enix corporation,roleplaying,0,1999,1990
+nobunaga no yabou ds 2,0.03,0.20837471,tecmo koei,strategy,1,2008,2000
+soulcalibur iii,1.07,0.37301433,namco bandai games,fighting,1,2005,2000
+lips number one hits,0.56,0.41230053,microsoft game studios,misc,0,2009,2000
+worms wmd,0.02,0.40136904,sold out,action,0,2016,2010
+kirbys dream course,0.59,0.45878136,nintendo,sports,0,1994,1990
+my weight loss coach,0.96,0.52371633,ubisoft,sports,0,2008,2000
+tago akira no atama no taisou dai1shuu nazotoki sekai isshuu ryokou,0.03,0.14484806,level 5,adventure,0,2009,2000
+senran kagura bon apptit,0.03,0.2648005,marvelous entertainment,misc,0,2014,2010
+street fighter alpha 3,1.18,3.5454228,virgin interactive,fighting,1,1998,1990
+medieval games,0.16,0.40779412,vir2l studios,action,0,2009,2000
+country dance,0.68,0.3669163,funbox media,misc,0,2011,2010
+12sai honto no kimochi,0.07,0.15829153,happinet,adventure,0,2014,2010
+crazy taxi catch a ride,0.3,0.42825955,thq,racing,0,2003,2000
+angelique trois,0.06,0.22958489,tecmo koei,adventure,0,2000,2000
+niko puchi girls runway,0.02,0.31949532,happinet,misc,0,2015,2010
+darkspore,0.12,0.72809255,electronic arts,roleplaying,0,2011,2010
+cooking mama 4 kitchen magic,0.61,2.053228,505 games,simulation,1,2011,2010
+ace combat 3 electrosphere,0.83,0.39447665,sony computer entertainment,simulation,1,1999,1990
+mx vs atv alive,1.03,0.36482915,thq,racing,0,2011,2010
+arma iii,0.12,2.0396748,bohemia interactive,shooter,1,2013,2010
+jikkyou powerful pro yakyuu 8 ketteiban,0.12,0.2362553,konami digital entertainment,sports,1,2001,2000
+the lego movie videogame,5.33,1.9777526,warner bros interactive entertainment,action,0,2014,2010
+guitar hero van halen,0.97,1.5675057,activision,misc,0,2009,2000
+touch mechanic,0.1,0.5921779,nintendo,simulation,0,2008,2000
+far cry instincts predator,0.25,1.3614435,ubisoft,shooter,0,2006,2000
+gretzky nhl 2005,0.17,0.7444061,sony computer entertainment,sports,0,2004,2000
+medarot 4 kabuto  kuwagata version,0.12,0.3118726,imagineer,roleplaying,1,2001,2000
+urakata hakuoki,0.02,0.13327827,idea factory,adventure,0,2013,2010
+winning post,0.53,0.34124887,tecmo koei,sports,0,1993,1990
+kenka banchou 2 full throttle,0.09,0.46096343,spike,action,1,2007,2000
+kenka banchou 6 soul  blood,0.07,0.31811804,screenlife,fighting,1,2015,2010
+xmen legends ii rise of apocalypse,1.61,0.7506677,activision,roleplaying,1,2005,2000
+the king of fighters 98 ultimate match,0.12,0.94002783,ignition entertainment,fighting,0,2008,2000
+wipeout pure,1.04,0.42825955,sony computer entertainment,racing,0,2005,2000
+wangan midnight,0.03,0.35387748,genki,racing,0,2007,2000
+harvest moon more friends of mineral town,0.2,0.31772193,ubisoft,simulation,0,2003,2000
+sesame street ready set grover,0.19,0.4833113,warner bros interactive entertainment,misc,0,2011,2010
+my hero doctor,0.02,0.31536168,majesco entertainment,action,0,2009,2000
+tony hawks proving ground,2.15,0.31007951,activision,sports,0,2007,2000
+summon night craft sword monogatari hajimari no ishi,0.04,0.250228,banpresto,roleplaying,0,2005,2000
+zaidan houjin nippon kanji nouryoku kentei kyoukai koushiki soft 200 mannin no kanken tokoton kanji nou,0.66,0.1831711,ie institute,misc,0,2006,2000
+final fantasy xiii,7.53,2.5272627,square enix,roleplaying,0,2009,2000
+white knight chronicles ii,0.64,7.233485,sony computer entertainment,roleplaying,1,2010,2010
+sorcery saga the curse of the great curry god,0.03,0.3456306,rising star games,roleplaying,0,2013,2010
+flipnic ultimate pinball,0.06,0.4987663,ubisoft,misc,0,2003,2000
+quiz hexagon ii,0.06,0.3513332,namco bandai games,misc,1,2010,2010
+wrc 2 fia world rally championship,0.27,0.5957864,ubisoft,racing,1,2011,2010
+the eye of judgment legends,0.01,0.43478537,sony computer entertainment,strategy,0,2010,2010
+dragon age ii,2.6,4.6399226,electronic arts,action,1,2011,2010
+winx club mission enchantix,0.06,0.1595733,konami digital entertainment,adventure,0,2008,2000
+ford racing off road,0.8200000000000001,0.46323305,xplosiv,racing,0,2008,2000
+renai 0 kilometer,0.03,0.25017142,alchemist,adventure,0,2013,2010
+monster trucks mayhem,0.41,0.56033206,zoo games,racing,0,2009,2000
+homefront the revolution,0.45,1.9411153,deep silver,shooter,0,2016,2010
+spiderman 2 enter electro,1.55,0.8721396,activision,action,1,2001,2000
+the sims hot date,1.82,0.67695785,electronic arts,simulation,0,2001,2000
+naruto rise of a ninja,0.33,0.8093848,ubisoft,action,0,2007,2000
+the sims medieval pirates and nobles,0.15,0.56983936,electronic arts,simulation,0,2011,2010
+pandoras tower,0.33,2.650332,nintendo,roleplaying,0,2011,2010
+jleague pro soccer club o tsukurou 3,0.52,0.3435123,sega,sports,1,2003,2000
+impossible mission,0.19,0.42825955,system 3 arcade software,platform,0,2007,2000
+power pro kun pocket 12,0.3399999999999999,0.28305697,konami digital entertainment,sports,0,2009,2000
+pro yaky spirits 2014,0.3,0.35883012,konami digital entertainment,sports,0,2014,2010
+boku no natsuyasumi portable 2 nazo nazo shimai to chinbotsusen no himitsu,0.07,0.1934875,sony computer entertainment,adventure,1,2010,2010
+zhuzhu babies,0.08,0.28452843,activision,simulation,0,2011,2010
+super momotarou dentetsu dx,0.47,0.26175243,hudson soft,misc,0,1995,1990
+final fantasy ii anniversary edition,0.51,0.5411621,square enix,roleplaying,1,2007,2000
+rez,0.05,0.42734033,sony computer entertainment,shooter,0,2001,2000
+genkai tokki seven pirates,0.02,0.24379624,compile heart,roleplaying,0,2016,2010
+jsrf jet set radio future,0.21,0.20044157,sega,action,0,2002,2000
+driving simulator 2011,0.01,0.3120134,unknown,racing,0,2011,2010
+puyo puyo 20th anniversary,0.27,0.25842375,sega,puzzle,0,2011,2010
+earth defense force 2017 old jp sales,0.02,0.19881879,d3publisher,shooter,0,2006,2000
+defender,1.65,0.49738777,atari,misc,0,1980,1980
+call of duty advanced warfare,21.9,15.839271,activision,shooter,0,2014,2010
+lollipop chainsaw,1.16,0.7279564,warner bros interactive entertainment,action,0,2012,2010
+the house of the dead overkill,0.87,0.69393075,sega,shooter,0,2009,2000
+super swing golf,0.23,0.42825955,nintendo,sports,0,2006,2000
+pocket monsters stadium,1.37,1.0413601,nintendo,strategy,0,1998,1990
+front line,0.24,0.45083594,taito,action,0,1981,1980
+tantei opera milky holmes,0.02,0.13984348,unknown,adventure,0,2010,2010
+batman vengeance,0.99,0.63165045,ubisoft,adventure,0,2001,2000
+guild wars factions,0.02,0.43206286,ncsoft,roleplaying,0,2006,2000
+tony hawks underground,6.47,0.3136565,activision,sports,0,2003,2000
+shin megami tensei persona 2 innocent sin,0.3,0.43245935,atlus,roleplaying,1,2011,2010
+the legend of zelda links awakening dx,2.22,0.5906513,nintendo,adventure,0,1998,1990
+just dance wii 2,0.29,0.54645604,nintendo,misc,1,2012,2010
+yugioh world championship tournament 2004,0.56,0.37678748,konami digital entertainment,misc,0,2004,2000
+nobunaga no yabou tendou,0.13,0.15411296,tecmo koei,strategy,0,2010,2010
+sengoku hime 2 arashi hyakubana senran tatsukaze no gotoku,0.01,0.21224044,system soft,strategy,1,2010,2010
+super robot taisen l,0.17,0.3131864,namco bandai games,strategy,0,2010,2010
+south park rally,0.56,0.43518293,acclaim entertainment,racing,0,1998,1990
+nhl faceoff 2003,0.23,0.46400726,sony computer entertainment,sports,0,2002,2000
+tsurugi no machi no ihoujin kuro no kyuuden,0.04,0.21131189,experience inc,roleplaying,0,2015,2010
+homie rollerz,0.07,0.30332714,destineer,racing,0,2008,2000
+gsaviour,0.07,0.34106976,sunrise interactive,action,0,2000,2000
+buildabear workshop a friend fur all seasons,0.37,0.4359979,game factory,simulation,0,2008,2000
+buzz master quiz,0.87,0.42043006,sony computer entertainment,misc,0,2008,2000
+hackgu vol2reminisce jp sales,0.16,0.15535332,namco bandai games,roleplaying,0,2006,2000
+squishy tank,0.07,0.39615047,natsume,puzzle,0,2010,2010
+kana imouto,0.01,0.259794,cyberfront,adventure,0,2010,2010
+tv anime idolmster cinderella girls g4u pack vol4,0.02,0.14883386,namco bandai games,action,0,2015,2010
+dragon warrior monsters,2.35,0.44038326,eidos interactive,roleplaying,0,1998,1990
+pictionary ultimate edition,0.48,0.46408635,thq,misc,0,2011,2010
+dai3ji super robot taisen  shuuen no ginga e,0.59,0.22746935,banpresto,strategy,0,2005,2000
+crash city mayhem,0.93,0.5729584,thq,racing,0,2004,2000
+castlevania judgment,0.18,0.41927946,konami digital entertainment,fighting,0,2008,2000
+trollz hair affair,0.04,0.42691582,ubisoft,misc,0,2005,2000
+sanx land theme park de asobou,0.04,0.67233115,mto,action,0,2006,2000
+alice madness returns,1.22,0.44178802,electronic arts,adventure,0,2011,2010
+guild wars,0.03,0.5247131,ncsoft,roleplaying,0,2005,2000
+ghosts n goblins,1.64,0.42825955,capcom,action,0,1986,1980
+racing gears advance,0.06,0.6383861,zoo digital publishing,racing,0,2004,2000
+high velocity bowling,0.15,0.37788522,sony computer entertainment,sports,0,2010,2010
+street fighter ex3,0.85,0.76367587,virgin interactive,fighting,0,2000,2000
+gravity games bike street vert dirt,0.1,1.0017526,midway games,sports,0,2002,2000
+danball senki,0.39,0.33165926,level 5,roleplaying,0,2011,2010
+wario master of disguise,0.66,0.5039528,nintendo,platform,0,2007,2000
+go play city sports,0.09,0.5784907,majesco entertainment,sports,0,2009,2000
+active health with carol vorderman,0.19,0.87072945,nintendo,sports,0,2009,2000
+onimusha warlords,2.7,0.30474353,virgin interactive,action,0,2001,2000
+enkaku sousa sana e no 23 hiai,0.02,0.16393128,sony computer entertainment,adventure,0,2009,2000
+suikoden tierkreis,0.27,0.3182513,konami digital entertainment,roleplaying,0,2008,2000
+mario power tennis,1.22,1.3743272,nintendo,sports,0,2004,2000
+tetris evolution,0.11,0.29149976,thq,puzzle,0,2007,2000
+allstar baseball 2002,0.78,0.43519306,acclaim entertainment,sports,0,2001,2000
+super robot taisen xo,0.01,0.34576273,banpresto,strategy,0,2006,2000
+beyblade vforce ultimate blader jam,0.73,0.6156799,atari,action,0,2003,2000
+bleach erabareshi tamashii,0.08,0.29056513,sony computer entertainment,adventure,0,2005,2000
+the order 1886,1.72,1.9400626,sony computer entertainment,shooter,0,2015,2010
+medieval ii total war gold edition,0.37,0.37405485,sega,strategy,1,2008,2000
+tomb raider anniversary,2.37,0.7570045,eidos interactive,action,0,2007,2000
+ping pals,0.11,0.41227317,thq,misc,0,2004,2000
+paranormal pursuit the gifted one,0.01,0.46394026,alawar entertainment,action,0,2015,2010
+blowout,0.28,0.3732974,zoo digital publishing,shooter,0,2003,2000
+resident evil the darkside chronicles,1.08,3.2472,capcom,action,0,2009,2000
+cart world series,0.3,2.1092257,sony computer entertainment,racing,0,1997,1990
+project eden,0.09,0.4923771,eidos interactive,action,0,2001,2000
+captain morgane and the golden turtle,0.0999999999999999,0.40673858,reef entertainment,adventure,0,2012,2010
+clock zero shuuen no ichibyou  extime,0.02,0.12718609,idea factory,action,0,2015,2010
+hour of victory,0.13,0.5490943,midway games,shooter,0,2007,2000
+stalker clear sky,0.04,0.42133695,deep silver,shooter,0,2008,2000
+star trek online,0.02,0.6497597,atari,roleplaying,0,2010,2010
+colin mcrae rally,2.87,0.4318378,codemasters,racing,0,1998,1990
+doods big adventure,0.25,0.3776126,thq,platform,0,2010,2010
+satisfashion,0.0699999999999999,0.26822275,destineer,misc,0,2010,2010
+the inner world,0.03,0.3745165,headup games,adventure,0,2013,2010
+ape escape academy,0.33,0.46541923,sony computer entertainment,misc,0,2004,2000
+mortal kombat vs dc universe,3.93,1.0143307,midway games,fighting,0,2008,2000
+dancestar party,0.46,1.2929429,sony computer entertainment,misc,0,2011,2010
+dr slump  aralechan,0.01,0.32875034,namco bandai games,adventure,0,2008,2000
+god eater resurrection,0.27,0.5071615,namco bandai games,action,0,2015,2010
+j legend retsuden,0.07,0.18229166,namco bandai games,misc,0,2013,2010
+ncaa march madness 08,0.56,0.35074764,electronic arts,sports,0,2007,2000
+talkman,0.02,0.4069351,sony computer entertainment,misc,0,2006,2000
+truck racer,0.02,0.43345737,nordic games,racing,0,2009,2000
+petz dogz pack,0.61,0.431799,ubisoft,simulation,0,2008,2000
+gungriffon,0.19,0.3937825,sega,simulation,0,1995,1990
+fighter maker,0.17,0.5020687,agetec,fighting,0,1998,1990
+journey,0.25,0.32374656,sony computer entertainment europe,adventure,0,2012,2010
+tokimeki memorial girls side 2nd kiss,0.05,0.18030807,konami digital entertainment,adventure,0,2006,2000
+pdc world championship darts 2008,0.24,0.4329791,oxygen interactive,sports,0,2008,2000
+resident evil chronicles hd,0.09,0.87094104,capcom,shooter,0,2012,2010
+downstream panic,0.03,0.2983135,atari,action,0,2008,2000
+original frisbee disc sports ultimate  golf,0.01,0.32639542,destination software inc,action,0,2007,2000
+nascar 2005 chase for the cup,1.98,0.8436589,electronic arts,racing,0,2004,2000
+dragon force ii kamisarishi daichi ni,0.08,0.2689857,sega,strategy,1,1998,1990
+kingdom hearts 3d dream drop distance,1.58,0.7566372,square enix,action,0,2012,2010
+2 games in 1 sonic battle  chuchu rocket,0.61,0.686435,thq,misc,1,2005,2000
+locoroco 2,0.36,1.147119,sony computer entertainment,platform,1,2008,2000
+gekiatsu pachi game tamashi vol 2 cr evangelion  shinjitsu no tsubasa,0.03,0.19863372,unknown,misc,1,2011,2010
+nisenochigiri,0.02,0.22511409,idea factory,adventure,0,2010,2010
+virtua fighter 5,1.09,0.65480757,sega,fighting,1,2007,2000
+romance of the three kingdoms xi,0.07,0.31485426,tecmo koei,strategy,0,2007,2000
+harvey birdman attorney at law,0.3,0.2679996,capcom,adventure,0,2008,2000
+capcom vs snk 2 eo,0.21,0.70209205,capcom,fighting,1,2002,2000
+boot camp academy,0.03,0.2716637,zoo games,action,0,2010,2010
+gadget racers pal,0.02,0.3991668,zoo digital publishing,racing,0,2002,2000
+driv3r,2.02,0.29717672,atari,racing,0,2004,2000
+puchi puchi virus,0.08,0.22309066,jaleco,puzzle,0,2007,2000
+hatsune miku project diva x,0.16,0.17655127,sega,misc,0,2016,2010
+my english coach para hispanoparlantes,0.08,0.2908664,ubisoft,misc,0,2009,2000
+gothic universe,0.04,0.35724849,jowood productions,roleplaying,0,2007,2000
+assassins creed,11.3,3.7545748,ubisoft,adventure,0,2007,2000
+ultimate party challenge,0.08,0.5379536,konami digital entertainment,misc,0,2009,2000
+luminous arc 3,0.04,0.24580228,marvelous interactive,roleplaying,1,2009,2000
+socom 3 us navy seals,1.69,1.8417283,sony computer entertainment,shooter,1,2005,2000
+afrika,0.21,0.22139585,unknown,adventure,0,2008,2000
+crackdown,1.75,1.1057069,microsoft game studios,shooter,0,2007,2000
+just dance,7.27,0.64629585,ubisoft,misc,0,2009,2000
+the dukes of hazzard return of the general lee,0.29,0.5297463,ubisoft,racing,0,2004,2000
+naruto shippuden ultimate ninja storm generations,1.19,0.7295252,namco bandai games,fighting,0,2012,2010
+dynasty warriors vs,0.06,0.4122212,ackkstudios,action,0,2012,2010
+memories off sorekara again,0.02,0.24337971,kid,adventure,0,2006,2000
+jewel quest mysteries,0.05,0.42259198,astragon,puzzle,0,2009,2000
+ico,0.53,0.66767436,sony computer entertainment,action,0,2001,2000
+pen 1 grand prix penguin no mondai special,0.16,0.25862157,konami digital entertainment,fighting,0,2009,2000
+motogp,0.64,0.5275706,namco bandai games,racing,0,2000,2000
+the fairly odd parents breakin da rules,1.32,0.644232,thq,platform,0,2003,2000
+youre in the movies,0.48,0.71166706,microsoft game studios,misc,0,2008,2000
+shrek the third,1.7799999999999998,0.84739816,activision,action,0,2007,2000
+professor layton and the diabolical box,4.0,1.3389982,nintendo,puzzle,0,2007,2000
+ragnarok ds,0.22,1.9727054,gungho,roleplaying,0,2008,2000
+the hobbit,1.14,0.8655504,vivendi games,platform,0,2003,2000
+naruto shippuden ultimate ninja storm 4,1.34,0.71548337,namco bandai games,fighting,1,2016,2010
+homeworld 2,0.03,0.5529,vivendi games,strategy,1,2003,2000
+colony wars vengeance,0.23,0.49117422,psygnosis,simulation,0,1998,1990
+new super luigi u,2.22,0.8192468,nintendo,platform,0,2013,2010
+mega man soccer,0.18,0.70741117,capcom,sports,0,1993,1990
+colosseum road to freedom,0.07,0.42825955,tecmo koei,roleplaying,0,2005,2000
+xmen mutant academy 2,0.72,0.73123413,activision,fighting,1,2001,2000
+jikandia the timeless land,0.03,0.258176,idea factory,roleplaying,0,2010,2010
+dark souls iii,1.96,0.48942888,namco bandai games,roleplaying,1,2016,2010
+lips deutsche partyknaller,0.05,0.39135993,microsoft game studios,misc,0,2009,2000
+kouchuu ouja mushi king,0.72,0.25359786,sega,action,0,2005,2000
+earth defense force 2017,0.08,0.23914902,d3publisher,action,0,2006,2000
+custom robo v2,0.39,0.64881444,nintendo,fighting,0,2000,2000
+dance dance revolution mario mix,0.47,0.58827364,nintendo,misc,0,2005,2000
+simcity creator,0.83,0.30603704,electronic arts,simulation,0,2008,2000
+pokemon dash,0.77,1.9159534,nintendo,racing,0,2004,2000
+animal planet vet collection,0.05,0.42825955,activision,simulation,0,2010,2010
+gintama banji oku chuubu,0.03,0.2179234,namco bandai games,action,0,2007,2000
+shitsuji ga aruji o erabu toki,0.01,0.10816108,unknown,adventure,0,2016,2010
+suikoden,0.6,0.826897,konami digital entertainment,roleplaying,0,1995,1990
+imagine resort owner,0.06,0.32084548,ubisoft,strategy,0,2010,2010
+katekyoo hitman reborn ds bongole shiki taisen battle sugoroku,0.05,0.23366995,takara tomy,misc,0,2008,2000
+arcana heart,0.16,0.35546464,aq interactive,fighting,0,2007,2000
+def jam icon,0.78,1.0081278,electronic arts,action,0,2007,2000
+crash nitro kart,2.98,0.59486806,vivendi games,racing,0,2003,2000
+godzilla domination,0.28,0.5985022,atari,fighting,0,2002,2000
+star ocean the second story,1.1,0.7270724,sony computer entertainment,roleplaying,0,1998,1990
+magical zhuzhu princess carriages  castles,0.2,2.3029652,activision,simulation,0,2011,2010
+jikkyou powerful pro yakyuu 99 kaimakuban,0.81,0.20398684,konami digital entertainment,sports,0,1999,1990
+cosmic family,0.08,0.48900843,ubisoft,misc,0,2007,2000
+saints row 2,4.76,1.3461108,thq,action,1,2008,2000
+the magic school bus oceans,0.23,0.44133943,scholastic inc,adventure,0,2011,2010
+famicom mini ganbare goemon karakuri douchuu,0.21,0.45784318,konami digital entertainment,platform,0,2004,2000
+avatar the last airbender  the burning earth,1.16,0.526174,thq,action,0,2007,2000
+turbo turtle adventure,0.05,0.4196837,majesco entertainment,puzzle,0,2002,2000
+kaijuu busters powered,0.08,0.20224635,namco bandai games,action,0,2011,2010
+super robot taisen f kanketsuhen,0.78,0.24440467,banpresto,strategy,0,1998,1990
+raving rabbids travel in time,0.76,0.41438246,ubisoft,adventure,0,2010,2010
+disneys kim possible global gemini,0.06,0.26189816,disney interactive studios,platform,0,2007,2000
+turok dinosaur hunter,0.05,0.44046652,acclaim entertainment,shooter,0,1997,1990
+meccha taiko no tatsujin master ds 7tsu no shima no daibouken,0.65,0.17469713,namco bandai games,misc,0,2008,2000
+world tour soccer 2002,0.14,0.6967699,sony computer entertainment,sports,0,2001,2000
+fishing master,0.31,0.28404954,konami digital entertainment,misc,0,2007,2000
+jumpstart escape from adventure island,0.42,0.59408283,knowledge adventure,adventure,0,2009,2000
+nfl street 2,2.29,1.7465516,electronic arts,sports,1,2004,2000
+national geographic challenge,0.16,0.32628798,black bean games,misc,0,2011,2010
+fateextra ccc,0.12,0.25202137,marvelous entertainment,action,0,2013,2010
+railroad tycoon 3,0.04,0.37633926,gathering of developers,strategy,1,2003,2000
+blazing souls accelate,0.05,0.22299238,idea factory,roleplaying,0,2009,2000
+prince of persia the fallen king,0.07,0.69626826,ubisoft,action,0,2008,2000
+roll away,0.07,0.44050866,sony computer entertainment,puzzle,0,1998,1990
+mazes of fate ds,0.04,0.37621492,graffiti,roleplaying,0,2008,2000
+monster trux arenas special edition,0.04,0.35690755,popcorn arcade,racing,0,2007,2000
+kotoba no puzzle mojipittan daijiten,0.11,0.24775425,namco bandai games,puzzle,0,2004,2000
+alfa romeo racing italiano,0.01,0.43938065,black bean games,racing,0,2005,2000
+michael jackson the experience,6.37,1.2681056,ubisoft,misc,0,2010,2010
+growlanser vi precarious world,0.05,0.3401652,atlus,roleplaying,0,2007,2000
+25 to life,0.59,0.42825955,eidos interactive,shooter,0,2006,2000
+nandas island,0.05,0.25376034,phenomedia,puzzle,0,2009,2000
+backyard wrestling 2 there goes the neighborhood,0.4,0.4044823,eidos interactive,fighting,1,2004,2000
+mario sports mix,2.11,0.73363864,nintendo,sports,0,2010,2010
+pokemon mystery dungeon explorers of timeexplorers of darkness,4.96,1.0713999,nintendo,roleplaying,0,2007,2000
+densha de go 64,0.12,0.32371163,taito,simulation,0,1999,1990
+mobile suit gundam federation vs zeon,1.14,0.5131378,atari,simulation,0,2001,2000
+new international track  field,0.08,0.39801034,konami digital entertainment,sports,0,2008,2000
+hunter the reckoning  wayward,0.43,0.38760817,interplay,action,0,2003,2000
+buffy the vampire slayer chaos bleeds,0.3299999999999999,1.9314761,vivendi games,action,0,2003,2000
+victorious time to shine,0.13,0.34279412,d3publisher,action,0,2011,2010
+transformer rise of the dark spark,0.6900000000000001,0.29701284,activision,action,0,2014,2010
+harry potter and the chamber of secrets,7.64,2.1650558,electronic arts,action,0,2002,2000
+far cry 3,7.470000000000001,3.1668057,ubisoft,shooter,1,2012,2010
+syndicate,0.39,2.5458753,electronic arts,shooter,0,2012,2010
+naval ops commander,0.05,0.38766813,tecmo koei,simulation,0,2004,2000
+natalie brooks mystery at hillcrest high,0.02,0.38140088,licensed 4u,action,0,2012,2010
+makai kingdom chronicles of the sacred tome,0.12,0.3062212,tecmo koei,roleplaying,0,2005,2000
+disneys donald duck goin quackers,0.37,0.5598066,ubisoft,platform,0,2000,2000
+mindjack,0.28,1.0174142,square enix,shooter,0,2011,2010
+circuit breakers,0.07,0.36579525,mindscape,racing,0,1998,1990
+moto racer 2,0.69,1.158927,electronic arts,racing,1,1997,1990
+time crisis crisis zone,0.22,0.39700067,namco bandai games,shooter,0,2004,2000
+xenosaga episode ii jenseits von gut und bse,0.58,1.0181565,sony computer entertainment,roleplaying,1,2004,2000
+kouchuu ouja mushi king greatest champion e no michi ds,0.19,0.19023354,sega,action,0,2005,2000
+furu furu park,0.05,0.30264962,taito,misc,0,2007,2000
+otomedius gorgeous,0.03,0.4335147,konami digital entertainment,shooter,0,2008,2000
+super run for money tousouchuu atsumare saikyou no tousou monotachi,0.11,0.17880274,namco bandai games,action,0,2015,2010
+lego soccer mania,0.16,3.1745389,electronic arts,sports,0,2002,2000
+evolution snowboarding,0.02,0.4703647,konami digital entertainment,sports,0,2002,2000
+twisted metal 2,2.44,1.0593053,sony computer entertainment,racing,1,1996,1990
+mlb power pros,0.3999999999999999,0.24733716,konami digital entertainment,sports,0,2007,2000
+crysis 2,3.39,2.4959397,electronic arts,action,1,2011,2010
+harry potter and the order of the phoenix,2.57,1.5433074,electronic arts,action,0,2007,2000
+doraemon shin nobita no daimakyou peko to 5nin no tankenta,0.04,0.23612021,furyu,action,0,2014,2010
+summer athletics the ultimate challenge,0.21,0.2677561,dtp entertainment,sports,0,2008,2000
+adventure island,1.05,0.9876571,hudson soft,platform,0,1986,1980
+monster madness grave danger,0.06,0.4221232,southpeak games,shooter,0,2008,2000
+sd gundam force showdown,0.04,0.58855873,namco bandai games,shooter,0,2004,2000
+hakuouki ds,0.07,0.0699289,idea factory,adventure,0,2010,2010
+hasbro family game night,2.24,0.54801714,electronic arts,puzzle,0,2008,2000
+the mummy returns,0.5,2.3187034,universal interactive,action,0,2001,2000
+last window the secret of cape west,0.23,0.33135396,nintendo,adventure,0,2010,2010
+animal kingdom wildlife expedition,0.08,0.32528725,natsume,adventure,0,2009,2000
+nicola kanshuu model  oshare audition 2,0.06,0.21052782,alchemist,action,1,2011,2010
+samurai shodown iii,0.08,0.55220115,snk,fighting,1,1995,1990
+nascar 14,0.26,1.9558638,deep silver,racing,0,2014,2010
+dead mans hand,0.11,0.42825955,atari,shooter,0,2004,2000
+n3 ii ninetynine nights,0.17,0.3468781,microsoft game studios,action,1,2010,2010
+mirrors edge catalyst,0.52,0.7148162,electronic arts,platform,0,2016,2010
+parlor mini 2,0.07,0.42359906,nippon telenet,misc,1,1996,1990
+kanshuu nippon joushikiryoku kentei kyoukai imasara hito ni wa kikenai otona no joushikiryoku training ds,1.71,0.21641493,nintendo,misc,0,2006,2000
+h2o footprints in the sand,0.01,0.2779477,kadokawa shoten,adventure,0,2008,2000
+starcraft ii legacy of the void,0.51,0.6412564,activision,strategy,1,2015,2010
+stoked big air edition,0.04,0.32927322,namco bandai games,sports,0,2009,2000
+tamagotchi no appare niji venture,0.14,0.15581644,namco bandai games,roleplaying,0,2007,2000
+ea sports active,3.92,3.6065412,electronic arts,sports,0,2009,2000
+full house kiss 2,0.02,0.37323463,capcom,adventure,1,2006,2000
+monster house,0.53,0.44010812,thq,adventure,0,2006,2000
+pokmon johto photo finish game boy advance video,0.15,0.3125053,unknown,misc,0,2004,2000
+gokujou parodius,0.18,0.44143492,konami digital entertainment,shooter,0,1994,1990
+jikkyou powerful pro yakyuu 7,0.35,0.20880343,konami digital entertainment,sports,1,2000,2000
+world of warcraft wrath of the lich king,1.32,2.7887673,activision,roleplaying,0,2008,2000
+pachitte chonmage tatsujin 16 pachinko hissatsu shigotojin iii,0.01,0.25496703,hackberry,misc,1,2010,2010
+the fairly odd parents clash with the antiworld,0.15,0.35781944,thq,adventure,0,2005,2000
+gundam battle assault,0.23,0.34315872,namco bandai games,fighting,0,1998,1990
+diablo ii,0.13,4.2259607,havas interactive,roleplaying,1,2000,2000
+doraemon nobita and the island of miracles,0.08,0.33853632,furyu,action,0,2012,2010
+densha de go,1.09,0.2961867,taito,simulation,0,1997,1990
+wipeout the game,2.71,0.56684566,mindscape,misc,0,2009,2000
+doraemon shin nobita no nihon tanjou,0.04,0.22174834,furyu,misc,0,2016,2010
+final fantasy collection,0.45,0.5972015,square,roleplaying,0,1999,1990
+valkyria chronicles,1.46,0.34132475,sega,roleplaying,0,2008,2000
+heroes of the pacific,0.44,0.40128517,codemasters,simulation,0,2005,2000
+final fantasy i  ii dawn of souls,1.19,1.5985887,nintendo,roleplaying,1,2004,2000
+nba inside drive 2002,0.37,0.4935133,microsoft game studios,sports,0,2002,2000
+myth makers orbs of doom,0.05,0.32685512,popcorn arcade,puzzle,0,2007,2000
+dragon ball z the legacy of goku ii,1.09,1.2988827,atari,roleplaying,1,2003,2000
+buzz junior jungle party,0.41,0.49172586,sony computer entertainment,misc,0,2006,2000
+7th dragon,0.14,0.6445559,sega,roleplaying,0,2009,2000
+the mark of kri,0.46,0.43174285,sony computer entertainment,action,0,2002,2000
+magical tetris challenge,0.2,0.43185842,activision,puzzle,0,1997,1990
+soulcalibur,0.34,0.42825955,namco bandai games,fighting,0,1999,1990
+sd gundam gaiden knight gundam monogatari ooinaru isan,0.29,0.37447143,angel studios,roleplaying,0,1991,1990
+metroid other m,1.41,0.5417627,nintendo,action,0,2010,2010
+hard rock casino,0.14,0.27618325,oxygen interactive,misc,0,2007,2000
+doctor who return to earth,0.19,0.590209,asylum entertainment,adventure,0,2010,2010
+choro q3,0.26,0.31547114,takara,racing,0,1998,1990
+aquarium by ds,0.06,0.29903263,mercury games,simulation,0,2008,2000
+shining force exa,0.1,0.23831145,sega,roleplaying,0,2007,2000
+nekketsu kouha kuniokun sp rantou kyousoukyoku,0.03,0.19440421,arc system works,fighting,0,2013,2010
+rogue trip vacation 2012,0.38,0.44085366,gt interactive,racing,0,1998,1990
+bomberman 2,0.02,0.5206427,hudson soft,puzzle,1,2008,2000
+yugioh zexal world duel carnival,0.17,0.39748338,konami digital entertainment,misc,0,2013,2010
+marriage royale prism story,0.05,0.2686365,ascii media works,adventure,0,2010,2010
+powerup heroes,0.3,0.6751639,ubisoft,fighting,0,2011,2010
+point blank ds jp sales,0.07,0.31272262,atari,shooter,0,2006,2000
+disneys ducktales,3.1,1.6186825,capcom,platform,0,1989,1980
+tamagotchi no kirakira omisecchi,0.22,0.21946236,namco bandai games,misc,0,2008,2000
+hermie hopperhead scrap panic,0.03,0.37117213,sony computer entertainment,platform,0,1995,1990
+phantasy star ,0.38,0.53474057,sega,roleplaying,0,2008,2000
+heatseeker,0.14,0.59928995,codemasters,action,0,2007,2000
+shiren the wanderer 5 plus fortune tower and the dice of fate,0.05,0.39088207,aksys games,action,1,2015,2010
+motogp 06,0.14,0.6445191,thq,racing,0,2006,2000
+minority report everybody runs,0.65,0.43153697,activision,action,0,2002,2000
+robocop,0.02,1.5531018,titus,shooter,0,2003,2000
+silent hill,1.6,1.2156023,konami digital entertainment,action,0,1999,1990
+x2 wolverines revenge,1.17,0.84726655,activision,platform,0,2003,2000
+ben 10 alien force vilgax attacks,1.79,0.81475663,d3publisher,action,0,2009,2000
+jump ultimate stars,0.74,0.4364077,nintendo,fighting,0,2006,2000
+geometry wars galaxies,0.28,0.9113438,vivendi games,shooter,0,2007,2000
+tony hawks underground 2,4.11,0.88953114,activision,sports,1,2004,2000
+zapper one wicked cricket,0.48,0.424097,infogrames,platform,0,2002,2000
+metroid,2.73,5.752989,nintendo,action,0,1986,1980
+nfl blitz 2001,1.01,0.5897086,midway games,sports,0,2000,2000
+jak ii,2.78,0.42480582,sony computer entertainment,platform,1,2003,2000
+angelique retour,0.02,0.27036843,tecmo koei,action,0,2015,2010
+super dodgeball brawlers jp sales,0.03,0.1715008,arc system works,sports,0,2008,2000
+mario strikers charged,2.62,0.9158587,nintendo,sports,0,2007,2000
+bleach soul carnival,0.05,0.41923547,sony computer entertainment,fighting,0,2008,2000
+shin koihime musou otome ryouran  sangokushi engi  shuhen,0.04,0.15613307,yeti,adventure,0,2010,2010
+worms armageddon,1.1,0.42825955,microprose,strategy,0,1999,1990
+ridge racer unbounded,0.32,0.45125884,namco bandai games,racing,0,2012,2010
+hisshou pachinkopachislot kouryaku series ds vol 5 shinseiki evangelion  tamashii no kiseki,0.04,0.16789576,d3publisher,misc,1,2010,2010
+disneys treasure planet,0.6100000000000001,0.42748457,sony computer entertainment,action,0,2002,2000
+spin jam,0.31,0.5201638,empire interactive,puzzle,0,2000,2000
+rave master,0.05,0.31671354,konami digital entertainment,fighting,0,2002,2000
+pinkalicious,0.28,0.29040903,gamemill entertainment,misc,0,2011,2010
+rapala for kinect,0.02,1.3794976,activision,sports,0,2011,2010
+fire emblem monsh no nazo,0.7,0.42825955,nintendo,roleplaying,0,1994,1990
+combination pro soccer jleague no kantoku ni natte sekai wo mezase,0.25,0.24022321,axela,sports,0,1998,1990
+kenyuu densetsu yaiba,0.07,0.21156009,banpresto,action,0,1994,1990
+darkened skye,0.01,0.28237003,tdk mediactive,adventure,0,2002,2000
+fifa 99,0.54,1.5641515,electronic arts,sports,0,1998,1990
+crime killer,0.12,0.43297815,interplay,racing,0,1998,1990
+soccer tsuku pro soccer club o tsukurou,0.2,0.24554443,sega,sports,0,2013,2010
+tigershark,0.07,0.3799704,gt interactive,simulation,0,1997,1990
+konohana 2 todoke kanai requiem,0.03,0.120177984,success,adventure,1,2002,2000
+code geass hangyaku no lelouch,0.03,0.20435768,namco bandai games,action,0,2007,2000
+lord of the rings battle for middleearth,0.31,0.47902054,electronic arts,strategy,0,2006,2000
+tak the great juju challenge,0.48,0.47060776,thq,platform,0,2005,2000
+mario  luigi paper jam  mario kart 7 double pack,0.01,0.46789062,nintendo,misc,1,2015,2010
+realsports boxing,0.29,0.43632257,atari,sports,0,1986,1980
+radiata stories,0.65,0.4287938,square enix,roleplaying,0,2005,2000
+brothers in arms furious 4,0.08,6.508688,ubisoft,shooter,1,2012,2010
+top gun firestorm advance,0.09,0.5724464,titus,shooter,0,2002,2000
+dance sensation,0.06,0.3450207,majesco entertainment,misc,0,2010,2010
+sakura wars gb,0.14,0.32125026,media factory,adventure,0,2000,2000
+rush 2 extreme racing usa,0.42,0.34622213,midway games,racing,1,1998,1990
+muppets party cruise,0.08,0.63488203,tdk mediactive,misc,0,2003,2000
+terranigma,0.09,0.43168098,nintendo,roleplaying,0,1995,1990
+chocobos dungeon 2,0.7,0.7939272,squaresoft,roleplaying,1,1998,1990
+shadow hearts from the new world,0.14,0.35060835,ghostlight,roleplaying,0,2005,2000
+nfl blitz 2000,1.67,0.68125916,midway games,sports,0,1998,1990
+stella deus the gate of eternity,0.08,0.43119985,505 games,strategy,0,2004,2000
+pokemon snap,3.63,0.98775804,nintendo,simulation,0,1999,1990
+panzer general,0.24,0.3335603,mindscape,strategy,0,1995,1990
+roboticsnotes,0.15,0.24811639,5pb,adventure,0,2012,2010
+hoppechan minna de odekake waku waku hoppe land,0.07,0.18332386,nippon columbia,action,0,2014,2010
+spongebobs boating bash,0.51,0.613232,thq,misc,0,2010,2010
+mame goma honobo no nikki,0.03,0.2235772,tdk core,simulation,0,2007,2000
+final fantasy vi,0.08,3.8307176,sony computer entertainment,roleplaying,0,1999,1990
+littlebigplanet karting,0.9,1.014581,sony computer entertainment,action,0,2012,2010
+project setsuna,0.11,0.55258137,square enix,roleplaying,0,2016,2010
+over the hedge,1.54,0.44025403,activision,platform,0,2006,2000
+kurokos basketball miracle game,0.21,0.4261257,namco bandai games,sports,0,2012,2010
+digimon world,1.3,0.30485994,namco bandai games,roleplaying,0,1999,1990
+hyperdimension neptunia rebirth 2,0.09,0.35893118,idea factory international,action,1,2014,2010
+mike piazzas strike zone,0.06,0.391056,gt interactive,sports,0,1998,1990
+street fighter alpha 3 max,0.33,0.65551174,capcom,fighting,1,2006,2000
+pacman allstars,0.35,0.31682104,namco bandai games,fighting,0,2011,2010
+blues clues blues big musical,0.5,0.4118247,thq,misc,0,2001,2000
+dreamer series shop owner,0.08,0.32797337,deep silver,simulation,0,2009,2000
+jigapix pets,0.04,0.3868312,zushi games,puzzle,0,2009,2000
+high school musical 3 senior year,1.58,0.4795431,disney interactive studios,misc,1,2008,2000
+classic dungeon fuyoku no masoujin,0.03,0.28280824,nippon ichi software,roleplaying,0,2010,2010
+crayola treasure adventures,0.47,0.50298107,ignition entertainment,puzzle,0,2007,2000
+morphx,0.05,0.18423559,505 games,shooter,0,2010,2010
+state of emergency 2,0.08,0.37498686,southpeak games,shooter,1,2006,2000
+rugby league 3,0.07,0.64835876,alternative software,sports,1,2010,2010
+tom clancys ghost recon advanced warfighter,1.93,0.8195183,ubisoft,shooter,0,2006,2000
+astro boy the video game,0.36,0.7702985,d3publisher,action,0,2009,2000
+zoids battle legends,0.15,0.4673016,tomy corporation,action,0,2003,2000
+metroid fusion,1.68,2.862102,nintendo,action,0,2002,2000
+hercules the legendary journeys,0.05,0.58551776,titus,roleplaying,0,2000,2000
+karaoke joysound wii dx,0.09,0.256384,hudson soft,misc,0,2009,2000
+qbert,1.42,0.17115729,atari,puzzle,0,1999,1990
+kengo master of bushido,0.39,0.40961158,ubisoft,fighting,0,2000,2000
+nascar 06 total team control,0.9,0.9548381,electronic arts,racing,0,2005,2000
+medabots dual kabuto  kuwagata,0.08,0.20252858,rocket company,roleplaying,0,2013,2010
+spongebob squarepants game boy advance video volume 2,0.53,0.6686524,unknown,misc,1,2004,2000
+pro yakyuu famista ds 2009,0.1,0.2320647,namco bandai games,sports,0,2009,2000
+teenage mutant ninja turtles mutants in manhattan,0.18,2.8729813,activision,action,0,2016,2010
+the idolmster live for you,0.07,0.3644687,namco bandai games,misc,0,2008,2000
+get fit with mel b,0.47,0.37994373,black bean games,sports,0,2010,2010
+need for speed vrally,0.87,1.3053948,infogrames,racing,0,1997,1990
+real robots final attack,0.08,0.43164253,banpresto,shooter,0,1998,1990
+genkai totsuki moero chronicle,0.08,0.13263695,compile heart,roleplaying,0,2014,2010
+psychic detective,0.01,0.41784954,electronic arts,adventure,0,1995,1990
+sakura wars atsuki chishio ni,0.24,0.29099727,sega,roleplaying,0,2003,2000
+one piece romance dawn  bouken no yoake,0.4,0.23125763,namco bandai games,fighting,0,2012,2010
+hakuouki reimeiroku,0.05,0.108027786,idea factory,adventure,0,2010,2010
+the legend of zelda,6.51,6.644739,nintendo,action,0,1986,1980
+metal max returns,0.04,0.49468178,data east,roleplaying,0,1995,1990
+culdcept,0.19,0.20854485,nintendo,misc,0,2012,2010
+horse life adventures,0.25,0.36337277,deep silver,simulation,0,2008,2000
+dragonheart fire  steel,0.03,0.3949474,acclaim entertainment,action,0,1996,1990
+contrast,0.02,0.41859967,focus home interactive,platform,0,2013,2010
+poupee girl ds 2 elegant mint  sweet pink style,0.02,0.2030218,alvion,misc,1,2010,2010
+discworld ii mortality bytes,0.02,0.24671465,psygnosis,adventure,1,1996,1990
+sands of destruction,0.24,0.37440962,sega,roleplaying,0,2008,2000
+hannah montana,2.65,2.0709996,disney interactive studios,action,0,2006,2000
+nba live 2002,2.78,0.63793296,electronic arts,sports,0,2001,2000
+fifa soccer 13,16.16,16.264153,electronic arts,action,0,2012,2010
+the con,0.2,0.43441337,sony computer entertainment,fighting,0,2005,2000
+cartoon network collection game boy advance video special edition,0.15,0.37613344,unknown,misc,0,2005,2000
+scribblenauts,2.22,0.31710917,warner bros interactive entertainment,puzzle,0,2009,2000
+2 games in 1 spongebob squarepants supersponge  rugrats go wild,0.45,0.92587024,thq,platform,1,2005,2000
+lunar 2 eternal bluesales but wrong system,0.14,0.43441606,game arts,roleplaying,1,1994,1990
+3ds classic collection,0.03,0.37581658,sega,misc,0,2016,2010
+van helsing,0.72,1.6161463,activision,action,0,2004,2000
+kidou senshi gundam giren no yabou  axis no kyoui,0.16,0.20740221,namco bandai games,strategy,0,2008,2000
+mah jong quest expeditions,0.3,0.34808546,avanquest,puzzle,0,2007,2000
+taiko no tatsujin portable 2,0.05,0.32614276,namco bandai games,misc,1,2006,2000
+snk arcade classics vol 1,0.41,0.404768,ignition entertainment,misc,0,2008,2000
+tiny toon adventures the great beanstalk,0.31,0.6884257,sony computer entertainment,misc,0,1998,1990
+army men rts,0.18,0.2666127,3do,strategy,0,2002,2000
+spongebobs truth or square,0.3,0.75093335,thq,action,0,2009,2000
+riven the sequel to myst,2.75,0.40333444,red orb,adventure,0,1997,1990
+accel world kasoku no chouten,0.03,0.20926118,namco bandai games,adventure,0,2013,2010
+secret agent barbie royal jewels mission,0.78,0.43606567,vivendi games,platform,0,2002,2000
+monster hunter freedom,1.35,0.3868544,capcom,roleplaying,0,2005,2000
+i spy spooky mansion,0.29,0.3266117,storm city games,puzzle,0,2010,2010
+kileak the dna imperative,0.37,0.42464232,sony computer entertainment,shooter,0,1994,1990
+tim burtons the nightmare before christmas oogies revenge,0.43,0.5945034,disney interactive studios,adventure,0,2004,2000
+virtua fighter 3tb,0.37,0.3563572,sega,fighting,0,1998,1990
+marykate and ashley crush course,0.14,0.42073983,acclaim entertainment,action,0,2001,2000
+hamtaro hamhams unite,0.56,0.5115587,nintendo,roleplaying,0,2001,2000
+super bomberman 3,0.7,0.5333125,hudson soft,puzzle,1,1994,1990
+summer athletics 2009,0.04,0.38591176,49games,sports,0,2009,2000
+armored core formula front extreme battle,0.05,0.35782248,505 games,simulation,0,2004,2000
+fifa soccer 07,6.380000000000001,9.99837,electronic arts,sports,0,2006,2000
+need for speed underground 2,10.97,1.312162,electronic arts,racing,1,2004,2000
+taiko no tatsujin tatakon de dodon ga don,0.76,0.18505444,namco bandai games,misc,0,2002,2000
+tom clancys ghost recon island thunder,0.87,0.6412822,ubisoft,shooter,0,2003,2000
+capcom classics collection reloaded,0.33,0.8973026,capcom,misc,0,2006,2000
+slam dunk yonkyo taiketsu,0.27,0.4871933,namco bandai games,sports,0,1994,1990
+sega golf club miyazato san kyoudai naizou,0.01,0.32163328,sega,sports,0,2006,2000
+barbie groom and glam pups,0.66,0.36419943,thq,action,0,2010,2010
+tetris ultimate,0.01,0.771356,ubisoft,puzzle,0,2014,2010
+hercs adventures,0.04,0.37355283,virgin interactive,action,0,1997,1990
+wipeout xl,0.25,0.46015334,psygnosis,racing,0,1996,1990
+friend collection,3.67,0.8325179,nintendo,misc,0,2009,2000
+echo night,0.12,0.3381415,from software,adventure,0,1998,1990
+sonic jam,0.12,3.3807132,sega,platform,0,1997,1990
+yattaman ds bikkuridokkiri daisakusen da koron,0.12,0.19082233,takara tomy,action,0,2008,2000
+puzzle guzzle,0.02,0.4418754,dhm interactive,puzzle,0,2007,2000
+puss in boots,0.65,0.42825955,thq,action,0,2011,2010
+nascar thunder 2004,1.31,0.846763,electronic arts,racing,0,2003,2000
+syphon filter logans shadow,0.52,0.44284087,sony computer entertainment,shooter,0,2007,2000
+brigandine the legend of forsena,0.09,0.30264395,atlus,strategy,0,1998,1990
+rave master special attack force,0.01,0.29963386,konami digital entertainment,fighting,0,2002,2000
+king arthur,0.22,0.43690288,konami digital entertainment,action,0,2004,2000
+armed and dangerous,0.13,0.42825955,lucasarts,shooter,0,2003,2000
+chase hollywood stunt driver,0.12,0.27590445,bam entertainment,racing,0,2002,2000
+shonen jumps shaman king master of spirits,0.14,0.2686182,konami digital entertainment,roleplaying,0,2004,2000
+saltwater sportfishing,0.22,1.0664376,taketwo interactive,sports,0,2001,2000
+suujin taisen,0.03,0.3267731,nintendo,strategy,0,2007,2000
+i love horses riders paradise,0.02,0.28183353,destineer,simulation,0,2010,2010
+midnight club 3 dub edition remix,1.36,0.36737305,taketwo interactive,racing,1,2006,2000
+taiko no tatsujin wii ketteiban,0.39,0.2428065,namco bandai games,misc,0,2011,2010
+the lost treasures of alexandria,0.05,0.35703886,unknown,puzzle,0,2011,2010
+warioware diy,0.6,0.6431765,nintendo,misc,0,2009,2000
+wolfenstein,1.25,4.584421,activision,shooter,0,2009,2000
+kimikiss ebkore,0.06,0.16527043,enterbrain,adventure,0,2008,2000
+philosoma,0.05,0.43160594,sony computer entertainment,shooter,0,1995,1990
+super robot wars og saga masou kishin f coffin of the end,0.06,0.26042068,namco bandai games,strategy,0,2014,2010
+the king of fighters xi,0.19,0.3756339,ignition entertainment,fighting,0,2006,2000
+power pro kun pocket 6,0.3,0.31443107,konami digital entertainment,sports,1,2003,2000
+world championship poker featuring howard lederer  all in,1.73,0.43165547,oxygen interactive,misc,0,2006,2000
+wii de asobu chibirobo,0.05,0.28322077,nintendo,adventure,0,2009,2000
+lotus challenge,0.02,0.3584569,ignition entertainment,racing,0,2004,2000
+battle of giants dragons,0.63,0.4314385,ubisoft,strategy,0,2009,2000
+harvest moon ds cute us sales,0.3,0.16818316,marvelous interactive,simulation,0,2005,2000
+the mummy tomb of the dragon emperor,0.43,0.42825955,vivendi games,action,0,2008,2000
+super robot taisen mx,0.5,0.36729288,banpresto,strategy,0,2004,2000
+happy dance collection,0.01,0.42825955,namco bandai games,misc,0,2008,2000
+coderealize  sousei no himegimi,0.15,0.08473763,idea factory,adventure,0,2014,2010
+virtua tennis 2009,1.09,0.3930912,sega,sports,0,2009,2000
+the da vinci code,0.18,0.5773224,taketwo interactive,action,0,2006,2000
+professor layton and the azran legacy,0.78,0.58468574,nintendo,puzzle,0,2013,2010
+the sims 2 nightlife,1.27,1.970817,electronic arts,simulation,1,2005,2000
+pro yaky spirits 4,0.26,0.37806076,konami digital entertainment,sports,1,2007,2000
+wwf smackdown 2 know your role,3.2,1.3108927,thq,fighting,1,2000,2000
+enchanted arms,0.39,0.6140991,ubisoft,roleplaying,0,2007,2000
+army men major malfunction,0.02,0.42191243,global star,shooter,0,2006,2000
+kobe bryant in nba courtside,1.19,0.61220187,nintendo,sports,0,1998,1990
+no more heroes 2 desperate struggle,0.41,0.5478353,rising star games,action,1,2010,2010
+time crisis,1.68,0.42825955,namco bandai games,shooter,0,1997,1990
+instant brain,0.01,0.282973,cave,adventure,0,2011,2010
+ganbaru watashi no kakei diary,0.61,0.4336831,nintendo,misc,0,2007,2000
+winning post 6,0.09,0.28407192,tecmo koei,sports,1,2003,2000
+arc the lad,1.11,0.43185943,sony computer entertainment,roleplaying,0,1995,1990
+dragon ball z for kinect,0.01,0.6544422,namco bandai games,fighting,0,2012,2010
+slayers royal,0.08,0.28853086,kadokawa shoten,roleplaying,0,1998,1990
+gale racer,0.07,0.3708129,sega,racing,0,1994,1990
+tactics layer ritina guard senki,0.01,0.1953308,d3publisher,strategy,0,2009,2000
+taito legends power up,0.05,0.24107645,destineer,action,0,2007,2000
+im a celebrity get me out of here,0.21,0.27170542,mindscape,misc,0,2009,2000
+freshlypicked tingles rosy rupeeland,0.25,0.4320318,nintendo,roleplaying,0,2006,2000
+tantei jinguuji saburo hai to diamond,0.01,0.14838012,arc system works,adventure,0,2009,2000
+mr do,0.27,0.7253859,coleco,action,0,1982,1980
+sword art online lost song,0.79,0.33543098,namco bandai games,roleplaying,0,2015,2010
+gadget racers,0.08,0.4505853,midas interactive entertainment,racing,0,2000,2000
+wcw vs nwo world tour,1.69,1.298999,thq,fighting,0,1997,1990
+ford racing 2,1.15,0.40288854,empire interactive,racing,1,2003,2000
+jampack vol 2,0.53,0.7310061,sony computer entertainment,misc,1,1996,1990
+whacamole,0.09,0.2754302,zoo digital publishing,puzzle,0,2005,2000
+backyard nfl football 08,0.06,0.3714016,atari,sports,0,2007,2000
+espn international track  field,0.19,0.56095064,konami digital entertainment,sports,0,2000,2000
+motocross mania,0.79,0.59577024,taketwo interactive,racing,0,2001,2000
+rapala we fish,0.58,0.37792507,activision,sports,0,2009,2000
+virtua tennis world tour us  others sales,0.67,0.25054944,sega,sports,0,2005,2000
+wipeout in the zone,0.92,0.58672416,activision,misc,0,2011,2010
+nascar heat 2002,0.96,0.52564085,infogrames,racing,0,2001,2000
+dragon ball z budokai 2,2.68,0.94839257,atari,fighting,1,2003,2000
+cruisn usa,1.74,0.3373561,nintendo,racing,0,1996,1990
+bakugan battle trainer,0.13,0.4467156,activision,action,0,2010,2010
+beowulf the game,0.65,1.1438222,ubisoft,action,0,2007,2000
+007 quantum of solace,3.92,1.0878308,activision,action,0,2008,2000
+pro yakyuu team o tsukurou 2,0.34,0.257412,sega,sports,1,2003,2000
+gacharoku,0.03,0.35260478,sony computer entertainment,misc,0,2002,2000
+pro yakyuu greatest nine 97,0.21,0.20454025,sega,sports,0,1997,1990
+nurarihyon no mago hyakki ryouran taisen,0.02,0.22925809,konami digital entertainment,fighting,0,2011,2010
+popeye rush for spinach,0.03,0.99077153,atari,platform,0,2005,2000
+sega gt online,0.08,0.5842287,sega,racing,0,2003,2000
+sengoku otome legend battle,0.02,0.1910562,unknown,action,0,2016,2010
+classic dungeon x2,0.05,0.5441556,nippon ichi software,roleplaying,0,2011,2010
+chuugen no hasha sangoku shouseiden,0.02,0.18588635,namco bandai games,strategy,0,2006,2000
+disney art academy,0.09,0.4085334,nintendo,action,0,2016,2010
+dropcast,0.06,0.30100375,thq,puzzle,0,2008,2000
+spectrobes,0.75,0.37481546,disney interactive studios,roleplaying,0,2007,2000
+fading shadows,0.04,0.43893772,ivolgamus,puzzle,0,2008,2000
+despicable me the game  minion mayhem,0.54,0.40065038,d3publisher,puzzle,0,2010,2010
+blood bowl legendary edition,0.02,0.3510883,focus home interactive,sports,0,2010,2010
+big air,0.19,0.44034898,accolade,sports,0,1999,1990
+i am in the movie,0.14,0.35972065,namco bandai games,simulation,0,2012,2010
+mystic heroes,0.15,0.36065537,tecmo koei,action,0,2002,2000
+kuukan  zukei hirameki training  kuutore,0.06,0.24660142,benesse,misc,0,2008,2000
+pachipara 3d ooumi monogatari 2  pachi pro fuuunroku hana,0.02,0.17971912,irem software engineering,action,1,2012,2010
+onechanbara z kagura,0.06,0.2686057,d3publisher,action,0,2013,2010
+super mario galaxy 2,7.69,4.600888,nintendo,platform,1,2010,2010
+fatal fury,0.39,0.9448408,takara,fighting,0,1992,1990
+imagine teacher,1.72,0.39479846,ubisoft,simulation,0,2008,2000
+wild arms 4,0.14,1.3051307,505 games,roleplaying,1,2005,2000
+reel fishing paradise 3d,0.19,0.28689733,marvelous interactive,sports,0,2011,2010
+alias carnival sacrament,0.03,0.20559591,dramatic create,adventure,0,2015,2010
+wsc real 09 world snooker championship,0.02,0.37228101,deep silver,sports,0,2009,2000
+imagine babyz fashion,0.2,0.35638574,ubisoft,simulation,0,2009,2000
+killing zone,0.06,0.4314403,acclaim entertainment,fighting,0,1996,1990
+kamaitachi no yoru,0.81,0.27199292,chunsoft,adventure,0,1994,1990
+street fighter ii special champion edition jp weekly sales,0.07,0.22649714,capcom,action,1,1993,1990
+dynasty warriors 4,2.27,0.8817117,tecmo koei,action,1,2003,2000
+unison rebels of rhythm  dance,0.04,0.35109442,tecmo koei,misc,0,2000,2000
+mega man x7,0.58,0.5562148,capcom,action,0,2003,2000
+zenkoku dekotora matsuri,0.03,0.2548326,jaleco,racing,0,2008,2000
+vrally 3,0.13,0.3578144,atari,racing,1,2002,2000
+army men air combat,0.24,0.28773487,3do,action,0,2000,2000
+tak mojo mistake,0.17,0.4283992,thq,action,0,2008,2000
+twisted metal iii,1.73,2.3329587,989 studios,action,1,1998,1990
+colin mcrae rally 3,1.44,0.5118384,codemasters,racing,1,2002,2000
+warcraft ii the dark saga,0.31,1.1009198,electronic arts,strategy,1,1997,1990
+junjou romanchika koi no doki doki daisakusen,0.01,0.14940977,marvelous interactive,adventure,0,2008,2000
+quiz magic academy ds futatsu no jikuu koku,0.09,0.1967675,konami digital entertainment,misc,0,2010,2010
+bioshock,4.69,1.6863133,taketwo interactive,shooter,0,2007,2000
+learn science,0.05,0.32228833,dreamcatcher interactive,misc,0,2010,2010
+ghost rider,0.24,1.9804243,taketwo interactive,action,0,2007,2000
+dream club zero portable,0.03,0.2827884,d3publisher,simulation,0,2011,2010
+demolition company gold edition,0.02,0.25387567,unknown,simulation,0,2011,2010
+tekken,3.24,2.0274353,sony computer entertainment,fighting,0,1995,1990
+microsoft flight simulator x acceleration expansion pack,0.05,0.42841804,microsoft game studios,simulation,0,2007,2000
+new super mario bros wii,28.62,3.075672,nintendo,platform,0,2009,2000
+romance of the three kingdoms iii dragon of destiny,0.29,0.39972317,tecmo koei,strategy,1,1992,1990
+wipeout pulse,0.81,0.44208753,sony computer entertainment,racing,0,2009,2000
+gekido,0.1,0.2450132,infogrames,fighting,0,1999,1990
+guild 01,0.05,0.59492725,level 5,action,0,2012,2010
+otometeki koi kakumei  love revo portable,0.02,0.09549393,idea factory,adventure,0,2010,2010
+vitamin x detective b6,0.02,0.19251141,d3publisher,adventure,0,2012,2010
+fear files,0.09,1.0511403,vivendi games,shooter,0,2007,2000
+sports collection,0.08,0.42825955,ubisoft,sports,0,2010,2010
+atv offroad fury 3,1.2,0.63233787,southpeak games,racing,1,2004,2000
+2014 fifa world cup brazil,1.18,1.9853772,electronic arts,sports,0,2014,2010
+moe moe 2ji taisen ryoku  deluxe,0.02,0.20651427,system soft,adventure,0,2008,2000
+battlefield 1942,0.03,1.495154,electronic arts,shooter,0,2002,2000
+singstar apresski party 2,0.09,0.543467,sony computer entertainment,misc,1,2010,2010
+rollercoaster tycoon 2,1.25,0.71930414,atari,strategy,1,2002,2000
+otometeki koi kakumei  love revo ds,0.02,0.16033009,gungho,adventure,0,2008,2000
+true crime new york city,1.21,3.290515,activision,action,0,2005,2000
+tetris 2  bombliss,0.32,0.29975694,bps,puzzle,1,1991,1990
+hot shots golf open tee 2,0.68,0.4445113,sony computer entertainment,sports,1,2007,2000
+durarara 3way standoff,0.05,0.30768472,ascii media works,adventure,0,2010,2010
+lagoon,0.05,0.37692302,kemco,roleplaying,0,1991,1990
+fantasia music evolved,0.22,0.5743809,disney interactive studios,misc,0,2014,2010
+dragon quest heroes ii twin kings and the prophecys end,0.64,0.43133098,square enix,action,1,2016,2010
+jikkyou powerful pro yakyuu 5,0.27,0.24478984,konami digital entertainment,sports,1,1998,1990
+hamtaro hamham heartbreak,0.36,0.37096202,nintendo,action,0,2002,2000
+tao feng fist of the lotus,0.27,0.56450504,microsoft game studios,fighting,0,2003,2000
+facebreaker ko party,0.22,0.4315827,electronic arts,fighting,0,2008,2000
+beyond the beyond,0.57,0.70316356,sony computer entertainment,roleplaying,0,1995,1990
+the beatles rock band,4.18,1.6467625,mtv games,misc,0,2009,2000
+the sly collection,0.69,0.9581455,sony computer entertainment,platform,0,2010,2010
+xmen vs street fighter,0.6799999999999999,1.1344514,capcom,fighting,0,1997,1990
+custom robo,0.37,0.4530005,nintendo,roleplaying,0,2004,2000
+lets dance with mel b,0.08,0.8618647,black bean games,sports,0,2011,2010
+gauntlet dark legacy,1.5,0.5745285,midway games,action,0,2001,2000
+yuu yuu hakusho,0.36,0.29004902,namco bandai games,fighting,0,1993,1990
+gears of war ultimate edition,3.0,0.50233155,microsoft game studios,shooter,0,2015,2010
+hard hitter tennis,0.3,0.37519228,midas interactive entertainment,sports,0,2001,2000
+to heart,0.14,0.37087262,aqua plus,adventure,0,1999,1990
+pretty rhythm rainbow live kira kira my  design,0.08,0.27529377,takara tomy,misc,0,2013,2010
+ore no imouto ga konna ni kawaii wake ga nai happy end,0.04,0.20885064,namco bandai games,simulation,0,2013,2010
+sacred blaze,0.04,0.40450191,flightplan,strategy,0,2009,2000
+in the groove,0.07,1.376131,redoctane,misc,0,2005,2000
+clannad mitsumi mamoru sakamichi de  gekan,0.03,0.0761856,prototype,adventure,0,2010,2010
+desire,0.14,0.440117,imadio,adventure,0,1997,1990
+crush3d,0.12,0.4171735,sega,platform,0,2012,2010
+mushroom men rise of the fungi,0.11,0.2313686,southpeak games,action,0,2008,2000
+blazblue chrono phantasma extend,0.31,0.2657777,pqube,action,0,2015,2010
+tabi no yubisashi kaiwachou ds ds series 5 deutsch,0.04,0.41805607,nintendo,misc,1,2006,2000
+metal slug 4  5,0.15,0.49825835,snk playmore,shooter,1,2005,2000
+nba live 98,1.51,0.8222504,electronic arts,sports,0,1997,1990
+offworld interceptor extreme,0.17,0.4467069,crystal dynamics,racing,0,1995,1990
+shaun white snowboarding world stage,0.31,0.57527125,ubisoft,sports,0,2009,2000
+pokmon for hooh the bells toll game boy advance video,0.13,1.3078643,nintendo,misc,0,2004,2000
+golden sun dark dawn,0.84,0.5119752,nintendo,roleplaying,0,2010,2010
+forza motorsport 4,4.64,4.1617646,microsoft game studios,racing,1,2011,2010
+mx vs atv supercross encore,0.08,0.48552614,nordic games,sports,0,2015,2010
+imagine figure skater us sales,0.47,0.6232386,ubisoft,sports,0,2007,2000
+agile warrior f111x,0.14,0.4105587,virgin interactive,simulation,0,1995,1990
+ninokuni shikkoku no madoushi,0.54,0.31166708,level 5,roleplaying,0,2010,2010
+age of empires the age of kings,0.23,0.43184423,thq,strategy,0,2006,2000
+hatsune miku project diva f 2nd,0.65,0.18484989,sega,misc,0,2014,2010
+shin koihime musou otome ryouran  sangokushi engi  weihen,0.03,0.15579048,yeti,adventure,0,2010,2010
+singstar singalong with disney,0.61,0.42668533,sony computer entertainment,misc,0,2008,2000
+ben 10 triple pack,0.27,0.32001197,d3publisher,misc,0,2011,2010
+the bible game,0.37,0.4059981,crave entertainment,misc,0,2005,2000
+history great empires rome,0.06,0.42824835,black bean games,strategy,0,2009,2000
+cybertiger,0.6499999999999999,0.75486267,electronic arts,sports,0,1998,1990
+deception iv blood ties,0.26,0.46516114,tecmo koei,action,1,2014,2010
+system flaw,0.1,0.48406315,enjoy gaming ltd,shooter,0,2009,2000
+dead space extraction,0.48,2.99337,electronic arts,shooter,0,2009,2000
+hackquarantine part 4 the final chapter,0.18,0.33586466,atari,roleplaying,1,2003,2000
+daigasso band brothers,0.19,0.7781296,nintendo,misc,0,2004,2000
+croc 2,0.73,0.9654734,fox interactive,platform,1,1999,1990
+cities skylines snowfall,0.01,0.29606837,paradox development,simulation,0,2016,2010
+shinseiki evangelion koutetsu no girlfriend,0.22,0.3216778,gainax network systems,adventure,0,1998,1990
+downtown no gaki no tsukai yaarahen de zettai ni tsukamatte haikenai gasu kurobikari land,0.05,0.33314165,alchemist,action,0,2015,2010
+minna de jibun no setsumeisho bkata akata abkata okata,0.04,0.20995739,gungho,misc,0,2008,2000
+kilari nasan mon meilleur ami,0.12,0.21189857,konami digital entertainment,simulation,0,2006,2000
+dragon ball z the legacy of goku i  ii,0.08,2.0319462,atari,roleplaying,1,2005,2000
+chessmaster ii,0.15,0.37906277,mindscape,strategy,1,1998,1990
+pro evolution soccer 2008,8.47,1.0734568,konami digital entertainment,sports,0,2007,2000
+lethal skies ii,0.16,0.4408124,sammy corporation,simulation,1,2003,2000
+mega man battle network 5 double team ds jp sales,0.11,0.41204816,nintendo,roleplaying,1,2005,2000
+voodoo vince,0.12,0.54327935,microsoft game studios,platform,0,2003,2000
+tomba,0.26,0.460872,sony computer entertainment,platform,0,1997,1990
+pimp my ride street racing,0.11,0.7451942,activision,racing,0,2009,2000
+world cup of pool,0.06,0.37628448,midas interactive entertainment,sports,0,2009,2000
+gangs of london,0.96,0.6110076,sony computer entertainment,adventure,0,2006,2000
+exist archive the other side of the sky,0.07,0.6016144,aksys games,roleplaying,0,2015,2010
+nippon daihyou team no kantoku ni narou sekaihatsu soccer rpg,0.12,0.3212601,sega,sports,0,1998,1990
+gpolice weapons of justice,0.06,0.30674276,psygnosis,action,0,1999,1990
+dinosaur king,0.23,0.43817228,sega,strategy,0,2007,2000
+carnage heart exa,0.02,0.21546535,artdink,strategy,0,2010,2010
+nfl head coach 09,0.25,0.7410822,electronic arts,sports,0,2008,2000
+kirarin  revolution minna de odorou furi furi debut,0.06,0.1952772,konami digital entertainment,simulation,0,2008,2000
+espn nfl 2k5,4.25,0.43050224,sega,sports,0,2004,2000
+jampack volume 13 rpm,0.44,0.36793357,sony computer entertainment,misc,0,2005,2000
+kirbys pinball land,2.19,1.1122606,nintendo,misc,0,1992,1990
+dream salon,0.24,0.38621017,zoo digital publishing,misc,0,2009,2000
+scarface money power respect,0.16,0.36310765,vivendi games,strategy,0,2006,2000
+senran kagura 2 deep crimson,0.21,0.36576307,marvelous entertainment,action,1,2014,2010
+crash bandicoot 3 warped,7.13,1.3470525,sony computer entertainment,platform,1,1998,1990
+army men world war land sea air,0.3,0.30300897,3do,action,0,2000,2000
+monster hunter diary poka poka airou village dx,0.14,0.6467152,capcom,action,0,2015,2010
+imagine party babyz,0.39,0.39024287,ubisoft,simulation,0,2008,2000
+ballistic ecks vs sever,0.1,1.5169569,bam entertainment,shooter,0,2002,2000
+hanjuku eiyuu tai 3d,0.17,0.31487095,square enix,roleplaying,0,2003,2000
+3d dot game heroes,0.57,0.3862998,southpeak games,roleplaying,0,2009,2000
+shin megami tensei iv,0.57,0.3531403,atlus,roleplaying,1,2013,2010
+shin sangoku musou online kamishou ranbu,0.03,0.18547368,tecmo koei,action,0,2010,2010
+from the abyss,0.06,0.41221672,nobilis,roleplaying,0,2008,2000
+tales of the world radiant mythology 2,0.33,0.37880188,namco bandai games,roleplaying,1,2009,2000
+command  conquer tiberian sun,1.55,0.29432648,westwood studios,strategy,0,1999,1990
+praetorians,0.04,0.42825955,eidos interactive,strategy,0,2003,2000
+summon night x tears crown,0.05,0.25184152,namco bandai games,roleplaying,0,2009,2000
+otome wa oanesama boku ni koi shiteru portable,0.02,0.11139497,alchemist,adventure,0,2010,2010
+theme hospital,2.49,0.3576818,electronic arts,strategy,0,1997,1990
+dinotopia the sunstone odyssey,0.01,0.4318586,tdk mediactive,action,0,2003,2000
+battlestations pacific,0.36,0.19626848,eidos interactive,strategy,0,2009,2000
+blue dragon,0.92,2.13039,microsoft game studios,roleplaying,0,2006,2000
+croc legend of the gobbos,3.56,0.4275242,fox interactive,platform,0,1997,1990
+rapala tournament fishing,0.5900000000000001,0.37200323,activision,sports,0,2006,2000
+tiger  bunny heros day,0.02,0.32885453,d3publisher,action,0,2013,2010
+pachinko kamen rider shocker zenmetsu daisakusen,0.03,0.44076735,hackberry,misc,0,2008,2000
+tetris worlds,4.01,0.43321115,thq,puzzle,0,2002,2000
+hamster heroes,0.16,0.35709423,popcorn arcade,puzzle,0,2008,2000
+pro yaky spirits 2010,0.55,0.36177808,konami digital entertainment,sports,0,2010,2010
+fighting force 2,0.55,0.74793446,eidos interactive,action,1,1999,1990
+robin hood defender of the crown,0.22,0.44640827,capcom,strategy,0,2003,2000
+discworld,0.06,0.5184281,psygnosis,adventure,0,1994,1990
+earth defense force 2 invaders from planet space,0.25,0.3869164,d3publisher,action,1,2011,2010
+lunar legend,0.19,0.4453932,media rings,roleplaying,0,2002,2000
+suzumiya haruhi no yakusoku,0.15,0.21300405,namco bandai games,adventure,0,2007,2000
+super meat boy ultra edition,0.03,0.3348317,unknown,platform,0,2011,2010
+world of warcraft the burning crusade,4.09,2.3735325,activision,roleplaying,0,2007,2000
+power pro kun pocket 4,0.29,0.34917268,konami digital entertainment,sports,1,2002,2000
+final fantasy anthology,0.8,0.735839,square ea,roleplaying,0,1999,1990
+rosco mcqueen firefighter extreme,0.09,0.513463,sony computer entertainment,action,0,1997,1990
+igor the game,0.14,0.29110807,cdv software entertainment,adventure,0,2008,2000
+lord of arcana,0.31,0.8452803,square enix,roleplaying,0,2010,2010
+zero no tsukaima muma ga tsumugu yokaze no nocturne,0.02,0.19600527,marvelous interactive,adventure,0,2007,2000
+final fantasy xii revenant wings,1.39,0.6088547,square enix,roleplaying,0,2007,2000
+zaidan houjin nippon kanji nouryoku kentei kyoukai kounin kanken ds3 deluxe,0.06,0.20363203,rocket company,misc,0,2009,2000
+meiq no chika ni shisu a maze to eradicate them all,0.03,0.19128855,idea factory,roleplaying,0,2015,2010
+no more heroes heroes paradise,0.22,2.3114223,konami digital entertainment,action,0,2010,2010
+ace attorney investigations 2,0.26,0.32630008,capcom,adventure,1,2011,2010
+summon night exthesis yoake no tsubasa,0.16,0.30081436,banpresto,roleplaying,0,2005,2000
+murakumo renegade mech pursuit,0.11,0.3496763,from software,shooter,0,2002,2000
+gunpey,0.06,0.3348975,atari,puzzle,0,2006,2000
+spore galactic adventures,0.01,0.33644807,electronic arts,strategy,0,2009,2000
+phantom kingdom portable,0.04,0.4620815,nippon ichi software,roleplaying,0,2011,2010
+megatagmension blanc  neptune vs zombies,0.12,0.4116106,idea factory international,action,0,2015,2010
+lost dimension,0.22,0.39809597,nippon ichi software,roleplaying,0,2014,2010
+meiji toukyou renka,0.02,0.22376473,broccoli,adventure,0,2013,2010
+rtypes,0.06,0.28309077,virgin interactive,shooter,0,1998,1990
+iron phoenix,0.02,0.429191,sega,fighting,0,2005,2000
+emergency room real life rescues,0.04,0.42825955,505 games,simulation,0,2009,2000
+gochuumon wa usagi desu ka wonderful party,0.02,0.14082977,5pb,adventure,0,2016,2010
+eiyuu densetsu sora no kiseki material collection portable,0.01,0.12041338,falcom corporation,roleplaying,0,2007,2000
+the witch and the hundred knight,0.28,0.44040483,nippon ichi software,roleplaying,0,2013,2010
+suikoden tsumugareshi hyakunen no toki,0.13,0.239895,konami digital entertainment,roleplaying,0,2012,2010
+valkyrie profile covenant of the plume,0.42,0.31009796,square enix,roleplaying,0,2008,2000
+snk vs capcom card fighters ds,0.1,0.41903722,ignition entertainment,strategy,0,2006,2000
+socom us navy seals combined assault,2.04,2.075008,sony computer entertainment,shooter,0,2006,2000
+amnesia world,0.03,0.23409998,idea factory,adventure,0,2014,2010
+fifa soccer 2002,0.96,3.7451854,electronic arts,sports,0,2001,2000
+yarudora series vol 2 kisetsu wo dakishimete,0.21,0.22983387,sony computer entertainment,adventure,1,1998,1990
+jleague winning eleven 2010 club championship,0.05,0.2695595,konami digital entertainment,sports,0,2010,2010
+lego batman the videogame,9.18,1.2760838,warner bros interactive entertainment,action,0,2008,2000
+turbo prop racing,0.15,0.45198786,sony computer entertainment,racing,0,1997,1990
+golden nugget casino,0.25,0.26283753,majesco entertainment,misc,0,2004,2000
+kuryuu youma gakuenki recharge,0.03,0.1399206,atlus,adventure,0,2006,2000
+soul reaver 2,0.55,0.84872854,eidos interactive,action,1,2001,2000
+high school musical 3 senior year dance,1.85,0.45649993,disney interactive studios,misc,1,2008,2000
+romance of the three kingdoms ix,0.07,0.3087849,tecmo koei,strategy,0,2003,2000
+small soldiers,0.61,0.46673042,electronic arts,platform,0,1998,1990
+hybrid heaven,0.25,0.43920565,konami digital entertainment,roleplaying,0,1999,1990
+ano hi mita hana no namae o bokutachi wa mada shiranai,0.02,0.14677821,5pb,action,0,2012,2010
+yoshi touch  go jp sales,0.22,0.4667812,nintendo,platform,0,2005,2000
+petz hamsterz bunch,0.07,0.34163833,ubisoft,simulation,0,2009,2000
+the wild thornberrys animal adventures,0.17,0.26860312,mattel interactive,adventure,0,2000,2000
+zwei,0.02,0.27267343,falcom corporation,roleplaying,0,2008,2000
+samurai warriors 3,0.45,3.6038616,nintendo,action,1,2009,2000
+percy jackson and the olympians the lightning thief,0.25,2.5399785,activision,roleplaying,0,2010,2010
+101in1 sports party megamix,0.03,0.22354606,nordcurrent,sports,0,2010,2010
+lips party classics,0.18,0.3681448,microsoft game studios,misc,0,2010,2010
+sigma star saga,0.05,0.43853098,atari,roleplaying,0,2005,2000
+future cop lapd,0.3,0.4763735,electronic arts,simulation,0,1997,1990
+dead rising,2.11,0.6740475,capcom,action,0,2006,2000
+crazy chicken star karts,0.03,0.4317829,phenomedia,racing,0,2008,2000
+atari anniversary advance,0.18,0.7046663,atari,misc,0,2002,2000
+espn xgames pro boarder,0.32,0.4464674,sony computer entertainment,sports,0,1997,1990
+rage racer,1.17,1.0226128,sony computer entertainment,racing,0,1996,1990
+triple crown championship snowboarding,0.02,0.36317182,destineer,sports,0,2010,2010
+tecmo super bowl,0.12,0.5673792,tecmo koei,sports,0,1996,1990
+gudetama hanjuku de tanomuwa,0.03,0.2652692,rocket company,action,0,2015,2010
+nba hoopz,0.31,0.59521973,midway games,sports,0,2001,2000
+disney infinity 20 marvel super heroes,3.95,1.2385052,disney interactive studios,action,0,2014,2010
+kaitou rousseau,0.01,0.2817526,namco bandai games,action,0,2006,2000
+chuck e cheeses super collection,0.02,0.42185694,ufo interactive,action,0,2011,2010
+viva pinata trouble in paradise,0.48,0.55251104,microsoft game studios,simulation,0,2008,2000
+mlb inside pitch 2003,0.12,0.8212546,microsoft game studios,sports,0,2003,2000
+sonic adventure 2 battle,2.56,0.64496005,sega,platform,1,2001,2000
+caesars palace 2000 millennium gold edition,0.77,0.4385373,interplay,misc,0,2000,2000
+baroque,0.21,0.26246682,rising star games,roleplaying,0,2007,2000
+spongebob squarepants supersponge,2.33,0.75569844,thq,action,0,2001,2000
+madden nfl 99,2.64,2.1223993,electronic arts,sports,0,1998,1990
+jet force gemini,1.16,0.7267382,nintendo,shooter,0,1999,1990
+natsuiro no sunadokei,0.02,0.19387186,princess soft,adventure,0,2002,2000
+race pro,0.18,0.37795413,atari,racing,0,2009,2000
+master of the monster lair,0.11,0.3966568,rising star games,roleplaying,0,2007,2000
+field commander,0.16,0.31727844,sony online entertainment,strategy,0,2006,2000
+alvin and the chipmunks,0.27,0.9951414,brash entertainment,misc,0,2007,2000
+tycoon city new york,0.02,0.3650229,atari,strategy,0,2006,2000
+phantasy star online 2 episode 3 deluxe package,0.03,0.2780542,sega,action,1,2015,2010
+doraemon 3 nobi dai no machi sos,0.15,0.3341661,epoch,platform,1,2000,2000
+boboboubo boubobo ougi 875 bakuretsu hanage shinken,0.03,0.22980957,hudson soft,action,0,2002,2000
+homefront,2.61,0.7616836,thq,shooter,0,2011,2010
+just cause 2,3.53,0.45576674,square enix,action,1,2010,2010
+ds nishimura kyotaro suspense shin tantei series kyoto atami zekkai no kotou  satsui no wana,0.22,0.104707256,tecmo koei,adventure,0,2007,2000
+jikkyou powerful pro yakyuu portable,0.15,0.1971213,konami digital entertainment,sports,0,2006,2000
+ready 2 rumble revolution,0.16,0.35656446,atari,sports,1,2009,2000
+donkey kong classics,1.56,3.9553947,nintendo,platform,0,1988,1980
+harry potter and the deathly hallows  part 2,1.37,2.369245,electronic arts,action,1,2011,2010
+atrain,0.08,0.26422,sony computer entertainment,simulation,0,1995,1990
+final fight,1.56,0.45630753,capcom,action,0,1990,1990
+final fight one,0.21,0.5096423,ubisoft,fighting,0,2001,2000
+fish tycoon,0.27,0.410914,majesco entertainment,simulation,0,2007,2000
+wizardry llylgamyn saga,0.07,0.44047737,locus,roleplaying,0,1998,1990
+hitotsu tobashi renai v,0.01,0.13064803,kaga create,adventure,1,2015,2010
+tringo,0.01,0.57337177,liquid games,puzzle,0,2006,2000
+metal slug xx,0.04,1.8804814,dhm interactive,shooter,0,2009,2000
+total overdose a gunslingers tale in mexico,0.11,0.4672621,eidos interactive,shooter,0,2005,2000
+speed punks,0.2,0.5302538,sony computer entertainment,racing,0,1998,1990
+mount  blade,0.02,0.27042848,paradox interactive,roleplaying,0,2008,2000
+alpha protocol,0.87,1.2119108,sega,roleplaying,0,2010,2010
+elvandia story,0.02,0.31680357,spike,roleplaying,0,2007,2000
+mobile suit gundam ms sensen 0079,0.11,0.24058442,namco bandai games,simulation,0,2007,2000
+excite truck,0.54,0.6796996,nintendo,racing,0,2006,2000
+nintendogs,24.76,14.524964,nintendo,simulation,0,2005,2000
+batman forever the arcade game,0.03,1.1883351,acclaim entertainment,action,0,1996,1990
+crimson sea,0.09,0.24282183,tecmo koei,action,0,2002,2000
+kinnikuman muscle grand prix max 2 tokumori,0.07,0.3858397,namco bandai games,fighting,1,2008,2000
+star driver kagayaki no takuto  ginga bishounen densetsu,0.05,0.23819712,namco bandai games,adventure,0,2011,2010
+izuna 2 the unemployed ninja returns,0.06,0.5998727,success,roleplaying,1,2007,2000
+beyblade metal masters,0.28,0.35274333,konami digital entertainment,action,0,2010,2010
+aikatsu 365 idol days,0.13,0.2394554,namco bandai games,adventure,0,2014,2010
+hamster club 3,0.36,0.42949992,jorudan,simulation,1,2002,2000
+major league baseball 2k6,1.31,0.7152302,spike,sports,0,2006,2000
+imagine animal doctor,1.05,0.58697295,ubisoft,simulation,0,2007,2000
+uncharted 4 a thiefs end,4.2,6.969042,sony computer entertainment,shooter,1,2016,2010
+akatsuki no amaneka to aoi kyojin,0.01,0.19417399,cyberfront,strategy,0,2010,2010
+virtual soccer,0.53,0.42308992,hudson soft,sports,0,1993,1990
+family fest presents circus games,0.44,0.45540822,ubisoft,misc,0,2008,2000
+elkrone no atelier dear for otomate,0.02,0.112050876,idea factory,action,0,2012,2010
+sengoku basara samurai heroes,0.95,0.5526122,capcom,action,0,2010,2010
+tom and jerry in war of the whiskers,0.33,0.75044334,ubisoft,fighting,0,2002,2000
+taiko no tatsujin atsumete tomodachi daisakusen,0.06,0.21862565,namco bandai games,misc,0,2015,2010
+scaler,0.1699999999999999,0.64877486,taketwo interactive,platform,0,2004,2000
+vampire legends power of three,0.07,0.35760954,thq,adventure,0,2010,2010
+hakuouki zuisouroku portable,0.09,0.08386561,idea factory,adventure,0,2010,2010
+culdcept saga,0.16,0.23696789,namco bandai games,roleplaying,0,2006,2000
+battlefield vietnam,0.03,9.644883,electronic arts,shooter,0,2004,2000
+memories off yubikiri no kioku,0.02,0.15357478,5pb,adventure,0,2010,2010
+the book of unwritten tales 2,0.08,0.34668085,nordic games,adventure,1,2015,2010
+festa hyper girls party,0.01,0.3714785,kid,adventure,0,2006,2000
+thrillville off the rails,1.18,0.43167025,lucasarts,strategy,0,2007,2000
+test drive eve of destruction,0.32,0.43026704,atari,racing,0,2004,2000
+unreal tournament iii,1.2,3.3414211,midway games,shooter,1,2007,2000
+sd gundam g generation overworld,0.31,0.2785579,namco bandai games,strategy,0,2012,2010
+thats so raven psychic on the scene,0.24,0.10593608,disney interactive studios,adventure,0,2006,2000
+zhuzhu pets 2 featuring the wild bunch,0.55,0.41539317,activision,simulation,1,2010,2010
+hisshou pachinkopachislot kouryaku series ds vol 1 shinseiki evangelion  magokoro o kimi ni,0.02,0.16050681,d3publisher,misc,0,2008,2000
+the idolmaster platinum stars,0.09,0.3672769,namco bandai games,simulation,0,2016,2010
+qix,1.15,0.26110876,nintendo,puzzle,0,1990,1990
+espn nhl 2k5,1.3,0.35344535,global star,sports,0,2004,2000
+paws  claws pampered pets,0.37,0.5273464,thq,simulation,0,2009,2000
+remington super slam hunting africa,0.28,0.23981401,mastiff,sports,0,2010,2010
+extremeg,0.59,0.38607848,acclaim entertainment,racing,0,1997,1990
+nobunagas ambition sphere of influence,0.09,0.20423497,tecmo koei,strategy,0,2014,2010
+super nazo puyo ruruu no ruu,0.27,0.21386519,banpresto,puzzle,0,1995,1990
+exhibition volume 5,0.06,0.39106297,microsoft game studios,misc,1,2004,2000
+infamous 2,1.85,2.7200906,sony computer entertainment,action,1,2011,2010
+mitsukete keroro gunsou machigai sagashi daisakusen de arimasu,0.06,0.19901046,namco bandai games,action,0,2007,2000
+jewel master cradle of rome 2,0.06,0.35046452,rising star games,puzzle,1,2011,2010
+suikoden v,0.35,0.36904195,konami digital entertainment,roleplaying,1,2006,2000
+star wars rebel assault ii  the hidden empire,0.88,1.3115895,cto spa,shooter,1,1996,1990
+pro pinball big race usa,0.66,0.34823775,taketwo interactive,simulation,0,1999,1990
+dragon ball z harukanaru densetsu,0.21,0.4899031,namco bandai games,roleplaying,0,2007,2000
+higurashi no nakukoru ni kizuna daiichikan  tatari,0.07,0.1351165,alchemist,adventure,0,2008,2000
+fire emblem seisen no keifu,0.58,0.43275434,nintendo,strategy,0,1996,1990
+city builder,0.04,0.4064241,virtual play games,misc,0,2010,2010
+tennis no ojisama dokidoki survival  sanroku no mystic,0.04,0.18774354,konami digital entertainment,adventure,0,2006,2000
+dragon quest vi realms of revelation,1.81,4.616438,nintendo,roleplaying,0,2010,2010
+castlevania double pack,0.1,0.42825955,konami digital entertainment,platform,0,2006,2000
+thunder alley,0.01,0.58002144,xs games,racing,0,2004,2000
+satomi hakkenden hachi tamanoki,0.01,0.15483552,quinrose,adventure,0,2014,2010
+men in black ii alien escape,0.51,0.57873094,infogrames,shooter,1,2002,2000
+grease dance,0.24,0.42825955,505 games,misc,0,2011,2010
+zhuzhu pets quest for zhu,0.07,0.33534285,activision,misc,0,2011,2010
+rune factory tides of destiny,0.43,0.34967136,marvelous interactive,roleplaying,0,2011,2010
+the witcher enhanced edition,0.32,0.39854583,atari,roleplaying,0,2008,2000
+code of princess,0.2,0.48613894,agatsuma entertainment,action,0,2012,2010
+zillions of enemy x zetsukai no crusade,0.02,0.16494428,nippon ichi software,roleplaying,0,2013,2010
+shin chan las nuevas aventuras para wii,0.07,0.17234711,505 games,action,0,2006,2000
+boogie,0.96,0.67219657,electronic arts,misc,0,2007,2000
+castlevania iii draculas curse,0.85,0.50558794,konami digital entertainment,platform,1,1989,1980
+mana khemia alchemists of alrevis,0.06,0.3111777,nippon ichi software,roleplaying,0,2007,2000
+the heavy rain and beyond two souls collection,0.19,0.38105106,sony computer entertainment,action,0,2016,2010
+shin megami tensei persona,0.22,0.22492597,atlus,roleplaying,0,2009,2000
+marie no atelier salburg no renkinjutsushi,0.25,0.23622407,gust,roleplaying,0,1997,1990
+frank thomas big hurt baseball,0.14,0.26765418,acclaim entertainment,sports,0,1996,1990
+monster 4x4 stunt racer,0.19,0.6133411,ubisoft,racing,0,2009,2000
+cabelas trophy bucks,0.38,0.34376866,activision value,sports,0,2007,2000
+the urbz sims in the city us weekly sales,0.29,0.45627373,electronic arts,simulation,0,2004,2000
+nba courtside 2 featuring kobe bryant,0.25,0.81610155,nintendo,sports,1,1999,1990
+grandia ii,0.49,0.4402216,ubisoft,roleplaying,1,2002,2000
+super smash bros for wii u and 3ds,12.47,1.979508,nintendo,fighting,0,2014,2010
+nba live 2004,2.81,0.9594004,electronic arts,sports,0,2003,2000
+one piece gigant battle 2 shin sekai,0.35,0.26924723,namco bandai games,fighting,1,2011,2010
+dynamite headdy,0.05,0.4802118,sega,platform,0,1993,1990
+metal gear solid portable ops,1.19,0.84991,konami digital entertainment,action,0,2006,2000
+bubble bobble revolution,0.05,0.34336218,atari,puzzle,0,2005,2000
+yugioh duel monsters ii dark duel stories,1.1,0.3395142,konami digital entertainment,strategy,1,1999,1990
+the new york times crosswords,0.45,0.44018435,majesco entertainment,puzzle,0,2007,2000
+kekkaishi kokubourou no kage,0.03,0.2116758,namco bandai games,action,0,2007,2000
+star wars starfighter,1.76,0.90136576,activision,simulation,0,2001,2000
+silent hill 2,1.28,1.0069175,konami digital entertainment,action,1,2001,2000
+sly cooper and the thievius raccoonus,1.21,0.54475164,sony computer entertainment,platform,0,2002,2000
+gameboy wars,0.18,0.854883,nintendo,strategy,0,1991,1990
+gunparade orchestra ao no shou,0.01,0.22494447,sony computer entertainment,adventure,0,2006,2000
+acdc live rock band track pack,0.91,0.32910204,mtv games,misc,0,2008,2000
+army men green rogue,0.2,0.6824311,3do,action,0,2001,2000
+strike point,0.07,0.34383592,elite,simulation,0,1996,1990
+yugioh reshef of destruction,0.56,0.3238537,konami digital entertainment,strategy,0,2003,2000
+daito giken koushiki pachislot simulator shake ii,0.04,0.2987004,paon,misc,1,2007,2000
+fear 3,1.06,3.5038285,warner bros interactive entertainment,shooter,1,2011,2010
+the idolmaster gravure for you vol8,0.02,0.32989714,namco bandai games,action,0,2012,2010
+dance dance revolution universe 3,0.3,1.0228647,konami digital entertainment,simulation,1,2008,2000
+hitman contracts,1.14,0.39783186,eidos interactive,shooter,0,2004,2000
+sengoku efuda yuugi hototogisu tairan,0.03,0.1123393,irem software engineering,strategy,0,2010,2010
+brothers in arms hells highway,1.82,0.7781813,ubisoft,shooter,0,2008,2000
+rc stunt copter,0.08,0.28493845,interplay,simulation,0,1998,1990
+disneys the little mermaid ariels undersea adventure,0.81,1.02146,disney interactive studios,action,0,2006,2000
+recore,0.1,0.6198958,microsoft game studios,action,0,2016,2010
+peggle dual shot,0.12,0.26050794,popcap games,puzzle,0,2009,2000
+san francisco rush 2049,0.2,0.4450962,midway games,racing,0,2000,2000
+wizardry twin pack,0.02,0.42898452,acquire,roleplaying,0,2011,2010
+kawasaki snowmobiles,0.03,0.3532794,metro 3d,racing,0,2008,2000
+baldurs gate dark alliance ii,0.94,0.3721919,interplay,roleplaying,1,2004,2000
+world soccer winning eleven 9 jp  others sales,1.2,0.26592487,konami digital entertainment,sports,1,2005,2000
+nhl 2k9,0.5,0.70627767,taketwo interactive,sports,0,2008,2000
+gyakuten saiban 2,0.14,0.62214065,capcom,action,1,2002,2000
+007 tomorrow never dies,3.21,1.0871848,electronic arts,shooter,0,1999,1990
+winning post 8 2016,0.02,0.30941936,tecmo koei,simulation,1,2016,2010
+spanish for everyone,0.02,0.82106435,activision,puzzle,0,2007,2000
+pachislot aruze oukoku 4,0.53,0.39791942,aruze corp,misc,1,2000,2000
+super robot taisen og infinite battle,0.04,0.30922014,namco bandai games,fighting,0,2013,2010
+minna no golf jou vol1,0.03,0.26309055,sony computer entertainment,sports,0,2007,2000
+saiyuki journey west,0.05,0.20506643,tecmo koei,strategy,0,1999,1990
+spiderman 2,7.640000000000001,2.9317698,activision,action,1,2004,2000
+chrono trigger,3.78,0.38979056,squaresoft,roleplaying,0,1995,1990
+trapt,0.06,0.30562174,tecmo koei,action,0,2005,2000
+jimmy neutron boy genius,0.92,1.0422196,thq,platform,0,2001,2000
+army rescue,0.02,0.26948887,ufo interactive,shooter,0,2009,2000
+grand theft auto 2,3.42,13.551766,taketwo interactive,action,1,1998,1990
+heman power of grayskull,0.16,0.382268,tdk mediactive,action,0,2002,2000
+cabelas big game hunter ultimate challenge,0.21,1.3778164,activision value,sports,0,2001,2000
+gti club supermini festa,0.02,0.36842299,konami digital entertainment,racing,0,2010,2010
+transformers,1.29,0.631055,atari,shooter,0,2004,2000
+cooking mama world kitchen,0.88,0.688102,505 games,simulation,0,2008,2000
+mother goose no himitsu no yakata,0.03,0.2060154,quinrose,adventure,0,2011,2010
+a vampyre story,0.02,0.35772794,crimson cow,adventure,0,2008,2000
+dragon ball origins 2,0.16,2.3295183,namco bandai games,action,1,2010,2010
+taiko no tatsujin wii u version,0.19,0.28730232,namco bandai games,misc,0,2013,2010
+the revenge of shinobi,0.09,0.4429134,atari,platform,0,2002,2000
+dungeons  dragons tactics,0.1,0.5132275,atari,strategy,0,2007,2000
+lupin iii lupin ni wa shi o zenigata ni wa koi o,0.05,0.15115876,505 games,adventure,1,2007,2000
+american bass challenge,0.05,0.38920468,starfish,sports,0,2001,2000
+laigle de guerre,0.1,0.4663574,nintendo,strategy,0,2001,2000
+csi deadly intent  the hidden cases,0.35,0.40627688,ubisoft,adventure,0,2009,2000
+kaleidoeve,0.02,0.29277867,hunex,adventure,0,2015,2010
+naruto shippuden gekito ninja taisen ex 3,0.07,0.32559925,takara tomy,fighting,1,2008,2000
+sonic and the black knight,1.15,2.904935,sega,platform,0,2009,2000
+mr driller 2,0.16,0.36173928,namco bandai games,puzzle,1,2001,2000
+indycar series,0.1699999999999999,0.6694618,codemasters,racing,0,2003,2000
+majesty 2 the fantasy kingdom sim,0.02,0.3195178,paradox interactive,simulation,1,2009,2000
+pump it up exceed,0.08,0.29934102,mastiff,misc,0,2005,2000
+armored core silent line,0.31,0.39371005,agetec,simulation,0,2003,2000
+nhra drag racing countdown to the championship,0.07,0.51230466,thq,racing,0,2007,2000
+tennis no ojisama gyutto dokidoki survival  umi to yama no love passion,0.08,0.20379339,konami digital entertainment,sports,0,2011,2010
+real soccer 2008,0.04,0.41367042,ubisoft,sports,0,2007,2000
+wing commander iii heart of the tiger,0.16,1.1177369,electronic arts,action,1,1996,1990
+gran turismo,10.95,4.6653147,sony computer entertainment,racing,0,1997,1990
+ukiyo no shishi,0.03,0.20566472,namco bandai games,action,0,2015,2010
+beamrider,0.27,0.4557913,activision,racing,0,1984,1980
+funkmaster flexs digital hitz factory,0.04,0.31466675,jester interactive,misc,0,2003,2000
+armored core for answer,0.3399999999999999,1.1256199,ubisoft,simulation,0,2008,2000
+zathura,0.1399999999999999,0.44183207,taketwo interactive,adventure,0,2005,2000
+fast food,0.29,0.58942294,unknown,action,0,1981,1980
+the lord of the rings the two towers,6.65,2.1259592,electronic arts,action,0,2002,2000
+famista 92,0.28,0.40117913,namco bandai games,sports,0,1991,1990
+tom clancys  ghost recon advanced warfighter weekly jp sales,0.01,0.2485195,ubisoft,shooter,0,2006,2000
+pokmon beach blankout blastoise  go west young meowth game boy advance video,0.17,0.3514832,nintendo,misc,0,2004,2000
+family fun football,0.11,0.37477207,tecmo koei,sports,0,2009,2000
+makai senki disgaea 4 fuuka  descohen hajime mashita,0.03,0.17036347,nippon ichi software,strategy,1,2011,2010
+chuck e cheeses game room,0.13,0.4105236,ufo interactive,misc,0,2010,2010
+densetsu no stafi 3,0.24,1.2230284,nintendo,platform,1,2004,2000
+nobunaga no yabou ds,0.01,0.08905806,tecmo koei,strategy,0,2006,2000
+forbidden siren 2,0.08,1.04893,sony computer entertainment,action,1,2006,2000
+tokimeki memorial girls side 3rd story,0.19,0.2473034,konami digital entertainment,adventure,0,2010,2010
+rockstar games presents table tennis,2.03,1.2802644,taketwo interactive,sports,0,2007,2000
+pacman world,1.5,0.3988322,namco bandai games,action,0,1998,1990
+dj hero,3.06,0.60148793,activision,misc,0,2009,2000
+bustamove deluxe,0.14,0.36351255,505 games,puzzle,0,2006,2000
+syphon filter the omega strain,0.76,0.5682774,sony computer entertainment,shooter,0,2004,2000
+spy hunter 2,0.62,0.83105,midway games,racing,1,2003,2000
+ridge racer revolution,1.07,0.9958397,sony computer entertainment,racing,0,1995,1990
+mlb 99,0.86,0.4147938,sony computer entertainment,sports,0,1998,1990
+lego the lord of the rings,4.43,3.4981499,warner bros interactive entertainment,action,0,2012,2010
+rocket robot on wheels,0.12,0.42825955,ubisoft,platform,0,1999,1990
+roary the racing car,0.09,0.51139504,avanquest,misc,0,2009,2000
+xmen origins wolverine  uncaged edition,1.47,0.7885871,activision,action,0,2009,2000
+dodge racing charger vs challenger,0.15,0.7238033,zushi games,racing,0,2009,2000
+bassmasters 2000,0.14,0.43625122,thq,sports,0,1999,1990
+shining force iii scenario 2,0.05,0.4146567,sega,strategy,1,1998,1990
+urban chaos,0.1,0.44027472,eidos interactive,action,0,1999,1990
+silent hill book of memories,0.24,0.64696926,konami digital entertainment,action,0,2012,2010
+nascar 2011 the game,0.81,0.8343818,activision,racing,0,2011,2010
+advance wars,0.7,0.5520916,nintendo,strategy,0,2001,2000
+shin super robot taisen special disk,0.32,0.27002746,banpresto,strategy,0,1997,1990
+stake fortune fighters,0.02,0.313105,metro 3d,fighting,0,2003,2000
+castlevania lords of shadow,1.79,0.45261884,konami digital entertainment,action,0,2010,2010
+touch shot love application,0.03,0.29736558,compile heart,adventure,0,2012,2010
+big ideas veggietales larryboy and the bad apple,0.04,0.40622282,crave entertainment,action,0,2006,2000
+one piece pirate warriors 2,0.8099999999999999,0.3964222,namco bandai games,action,1,2013,2010
+animal crossing,3.15,0.39221805,nintendo,simulation,0,2001,2000
+neverland card battles,0.05,0.35104012,idea factory,roleplaying,0,2008,2000
+secret agent clankus sales,0.55,0.5450828,sony computer entertainment,platform,0,2008,2000
+sekirei mirai kara no okurimono,0.01,0.18198946,alchemist,adventure,0,2009,2000
+assassins creed rogue,2.49,5.927226,ubisoft,action,0,2014,2010
+ultimate i spy,0.49,0.34156442,scholastic inc,adventure,0,2008,2000
+kirbys return to dreamland,1.7,1.603738,nintendo,platform,0,2011,2010
+naruto ultimate collection,0.11,0.5462639,namco bandai games,misc,0,2008,2000
+midnight club ii,2.28,1.4167116,taketwo interactive,racing,1,2003,2000
+universal studios theme parks adventure,0.1,0.3639307,kemco,misc,0,2001,2000
+bratz forever diamondz,1.7,0.32391882,thq,adventure,0,2006,2000
+daikaijuu battle ultra coliseum dx  ultra senshi daishuuketsu,0.04,0.22531873,namco bandai games,fighting,0,2010,2010
+disney planes fire  rescue,0.19,0.46214318,disney interactive studios,action,0,2014,2010
+digger simulator,0.01,0.24644682,excalibur publishing,simulation,0,2011,2010
+sd gundam gnext,0.2,0.3369906,namco bandai games,strategy,0,1995,1990
+backyard wrestling dont try this at home,0.77,0.3281951,eidos interactive,fighting,0,2003,2000
+dragon ball z harukanaru densetsu jp sales,0.15,0.24252851,namco bandai games,roleplaying,0,2007,2000
+the king of fighters collection the orochi saga,0.39,0.48955262,ignition entertainment,fighting,0,2006,2000
+jleague winning eleven 10  europa league 0607,0.21,0.30940098,konami digital entertainment,sports,0,2006,2000
+toaru kagaku no chou denjihou,0.06,0.1288858,kadokawa shoten,adventure,0,2011,2010
+wedding dash,0.21,0.3474901,zoo games,action,0,2009,2000
+lufia curse of the sinistrals,0.16,0.3726701,square enix,roleplaying,0,2010,2010
+hatsune miku project diva,0.26,0.21828818,sega,misc,0,2009,2000
+thomas the tank engine  friends,0.19,0.21211173,unknown,adventure,0,2004,2000
+slime morimori dragon quest shougeki no shippo dan,0.37,0.27170599,square enix,adventure,0,2003,2000
+a collection of activision classic games for the atari 2600,1.37,0.48215187,activision,misc,0,1998,1990
+clock tower,0.53,0.43725365,ascii entertainment,adventure,0,1996,1990
+rock n roll adventures,0.03,0.79133534,popcorn arcade,platform,0,2007,2000
+wwe smackdown vs raw 2010,5.21,2.0936303,thq,fighting,0,2009,2000
+tokyo jungle,0.26,0.4439404,sony computer entertainment,action,0,2012,2010
+oshare majo love and berry ds collection,1.01,0.19178203,sega,misc,0,2006,2000
+pacman and the ghostly adventures,0.31,1.3135909,namco bandai games,platform,0,2013,2010
+fighter maker 2,0.07,0.808267,enterbrain,fighting,1,2002,2000
+pachislot aruze oukoku 2,0.54,0.3557837,aruze corp,misc,1,1999,1990
+the settlers iv,0.02,0.3785747,blue byte,strategy,1,2001,2000
+singstar rocks,1.1,1.1220521,sony computer entertainment,misc,0,2006,2000
+ant nation,0.07,0.28807938,konami digital entertainment,simulation,0,2009,2000
+ghostbusters the video game,3.39,2.7136192,atari,action,0,2009,2000
+minna to issho,0.02,0.34089366,sony computer entertainment,misc,0,2011,2010
+burning rangers,0.06,0.5268832,sega,platform,0,1998,1990
+ash archaic sealed heat,0.12,0.30428603,nintendo,roleplaying,0,2007,2000
+tales of destiny,1.56,0.43784684,namco bandai games,roleplaying,0,1997,1990
+gravitar,0.38,0.4343505,atari,action,0,1982,1980
+amped 3,0.16,0.67901963,taketwo interactive,sports,1,2005,2000
+cabelas dangerous hunts 2009,0.8200000000000001,0.41487277,activision value,sports,0,2008,2000
+digimon story cyber sleuth,0.28,0.39569372,namco bandai games,roleplaying,0,2015,2010
+metal gear solid the twin snakes,0.47,1.6421369,konami digital entertainment,action,0,2004,2000
+melty blood act cadenza,0.11,0.3279287,sega,fighting,0,2006,2000
+generation of chaos,0.06,0.3988046,midas interactive entertainment,roleplaying,0,2005,2000
+project cars,1.38,0.44098336,slightly mad studios,racing,0,2015,2010
+metal gear rising revengeance,1.97,0.8951281,konami digital entertainment,action,0,2013,2010
+bleach blade battlers 2nd,0.06,0.4019513,sony computer entertainment,fighting,0,2007,2000
+dragon warrior ii,2.56,1.3747436,enix corporation,roleplaying,1,1987,1980
+wild west shootout,0.02,0.49829394,unknown,shooter,0,2010,2010
+chousoku henkei gyrozetter albatross no tsubasa,0.05,0.2853693,square enix,roleplaying,0,2013,2010
+littlest pet shop friends,0.26,0.46499652,electronic arts,simulation,0,2009,2000
+pac n roll,0.11,0.5244435,namco bandai games,platform,0,2005,2000
+timesplitters future perfect,0.48,1.221222,electronic arts,shooter,0,2005,2000
+sonic adventure,2.42,0.6031468,sega,platform,0,1998,1990
+hardball 5,0.12,0.44117397,sps,sports,1,1996,1990
+buzz quiz world,0.93,0.41813487,sony computer entertainment,misc,0,2009,2000
+disciples iii renaissance,0.02,0.21055833,kalypso media,strategy,1,2010,2010
+mlb slugfest 2004,0.66,0.49226266,midway games,sports,0,2003,2000
+zubo,0.12,0.7490252,electronic arts,misc,0,2008,2000
+zhuzhu puppies,0.18,0.43540996,activision,simulation,0,2011,2010
+new play control pikmin,0.66,0.43140703,nintendo,strategy,0,2008,2000
+core,0.04,0.872342,graffiti,shooter,0,2009,2000
+ninja gaiden,1.23,2.3016286,microsoft game studios,action,0,2004,2000
+gaist crusher god,0.02,0.26126036,capcom,action,0,2014,2010
+atelier meruru alchemist of arland 3,0.3,0.24690798,nippon ichi software,roleplaying,1,2011,2010
+amnesia later,0.06,0.26976606,idea factory,misc,0,2012,2010
+safari adventures africa,0.06,0.32062832,neko entertainment,adventure,0,2007,2000
+portal runner,0.13,0.37338054,3do,platform,0,2001,2000
+pony friends,0.05,0.307264,eidos interactive,simulation,0,2007,2000
+heroes vs,0.02,0.2620135,namco bandai games,fighting,0,2013,2010
+kidou senshi gundam 00,0.08,0.20643622,namco bandai games,action,0,2008,2000
+super monkey ball,1.46,0.8161762,atari,puzzle,0,2001,2000
+espn nfl primetime 2002,0.1,0.3336473,konami digital entertainment,sports,0,2001,2000
+red dead redemption,12.94,1.3112949,taketwo interactive,action,0,2010,2010
+cosmos chaos,0.07,0.42509258,mentor interactive,misc,0,2010,2010
+locoroco,0.39,1.095841,sony computer entertainment,platform,0,2006,2000
+rallisport challenge 2,0.27,0.7698817,microsoft game studios,racing,1,2004,2000
+one piece unlimited cruise sp,0.3,0.2663052,namco bandai games,action,0,2011,2010
+little league world series baseball 2008,0.16,0.5938148,activision,sports,0,2008,2000
+cold war,0.02,0.5233252,dreamcatcher interactive,shooter,0,2005,2000
+kung zhu,0.29,0.6899117,activision,action,0,2010,2010
+ski and shoot,0.09,1.2494264,rtl,sports,0,2008,2000
+andretti racing,0.77,1.8894589,electronic arts,racing,0,1996,1990
+tournament of legends,0.07,0.59784067,sega,fighting,0,2010,2010
+call of duty world at war final fronts,1.72,2.7725635,activision,shooter,0,2008,2000
+kingdom ikkitousen no ken,0.02,0.2546018,konami digital entertainment,action,0,2010,2010
+nba jam 2000,0.13,0.655842,acclaim entertainment,sports,0,1999,1990
+everquest ii destiny of velious,0.06,0.61053866,sony online entertainment,roleplaying,1,2011,2010
+bound by flame,0.2,0.39191362,focus home interactive,roleplaying,0,2014,2010
+mace the dark age,0.19,0.56569105,gt interactive,fighting,0,1997,1990
+summer heat beach volleyball,0.28,0.29686496,acclaim entertainment,sports,0,2003,2000
+buster bros collection,0.07,0.57882047,capcom,puzzle,0,1997,1990
+nba,0.21,0.52068734,sony computer entertainment,sports,0,2005,2000
+mario golf toadstool tour,1.53,1.8713187,nintendo,sports,0,2003,2000
+galaxian,0.77,0.54892766,atari,shooter,0,1982,1980
+yaiba ninja gaiden z,0.15,0.2230025,tecmo koei,action,0,2014,2010
+destroy all humans path of the furon,0.22,0.39564624,thq,action,0,2008,2000
+lego star wars the video game,7.26,4.0722117,eidos interactive,action,0,2005,2000
+driver parallel lines,0.38,0.3167687,atari,racing,0,2006,2000
+drivers ed portable,0.05,0.25195754,jowood productions,misc,0,2008,2000
+mechassault 2 lone wolf,0.36,0.84423715,microsoft game studios,simulation,1,2004,2000
+richard burns rally,0.04,0.38937926,sci,racing,0,2004,2000
+dance dance revolution universe,0.32,0.77403533,konami digital entertainment,simulation,0,2007,2000
+mechassault phantom war,0.03,0.37824857,majesco entertainment,simulation,0,2006,2000
+mortal kombat shaolin monks,1.0,1.2539172,midway games,action,0,2005,2000
+world soccer winning eleven 8 international,3.94,0.428518,konami digital entertainment,sports,1,2004,2000
+powerdrome,0.06,0.4016807,evolved games,racing,0,2004,2000
+pro evolution soccer 2015,1.75,1.995026,konami digital entertainment,sports,0,2014,2010
+pitfall 3d beyond the jungle,0.33,0.7161129,activision,platform,0,1998,1990
+cool boarders 2,2.25,0.4315803,uep systems,sports,1,1997,1990
+fifa 2000,1.87,1.619489,electronic arts,sports,0,1998,1990
+looney tunes cartoon conductor,0.05,0.5369384,eidos interactive,misc,0,2008,2000
+geon cube,0.02,0.4303996,p2 games,puzzle,0,2009,2000
+cabelas deer hunt 2005 season,0.48,1.0478624,activision,sports,0,2004,2000
+mx world tour featuring jamie little,0.2,0.32593817,play it,racing,0,2005,2000
+bloody roar 3,0.35,0.44911003,virgin interactive,fighting,1,2001,2000
+shin sangoku musou 4 special,0.01,0.25534242,tecmo koei,action,1,2005,2000
+ninja gaiden sigma 2,0.87,2.0940835,ubisoft annecy,action,1,2009,2000
+big air freestyle,0.05,0.42825955,atari,racing,0,2002,2000
+warhawk,1.52,0.58383894,sony computer entertainment,simulation,0,2007,2000
+sonic  sega allstars racing with banjokazooie,0.8,0.5867407,sega,racing,0,2010,2010
+jikkyou powerful pro yakyuu 98 kaimakuban,0.59,0.2042606,konami digital entertainment,sports,0,1998,1990
+twisted metal 4,1.28,1.9609166,989 studios,racing,1,1999,1990
+tom clancys splinter cell essentials,0.2,0.5016362,ubisoft,shooter,0,2006,2000
+fatal fury battle archives volume 2,0.07,0.3533591,snk playmore,fighting,1,2007,2000
+gekka ryouran romance,0.02,0.10984331,idea factory,adventure,0,2011,2010
+juggler ds,0.01,0.37335676,commseed,misc,0,2008,2000
+bad boys miami takedown,1.38,0.95069826,empire interactive,shooter,0,2004,2000
+doko demo issho,0.1,0.33127356,sony computer entertainment,misc,0,2004,2000
+gran turismo 2,9.49,4.550141,sony computer entertainment,racing,1,1999,1990
+shonen jumps shaman king legacy of the spirits  soaring hawksprinting wolf,0.06,0.21796928,konami digital entertainment,action,0,2005,2000
+destroy all humans big willy unleashed,0.14,0.41063863,thq,action,0,2008,2000
+darkstalkers 3,0.19,0.9102198,capcom,fighting,1,1998,1990
+break em all,0.12,0.31074363,d3publisher,puzzle,0,2005,2000
+metal gear solid,6.1000000000000005,3.4161274,konami digital entertainment,action,0,1998,1990
+nba showtime nba on nbc,0.8,0.5198051,midway games,sports,0,1999,1990
+winback covert operations,0.5,0.9995074,midas interactive entertainment,shooter,0,2000,2000
+sora no otoshimono dokidoki summer vacation,0.01,0.21373919,kadokawa shoten,adventure,0,2010,2010
+jake power handyman,0.07,0.29155225,ubisoft,adventure,0,2008,2000
+dance central,3.19,0.3775757,mtv games,misc,0,2010,2010
+yugioh gx spirit caller japan sales,0.05,0.20223533,konami digital entertainment,misc,0,2006,2000
+dance dance revolution mario mix jp sales,0.06,0.5204357,nintendo,simulation,0,2005,2000
+hisshou pachinkopachislot kouryaku series portable vol 1 shinseiki evangelion  tamashii no kiseki,0.06,0.1389459,d3publisher,misc,0,2010,2010
+gt advance championship racing,0.33,0.5013177,thq,racing,0,2001,2000
+the evil within,4.15,0.47853082,bethesda softworks,action,0,2014,2010
+guess the logos,0.02,0.45521772,sega,puzzle,0,2004,2000
+wildstar,0.17,1.3614029,ncsoft,roleplaying,0,2014,2010
+the legend of zelda the minish cap,1.42,2.6133494,nintendo,action,0,2004,2000
+squinkies 2 adventure mall surprize,0.1,0.43120074,activision,platform,1,2011,2010
+yoshi touch  go,0.39,0.93195236,nintendo,platform,0,2005,2000
+the night of the rabbit,0.04,0.42924303,daedalic entertainment,adventure,0,2013,2010
+tenchi muyou ryoukouki gokuraku,0.06,0.24949577,yumedia,adventure,0,1995,1990
+crysis,0.72,2.7366428,electronic arts,shooter,0,2007,2000
+petz dogz talent show,0.15,0.5127165,ubisoft,simulation,0,2009,2000
+toki no kizuna sekigahara kitan,0.04,0.07312305,idea factory,action,0,2012,2010
+ninja blade,0.33,2.3678892,microsoft game studios,action,0,2009,2000
+franklin the turtle,0.03,0.33690506,game factory,misc,0,2005,2000
+sengoku musou 3 z special,0.04,0.24470088,ackkstudios,action,1,2012,2010
+a collection of classic games from the intellivision,0.31,0.4322163,activision,misc,0,1999,1990
+stuart little 2,0.46,0.43316752,activision,platform,1,2002,2000
+yugioh 5ds stardust accelerator world championship 2009,0.4,0.24177268,konami digital entertainment,action,0,2009,2000
+kirby triple deluxe,1.82,0.4864527,nintendo,platform,0,2014,2010
+antz extreme racing,0.06,0.37072253,empire interactive,racing,0,2002,2000
+marvel super hero squad the infinity gauntlet,0.93,0.7992253,thq,action,0,2010,2010
+dance dance revolution hottest party 5,0.03,0.5778953,konami digital entertainment,misc,1,2011,2010
+uta no princesama all star after secret,0.08,0.15617383,broccoli,action,0,2015,2010
+outlaw golf,0.37,0.44029617,tdk mediactive,sports,0,2002,2000
+rebelstar tactical command,0.05,0.30906826,atari,strategy,0,2005,2000
+power rangers double pack,0.16,0.67675173,thq,action,0,2005,2000
+hitman hd trilogy,0.4,0.33005172,square enix,action,0,2013,2010
+tenchu san portable,0.01,0.25609252,from software,action,0,2009,2000
+frogger ancient shadow,0.18,0.38857841,konami digital entertainment,platform,0,2005,2000
+simcity ds,0.61,0.8650596,electronic arts,simulation,0,2007,2000
+glory of heracles,0.3,0.4923767,nintendo,roleplaying,0,2008,2000
+assault,0.22,0.5162046,bomb,action,0,1982,1980
+blacksite area 51,0.6599999999999999,0.65008247,midway games,shooter,0,2007,2000
+rockman exe 45 real operation,0.08,0.31100428,capcom,roleplaying,0,2004,2000
+start the party save the world,0.11,0.47405517,sony computer entertainment,misc,0,2011,2010
+sotsugyou ii neo generation,0.04,0.3254137,riverhillsoft,simulation,1,1995,1990
+death jr and the science fair of doom,0.08,0.48636574,konami digital entertainment,platform,0,2007,2000
+jam sessions 2,0.06,0.49987024,ubisoft,misc,1,2009,2000
+fifa manager 12,0.05,4.3919234,electronic arts,sports,0,2011,2010
+shippuu mahou daisakusen kingdomgrandprix,0.02,0.32099718,gaga,shooter,0,1996,1990
+call of duty finest hour,4.5,0.7598982,activision,shooter,0,2004,2000
+2 games in 1 double pack the incredibles  finding nemo the continuing adventures,1.76,0.5458261,thq,action,1,2007,2000
+horse life 4 my horse my friend my champion,0.01,0.23709044,unknown,action,1,2015,2010
+midnight play pack,0.09,0.44088924,ubisoft,misc,0,2008,2000
+scoobydoo first frights,2.19,0.40081418,warner bros interactive entertainment,action,0,2009,2000
+double dragon,0.47,0.86172915,activision,action,0,1989,1980
+killer instinct gold,0.82,0.9114841,nintendo,fighting,0,1996,1990
+sports illustrated for kids football,0.18,0.34347895,bam entertainment,sports,0,2003,2000
+jelly belly ballistic beans,0.02,0.35134965,zoo digital publishing,puzzle,0,2009,2000
+pro yaky spirits 2011,0.49,0.35985002,konami digital entertainment,sports,0,2011,2010
+contra advance the alien wars ex,0.11,0.75136185,konami digital entertainment,shooter,0,2002,2000
+shadow madness,0.18,0.4055937,crave entertainment,action,0,1999,1990
+ncaa final four 2002,0.31,0.5583435,sony computer entertainment,sports,0,2001,2000
+god eater off shot soma shikkuzaruhen twin pack  animation vol4,0.01,0.1621694,namco bandai games,action,0,2016,2010
+robotech invasion,0.16,0.62294203,global star,shooter,0,2004,2000
+roommate asami okusama wa joshikousei,0.02,0.25101393,datam polystar,adventure,0,2002,2000
+frontier gate,0.11,0.52457005,konami digital entertainment,roleplaying,0,2011,2010
+drakengard 2,0.13,0.49646765,ubisoft,roleplaying,1,2005,2000
+arcade party pak,0.11,0.5713766,midway games,misc,0,1999,1990
+guitar rock tour,0.11,0.93930954,gameloft,misc,0,2007,2000
+the history channel civil war  a nation divided,0.14,0.42300993,activision,shooter,0,2006,2000
+harlem globetrotters world tour,0.07,0.36308715,zoo digital publishing,sports,0,2006,2000
+splatterhouse,0.18,0.31157398,namco bandai games,action,0,2010,2010
+invizimals the alliance,0.07,0.3222093,sony computer entertainment,action,0,2013,2010
+teenage mutant ninja turtles 2 battle nexus,1.08,1.1286706,konami digital entertainment,action,1,2004,2000
+wii party u,1.77,4.594945,nintendo,misc,0,2013,2010
+virtua cop 2,0.3,0.67209876,sega,shooter,1,1996,1990
+tennis no ojisama doubles no ojisama  boys be glorious,0.01,0.3337382,konami digital entertainment,sports,0,2009,2000
+call of duty world at war,15.87,1.626569,activision,shooter,0,2008,2000
+guilty gear x2 reload,0.15,0.386283,zoo digital publishing,fighting,0,2004,2000
+fifa 2001 major league soccer,0.41,1.5862051,electronic arts,sports,0,2000,2000
+camping mama outdoor adventures,0.2,0.37509185,505 games,simulation,0,2011,2010
+famicom mini famicom tantei club  kieta koukeisha zenkouhen,0.11,0.2147877,nintendo,adventure,0,2004,2000
+super ghouls n ghosts,1.25,0.5285006,capcom,platform,0,1991,1990
+rugrats i gotta go party,0.26,0.7022716,thq,action,0,2002,2000
+kabushiki baibai trainer kabutore,0.1,0.21229096,konami digital entertainment,simulation,0,2006,2000
+option tuning car battle,0.1,0.42825955,mto,racing,0,1998,1990
+fear,0.8900000000000001,0.6730226,vivendi games,shooter,0,2007,2000
+ten pin alley 2,0.03,0.6560098,xs games,sports,1,2008,2000
+mafia,0.98,0.46220315,illusion softworks,action,0,2004,2000
+the fairly odd parents game boy advance video volume 1,0.43,0.42018563,unknown,misc,0,2004,2000
+the flintstones bedrock bowling,0.13,0.3575092,ubisoft,sports,0,2000,2000
+secret service,0.05,1.4971358,activision value,action,0,2008,2000
+hanaoni yume no tsudzuki,0.04,0.14780182,idea factory,action,0,2012,2010
+the last of us,10.54,0.40438443,sony computer entertainment europe,action,0,2013,2010
+animal crossing new leaf,9.09,0.42825955,nintendo,simulation,0,2012,2010
+jade cocoon 2,0.1,0.43509418,ubisoft,roleplaying,1,2001,2000
+hunter the reckoning redeemer,0.17,0.34710357,interplay,action,0,2003,2000
+my spanish coach,0.5700000000000001,0.40053082,ubisoft,misc,0,2007,2000
+spongebob heropants,0.1699999999999999,1.1252632,activision,platform,0,2015,2010
+the naked brothers band the video game,0.5800000000000001,1.1116174,thq,misc,0,2008,2000
+disney channel collection vol 1,0.11,0.30258152,unknown,misc,0,2004,2000
+keroro rpg kishi to musha to densetsu no kaizoku,0.07,0.28513044,namco bandai games,roleplaying,0,2010,2010
+fire emblem shin monshou no nazo hikari to kage no eiyuu,0.27,0.30524644,nintendo,strategy,0,2010,2010
+world league soccer,0.15,0.8011634,imagineer,sports,0,1991,1990
+frogger helmet chaos,0.1699999999999999,0.5251799,konami digital entertainment,platform,0,2005,2000
+super swing golf season 2,0.11,0.39606655,rising star games,sports,1,2007,2000
+looney tunes acme arsenal,0.6900000000000001,0.50726634,warner bros interactive entertainment,action,0,2007,2000
+mega man anniversary collection,1.14,0.56585455,capcom,platform,0,2004,2000
+bujingai the forsaken city,0.1,0.33812994,505 games,fighting,0,2003,2000
+spyro 2 riptos rage,3.52,0.8034351,sony computer entertainment,platform,1,1999,1990
+nazo waku yakata oto no ma ni ma ni,0.05,0.17172554,capcom,misc,0,2011,2010
+toki no kizuna hanayui tsuzuri,0.02,0.10061172,idea factory,adventure,0,2013,2010
+driver san francisco,2.06,0.42894435,ubisoft,racing,0,2011,2010
+def jam vendetta,2.19,1.3910108,electronic arts,fighting,0,2003,2000
+tokimeki memorial 2,0.39,0.33922797,konami digital entertainment,simulation,1,1999,1990
+mario tennis power tour,0.52,0.78560424,nintendo,sports,0,2005,2000
+jikkyou powerful pro yakyuu 2013,0.53,0.23757614,konami digital entertainment,sports,0,2013,2010
+nogizaka haruka no himitsu cosplay hajime mashita,0.02,0.12149224,ascii media works,adventure,0,2008,2000
+namco museum battle collection jp sales,0.02,0.31054056,sony computer entertainment,misc,0,2005,2000
+g1 jockey 4 2007,0.01,0.34940743,tecmo koei,sports,1,2007,2000
+metal fight beyblade,0.09,1.3351585,hudson soft,action,0,2009,2000
+super street fighter iv 3d edition,1.22,0.71885335,capcom,fighting,1,2011,2010
+hoshigami ruining blue earth,0.05,0.417243,max five,roleplaying,0,2001,2000
+fatetiger colosseum,0.08,0.43132502,capcom,fighting,0,2007,2000
+espn x games skateboarding,0.54,0.49734986,konami digital entertainment,sports,0,2001,2000
+spy fiction,0.04,0.54249614,sega,action,0,2003,2000
+beat city,0.07,0.7233697,thq,misc,0,2010,2010
+fight night 2004,2.16,1.1321983,electronic arts,fighting,0,2004,2000
+bomberman fantasy race,0.02,0.5996229,virgin interactive,racing,0,1998,1990
+shin koihime musou otome taisen  sangokushi engi,0.01,0.19288906,views,adventure,0,2014,2010
+burnout 2 point of impact,1.24,0.42377424,acclaim entertainment,racing,1,2002,2000
+yuugen gaisha brave company,0.06,0.1958245,namco bandai games,strategy,0,2011,2010
+miniyonku shining scorpion lets  go,0.9,0.3393644,ascii entertainment,racing,0,1996,1990
+harvest moon boy  girl,0.09,0.2727824,marvelous interactive,simulation,0,2005,2000
+colin mcrae rally 20,0.93,0.42895848,codemasters,racing,0,2000,2000
+soul sacrifice,0.56,0.5111798,sony computer entertainment,roleplaying,0,2013,2010
+hisshou pachinkopachislot kouryaku series vol 5 cr shinseiki evangelion  pachislot shinseiki evangelion,0.19,0.17921215,d3publisher,misc,1,2006,2000
+marvel vs capcom 2 new age of heroes,1.04,1.0875541,capcom,fighting,1,2002,2000
+blokus portable steambot championship,0.03,0.3459831,majesco entertainment,puzzle,0,2006,2000
+monster tale,0.07,0.30614752,majesco entertainment,platform,0,2011,2010
+dragon ball gt final bout,0.27,0.54164165,namco bandai games,fighting,0,1997,1990
+gem smashers,0.1,0.48171425,crave entertainment,platform,0,2011,2010
+oil rush,0.02,0.23735926,iceberg interactive,strategy,0,2012,2010
+deus ex invisible war,0.33,0.45031065,eidos interactive,shooter,0,2003,2000
+double sequence the qvirus invasion,0.01,0.23068658,zoo digital publishing,puzzle,0,2008,2000
+dance dance revolution ultramix 2,0.42,0.74565,konami digital entertainment,simulation,1,2004,2000
+take a breaks puzzle master,0.16,0.4029011,ubisoft,puzzle,0,2009,2000
+wasteland 2,0.25,0.64407367,deep silver,roleplaying,1,2015,2010
+the biggest loser challenge,0.67,0.50041574,thq,sports,0,2010,2010
+open season,0.6000000000000001,0.41429538,ubisoft,platform,0,2006,2000
+yoshis woolly world,1.29,0.43177968,nintendo,platform,0,2015,2010
+mobile suit gundam seed never ending tomorrow,0.06,0.32956415,namco bandai games,shooter,0,2004,2000
+avatar the last airbender  into the inferno,0.5700000000000001,0.43152523,thq,adventure,0,2008,2000
+jackass the game,0.5,0.5349809,empire interactive,action,0,2007,2000
+dj star,0.02,0.34472847,deep silver,misc,0,2009,2000
+mar heaven karudea no akuma,0.02,0.2943231,konami digital entertainment,roleplaying,0,2006,2000
+snowboarding,0.29,0.47478533,midas interactive entertainment,sports,0,2000,2000
+d1 professional drift grand prix series,0.03,0.35408932,yukes,racing,0,2005,2000
+f1 2011,2.45,0.42572606,codemasters,racing,0,2011,2010
+far east of eden ii manji maru,0.18,0.2078752,hudson soft,roleplaying,1,2003,2000
+la corda doro 4,0.02,0.9255851,tecmo koei,action,1,2016,2010
+sled shred featuring the jamaican bobsled team,0.06,0.2842305,southpeak games,sports,0,2010,2010
+call of duty black ops 3,25.32,24.753408,activision,shooter,1,2015,2010
+neon genesis evangelion,0.5,2.048072,sega,adventure,0,1996,1990
+my secret world by imagine,0.2,0.20218357,ubisoft,misc,0,2008,2000
+f1 grand prix,0.28,0.6199257,video system,racing,0,1992,1990
+nil admirari no tenbin teito genwaku toukidan,0.02,0.045101568,idea factory,adventure,0,2016,2010
+boom blox bash party,0.47,0.43227357,electronic arts,puzzle,0,2009,2000
+i spy castle,0.21,0.39260167,scholastic inc,puzzle,0,2011,2010
+mystical ninja starring goemon,0.36,0.4168874,konami digital entertainment,action,0,1997,1990
+bejeweled 2 deluxe,0.02,0.34170854,focus home interactive,puzzle,1,2006,2000
+imagine gymnast,0.07,0.26998764,ubisoft,simulation,0,2008,2000
+call of duty modern warfare mobilized,0.43,2.955463,activision,shooter,0,2009,2000
+streak hoverboard racing,0.15,0.4247055,gt interactive,racing,0,1998,1990
+project gotham racing jp weekly sales,2.1,0.64747226,microsoft game studios,action,0,2002,2000
+sin and punishment,0.13,1.0239106,nintendo,shooter,0,2000,2000
+hero bank 2,0.05,0.7413959,sega,roleplaying,1,2014,2010
+sins of a solar empire trinity,0.04,0.27865142,kalypso media,strategy,0,2010,2010
+walt disney pictures presents the wild,0.13,1.0545063,disney interactive studios,platform,0,2006,2000
+halo 2 multiplayer map pack,0.69,0.40225327,microsoft game studios,shooter,1,2005,2000
+cross  channel,0.02,0.24917789,cyberfront,adventure,0,2010,2010
+space invaders extreme,0.24,0.59935904,square enix,shooter,0,2008,2000
+rugrats totally angelica,0.12,0.43141133,thq,adventure,0,2001,2000
+seisou no amazones,0.01,0.26635656,arc system works,roleplaying,0,2013,2010
+final fantasy vii,9.72,6.0169377,sony computer entertainment,roleplaying,0,1997,1990
+babysitting mania,0.26,0.5399012,majesco entertainment,simulation,0,2008,2000
+capcom digital collection,0.03,0.8526269,capcom,action,0,2012,2010
+gameboy gallery,0.3,0.42825955,nintendo,misc,0,1995,1990
+reine des fleurs,0.02,0.3851882,idea factory,action,0,2015,2010
+active life outdoor challenge,1.55,0.3428779,atari,sports,0,2008,2000
+the operative no one lives forever,0.14,0.83414555,electronic arts,shooter,0,2002,2000
+lifesigns surgical unit,0.02,0.39478296,jowood productions,simulation,0,2005,2000
+dragon ball z ultimate tenkaichi,1.16,0.57165873,namco bandai games,fighting,0,2011,2010
+hellgate london,0.02,0.84584594,electronic arts,roleplaying,0,2007,2000
+sd gundam g generation portable,0.27,0.37911457,namco bandai games,strategy,0,2006,2000
+hackmutation part 2,0.68,0.31774372,atari,roleplaying,1,2002,2000
+shinseiki evangelion battle orchestra,0.02,0.26267928,broccoli,fighting,0,2007,2000
+moujuutsukai to oujisama snow bride,0.02,0.16722198,idea factory,adventure,0,2011,2010
+rally challenge 2000,0.04,0.4674651,imagineer,racing,0,1999,1990
+mega man battle network 6 cybeast falzar  gregar,0.76,0.28855306,capcom,roleplaying,1,2005,2000
+order up,0.29,0.307497,zoo digital publishing,misc,0,2008,2000
+jampack summer 2003 rpm,0.31,0.40986055,sony computer entertainment,misc,0,2003,2000
+tamagotchi,1.45,0.38365316,namco bandai games,simulation,0,1996,1990
+monster hunter frontier online season 10,0.03,0.9450189,capcom,roleplaying,0,2011,2010
+style savvy trendsetters,0.72,0.5661639,nintendo,simulation,0,2012,2010
+guitar freaks,0.24,0.4222805,konami digital entertainment,simulation,0,1999,1990
+hot shots golf out of bounds,1.14,0.42825955,sony computer entertainment,sports,0,2007,2000
+dragon ball xenoverse,2.18,0.8895126,namco bandai games,fighting,0,2015,2010
+game of thrones,0.59,0.8351629,focus home interactive,roleplaying,0,2012,2010
+moyashimon ds,0.03,0.25083268,takara tomy,action,0,2009,2000
+strider 2,0.08,0.7666805,virgin interactive,platform,1,2000,2000
+tsukigime rankos longest day,0.01,0.27073073,namco bandai games,action,0,2014,2010
+amplitude,0.18,0.3737895,sony computer entertainment,misc,0,2003,2000
+mugen keitai disgaea,0.09,0.2658774,tecmo koei,roleplaying,0,2007,2000
+madden nfl 09,7.14,8.014192,electronic arts,sports,0,2008,2000
+grisaia no meikyuu le labyrinthe de la grisaia,0.02,0.15479517,prototype,adventure,0,2014,2010
+yakuza zero the place of oath,0.42,0.32539034,sega,action,0,2015,2010
+the bombing islands,0.14,0.33857363,kemco,platform,0,1997,1990
+amf bowling world lanes,0.36,0.43383592,bethesda softworks,sports,0,2008,2000
+akuji the heartless,0.12,0.40697902,eidos interactive,platform,0,1998,1990
+metroid ii return of samus,1.76,0.45643008,nintendo,adventure,1,1991,1990
+outlaw tennis,0.12,0.4139799,global star,sports,0,2005,2000
+castlevania legacy of darkness,0.13,0.93495023,konami digital entertainment,platform,0,1999,1990
+midnight club los angeles,4.800000000000001,1.7402128,taketwo interactive,racing,0,2008,2000
+lucha libre aaa heroes del ring,0.15,2.0044541,konami digital entertainment,fighting,0,2010,2010
+marykate and ashley magical mystery mall,0.65,0.63969773,acclaim entertainment,adventure,0,2000,2000
+top spin 3,1.86,1.3045382,taketwo interactive,action,1,2008,2000
+starcraft,0.05,0.63988596,activision,strategy,0,1998,1990
+muppet racemania,0.15,0.64262295,sony computer entertainment,racing,0,1999,1990
+dino crisis 2,1.21,1.1201434,virgin interactive,action,1,2000,2000
+jewel quest expeditions,0.22,0.26170623,avanquest,puzzle,0,2007,2000
+watashi no relaxuma,0.04,0.21607924,rocket company,simulation,0,2007,2000
+backyard baseball 2006,0.35,0.44049597,atari,sports,0,2005,2000
+rainbow islands revolution,0.03,0.33672792,rising star games,platform,0,2005,2000
+nfl gameday 2001,1.36,0.5531635,sony computer entertainment,sports,0,2000,2000
+battle stadium don,0.24,0.36055565,namco bandai games,fighting,0,2006,2000
+the saboteur,1.07,0.586071,electronic arts,action,0,2009,2000
+dragon quest iv chapters of the chosen,1.64,0.6785352,square enix,roleplaying,1,2007,2000
+hatsune miku project diva extend,0.33,0.2153166,sega,misc,0,2011,2010
+folklore,0.33,0.39551875,sony computer entertainment,roleplaying,0,2007,2000
+final fantasy the 4 heroes of light,0.59,0.746726,square enix,roleplaying,1,2009,2000
+pokemon ranger,2.18,2.6154451,nintendo,roleplaying,0,2006,2000
+luxpain jp sales,0.03,0.059029117,rising star games,adventure,0,2008,2000
+stalker shadow of chernobyl,0.06,0.71060693,thq,shooter,0,2007,2000
+fushigi no dungeon fuurai no shiren gb tsukikagemura no kaibutsu,0.27,0.30901235,chunsoft,roleplaying,0,1996,1990
+tropix,0.07,0.23986132,capcom,puzzle,0,2008,2000
+fuzion frenzy,1.21,0.309311,microsoft game studios,misc,0,2001,2000
+front mission gun hazard,0.24,0.42314124,squaresoft,roleplaying,0,1996,1990
+two worlds ii,1.22,0.2749166,unknown,roleplaying,1,2011,2010
+houkago shounen,0.05,0.2527364,konami digital entertainment,misc,0,2008,2000
+star trek invasion,0.26,1.0267913,activision,simulation,0,2000,2000
+fifa street 2,0.75,3.6817288,electronic arts,sports,1,2006,2000
+singstar queen,1.08,0.6066707,sony computer entertainment,misc,0,2009,2000
+neon genesis evangelion 2nd impression,0.42,0.5290288,sega,roleplaying,0,1997,1990
+nba shootout 97,0.62,0.51545066,sony computer entertainment,sports,0,1997,1990
+kirarin  revolution kira kira idol audition,0.11,0.19665954,konami digital entertainment,simulation,0,2006,2000
+classic action devilish,0.07,0.5553652,505 games,misc,0,2005,2000
+metal fight beyblade choujou kessen big bang bladers,0.02,0.49154305,hudson soft,action,0,2010,2010
+fifa 16,16.44,8.810226,electronic arts,sports,0,2015,2010
+sudoku ball detective,0.1,0.40814304,playlogic game factory,puzzle,0,2009,2000
+farming simulator 2011,0.13,0.26291147,unknown,simulation,0,2010,2010
+klax,0.15,0.3881066,atari,puzzle,0,1989,1980
+midnight magic,0.5,0.4406309,atari,action,0,1983,1980
+last escort 2 shinya no amai toge,0.03,0.19491291,d3publisher,adventure,1,2008,2000
+kamiwaza,0.05,0.29236507,acquire,action,0,2006,2000
+no mans sky,1.6,0.5808553,hello games,action,0,2016,2010
+harry potter and the prisoner of azkaban,2.15,2.362464,electronic arts,action,0,2004,2000
+world in conflict,0.04,0.39808846,vivendi games,strategy,0,2007,2000
+jampack summer 2k,1.58,0.55515987,sony computer entertainment,misc,0,2000,2000
+case closed one truth prevails,0.01,0.27872378,nobilis,adventure,0,2007,2000
+jet moto,1.83,0.54182386,sony computer entertainment,racing,0,1996,1990
+world driver championship,0.17,0.59609234,midway games,racing,0,1999,1990
+celebrity sports showdown,0.45,0.6356926,electronic arts,sports,0,2008,2000
+metal gear solid portable ops plus,0.69,0.5534215,konami digital entertainment,action,0,2007,2000
+new atelier rorona hajimari no monogatari,0.02,0.23194036,tecmo koei,action,0,2015,2010
+super puzzle fighter ii turbo,0.14,0.76698434,virgin interactive,puzzle,1,1996,1990
+real rode,0.01,0.23084868,kadokawa shoten,adventure,0,2008,2000
+kirby mass attack,1.04,0.7220483,nintendo,platform,0,2011,2010
+gears of war,6.13,2.662859,microsoft game studios,shooter,0,2006,2000
+virus,0.08,0.3697235,hudson soft,shooter,0,1997,1990
+oshiri kajiri mushi no rhythm lesson ds kawai ongaku kyoushitsu kanshuu,0.02,0.13440505,sega,misc,0,2008,2000
+ultimate fighting championship throwdown,0.4,1.00187,ubisoft,fighting,0,2002,2000
+minecraft story mode,2.89,0.36361715,mojang,adventure,0,2015,2010
+supreme commander forged alliance,0.04,0.32670608,thq,strategy,0,2007,2000
+polaris,0.28,0.95523953,tigervision,action,0,1982,1980
+deus ex,0.01,0.25612336,eidos interactive,roleplaying,0,2000,2000
+star wars episode i battle for naboo,0.26,0.7827891,lucasarts,simulation,0,2000,2000
+shining wind,0.13,0.42650092,sega,roleplaying,0,2007,2000
+mahjong journey quest for tikal,0.19,0.5328645,rondomedia,puzzle,0,2008,2000
+puzzle  action tantr,0.03,0.40783668,sega,misc,0,1994,1990
+smart girls playhouse,0.26,0.39462644,505 games,misc,0,2007,2000
+racquet sports,0.61,0.3566953,ubisoft,sports,0,2010,2010
+assassins creed iv black flag,13.16,8.153084,ubisoft,action,1,2013,2010
+fighters uncaged,0.61,0.39786297,ubisoft,fighting,0,2010,2010
+jak and daxter the lost frontier,1.07,0.7843934,sony computer entertainment,platform,0,2009,2000
+need for speed shift 2 unleashed,1.3199999999999998,1.0855771,electronic arts,racing,1,2011,2010
+puzzle chronicles,0.1,0.37317812,konami digital entertainment,puzzle,0,2010,2010
+rallisport challengejp sales,0.01,0.22806577,microsoft game studios,racing,0,2002,2000
+mlb 2001,0.89,0.5133567,sony computer entertainment,sports,0,2000,2000
+ace combat 2,0.89,0.75201255,sony computer entertainment,simulation,1,1997,1990
+payday 2,1.52,1.3512821,505 games,shooter,1,2013,2010
+phantasy star online 2 episode 4 deluxe package,0.04,0.29187387,sega,roleplaying,1,2017,2010
+balls of fury,0.04,0.43137366,zoo digital publishing,sports,0,2007,2000
+final fantasy iv the complete collection,0.56,0.580841,square enix,roleplaying,1,2011,2010
+thief 2014,2.1,0.60579544,square enix,action,0,2014,2010
+virtua tennis world tour jp sales,0.02,0.28856045,sega,sports,0,2005,2000
+kimi ni todoke sodateru omoi,0.02,0.17814693,banpresto,adventure,0,2009,2000
+fab 5 soccer,0.01,0.32268465,destineer,sports,1,2008,2000
+shadow ops red mercury,0.15,0.55007803,atari,shooter,0,2004,2000
+renai revenge,0.03,0.23082411,tgl,adventure,0,2015,2010
+monster hunter frontier online forward 2,0.03,0.616623,capcom,roleplaying,1,2011,2010
+clockwork knight,0.09,0.55658215,sega,platform,0,1994,1990
+birds of steel,0.41,0.40004396,konami digital entertainment,simulation,0,2012,2010
+tetris worlds online edition,0.2,0.37427628,thq,puzzle,0,2003,2000
+world soccer winning eleven 2002,0.13,0.43440616,konami digital entertainment,sports,0,2002,2000
+singstar pop hits,0.65,0.5502108,sony computer entertainment,misc,0,2007,2000
+mega man maverick hunter x,0.31,0.68738663,capcom,platform,0,2005,2000
+itadaki street 2 neon sign wa bara iro ni,0.29,0.3137721,enix corporation,misc,1,1994,1990
+pro yakyuu family stadium 87,1.42,0.44494504,namco bandai games,sports,0,1987,1980
+soul nomad  the world eaters,0.28,0.2708833,tecmo koei,roleplaying,0,2007,2000
+ea sports active 2,2.6100000000000003,3.089096,electronic arts,sports,1,2010,2010
+silent hunter wolves of the pacific,0.05,0.3322842,ubisoft,simulation,0,2007,2000
+the treasures of montezuma,0.04,0.30931383,foreign media games,puzzle,0,2010,2010
+wallace  gromit in project zoo,0.33,0.43457955,bam entertainment,platform,0,2003,2000
+monster rancher,1.01,0.30203688,tecmo koei,simulation,0,1997,1990
+the sims 4,2.97,10.139952,electronic arts,simulation,1,2014,2010
+star wars bounty hunter,1.35,1.1869011,lucasarts,shooter,0,2002,2000
+hot wheels battle force 5,0.3399999999999999,0.8655998,activision,racing,1,2009,2000
+popcap arcade vol 2,0.03,0.56412303,popcap games,misc,1,2009,2000
+secrets of the titanic,0.03,0.4403777,avanquest software,action,0,2012,2010
+simcity 4,0.3,1.9054836,electronic arts,simulation,1,2003,2000
+mario  luigi paper jam,0.74,1.1109852,nintendo,roleplaying,0,2015,2010
+nhl legacy,0.09,0.7640399,electronic arts,action,0,2015,2010
+road trip the arcade edition,0.02,0.51522446,zoo digital publishing,racing,0,2002,2000
+fifa street,2.68,1.8871287,electronic arts,sports,0,2012,2010
+dragon tales dragon adventures,0.02,0.7112782,newkidco,platform,0,2003,2000
+2 games in 1 disneys brother bear  the lion king 1 12,0.31,1.0577506,thq,action,1,2005,2000
+project snowblind,0.32,0.8089055,eidos interactive,action,0,2005,2000
+hanayaka kana ware ga ichizoku,0.01,0.13763793,idea factory,adventure,0,2010,2010
+quantum break,0.51,1.3132463,microsoft game studios,action,0,2016,2010
+god eater off shot lindowhen twin pack  animation vol 2,0.03,0.26923686,namco bandai games,misc,1,2015,2010
+guild wars nightfall,0.03,0.43661296,ncsoft,roleplaying,0,2006,2000
+assassins creed iii,13.1,10.782689,ubisoft,action,1,2012,2010
+spongebob squarepants double pack,0.32,0.5628912,thq,platform,0,2005,2000
+shaun white skateboarding,0.5700000000000001,0.7584332,ubisoft,sports,0,2010,2010
+countdown the game,0.2,0.4188516,mindscape,puzzle,0,2009,2000
+baja edge of control,0.41,0.51489836,thq,racing,0,2008,2000
+ratchet  clank,3.33,0.5044139,sony computer entertainment,platform,0,2002,2000
+robotech the macross saga,0.21,0.56814784,tdk mediactive,shooter,0,2002,2000
+kikou heidan jphoenix cobalt shoutaihen,0.02,0.108076945,takara,action,0,2002,2000
+sorry  aggravation  scrabble junior,0.25,0.2897613,zoo digital publishing,misc,0,2005,2000
+cars,6.859999999999999,0.71592766,thq,racing,0,2006,2000
+alice in wonderland,1.03,0.5843732,disney interactive studios,adventure,0,2010,2010
+home run king,0.11,0.40084887,sega,sports,0,2002,2000
+clock zero shuuen no ichibyou portable,0.04,0.10441136,idea factory,adventure,0,2011,2010
+hospital tycoon,0.01,0.44137692,codemasters,strategy,0,2007,2000
+animal crossing wild world,12.27,0.4314283,nintendo,simulation,0,2005,2000
+ace combat 5 the unsung war,1.71,0.82001454,sony computer entertainment europe,simulation,1,2004,2000
+drawn to life,0.79,0.49347836,thq,action,0,2007,2000
+one piece mansion,0.02,0.44055933,capcom,action,0,2001,2000
+tomb raider iii adventures of lara croft,4.16,1.9271666,eidos interactive,action,1,1997,1990
+dogz,1.2,0.32998443,ubisoft,simulation,0,2004,2000
+hot shots golf world invitational,0.88,0.58122617,sony computer entertainment,sports,0,2011,2010
+puzzle quest challenge of the warlords,0.77,0.32163456,d3publisher,puzzle,0,2007,2000
+mahou sensei negima kagai jugyou otome no dokidoki beachside,0.03,0.21352573,konami digital entertainment,adventure,0,2006,2000
+nhl 11,1.33,0.46279168,electronic arts,sports,0,2010,2010
+family party 30 great games winter fun,0.23,0.38944924,d3publisher,sports,0,2010,2010
+the legendary starfy,0.86,0.9232357,nintendo,platform,0,2008,2000
+tom clancys splinter cell pandora tomorrow,2.87,0.42825955,ubisoft,action,0,2004,2000
+burnout legends,1.03,0.81465465,electronic arts,racing,0,2005,2000
+rurouni kenshin enjou kyoto rinne,0.13,0.28483003,banpresto,action,0,2006,2000
+interplay sports baseball 2000,0.06,0.3727033,interplay,sports,0,1999,1990
+nicktoons collection game boy advance video volume 1,0.64,0.4487896,unknown,misc,0,2004,2000
+raycrisis series termination,0.02,0.30730975,jvc,shooter,0,1999,1990
+far cry 2,3.49,0.9142536,ubisoft,action,1,2008,2000
+nintendogs and cats golden retriever and new friends,0.01,0.6537127,nintendo,action,0,2011,2010
+disney princess enchanting storybooks,0.54,0.42328846,thq,misc,0,2011,2010
+hogans alley,1.27,3.4627314,nintendo,shooter,0,1984,1980
+disney sports soccer,0.06,0.2678253,konami digital entertainment,sports,0,2002,2000
+doki majo plus,0.02,0.09145276,snk playmore,adventure,0,2009,2000
+gundam breaker,0.35,0.2543007,namco bandai games,action,0,2013,2010
+sega rally revo,1.36,0.73005277,sega,racing,0,2007,2000
+tiger woods pga tour 12 the masters,1.9,0.95223796,electronic arts,sports,0,2011,2010
+pokemon card gb2 here comes team gr,0.89,0.840164,nintendo,strategy,0,2001,2000
+gumby vs the astrobots,0.04,0.74733853,namco bandai games,action,0,2005,2000
+the sum of all fears,0.07,0.43092513,ubisoft,shooter,0,2002,2000
+naruto shippuden gekito ninja taisen ex 2,0.09,0.3814004,takara tomy,fighting,1,2007,2000
+dragons lair,0.02,0.28413326,destineer,platform,0,2010,2010
+boxers road,0.36,0.844177,new,fighting,0,1995,1990
+wwe all stars,1.5,0.9610545,thq,fighting,0,2011,2010
+il2 sturmovik,0.01,0.3348984,blue byte,simulation,0,2001,2000
+stellaris,0.03,0.18260072,paradox interactive,strategy,0,2016,2010
+kororinpa marble mania,0.14,0.43150115,nintendo,puzzle,0,2006,2000
+disney stitch jam,0.24,0.83836126,disney interactive studios,misc,0,2009,2000
+killzone mercenary,1.0,1.0692978,sony computer entertainment europe,shooter,0,2013,2010
+clock tower 3,0.33,0.4310894,capcom,adventure,1,2002,2000
+die hard vendetta,0.12,0.69983864,nda productions,shooter,0,2002,2000
+starry  sky after spring,0.04,0.35995615,aqua plus,misc,0,2009,2000
+need for speed the run,4.27,2.4329839,electronic arts,action,0,2011,2010
+tony hawks american sk8land,0.4499999999999999,0.22858068,activision,sports,0,2005,2000
+lunatic dawn tempest,0.02,0.3823551,artdink,roleplaying,0,2001,2000
+chocolatier,0.07,0.44665688,zoo games,misc,0,2010,2010
+the godfather,1.09,0.9686028,electronic arts,action,0,2006,2000
+bakumatsu renka karyuu kenshiden,0.02,0.12627819,d3publisher,adventure,0,2007,2000
+disneys kim possible 2 drakkens demise,0.66,0.4415123,disney interactive studios,platform,1,2004,2000
+motogp 3  official game of motogp,0.12,0.42825955,namco bandai games,racing,1,2003,2000
+toukiden 2,0.21,0.26126784,tecmo koei,action,1,2016,2010
+himawari pebble in the sky portable,0.01,0.26894265,kadokawa shoten,adventure,0,2010,2010
+tetris 2 weekly jp sales,0.23,0.9596126,nintendo,puzzle,1,1992,1990
+armored core last raven portable,0.03,0.3945365,from software,simulation,0,2010,2010
+champions return to arms,0.65,0.42716503,sony online entertainment,roleplaying,0,2005,2000
+big mountain 2000,0.03,0.40942925,imagineer,sports,0,1998,1990
+jewel master cradle of persia,0.06,0.36462754,rising star games,puzzle,0,2012,2010
+monster rancher advance 2,0.01,0.7238969,tecmo koei,simulation,1,2002,2000
+world championship athletics,0.06,0.36541748,dtp entertainment,sports,0,2009,2000
+1001 touch games,0.33,0.43116128,avanquest,action,0,2011,2010
+legoland,0.01,2.7011485,lego media,action,0,1999,1990
+onechanbara bikini samurai squad,0.13,0.23602898,d3publisher,action,0,2006,2000
+frontlines fuel of war,0.5800000000000001,0.6256074,thq,shooter,0,2008,2000
+summoner a goddess reborn,0.05,0.3671872,thq,roleplaying,0,2003,2000
+capcoms soccer shootout,0.8,0.58993566,nintendo,sports,0,1993,1990
+ncaa final four 2004,0.2,0.5792325,sony computer entertainment,sports,0,2003,2000
+rpg tsukuru 2,0.31,0.53320163,ascii entertainment,roleplaying,1,1996,1990
+beatmania,1.16,0.41668755,konami digital entertainment,simulation,0,1998,1990
+way of the samurai 2 portable,0.04,0.4273485,spike,action,1,2009,2000
+runaway a twist of fate,0.04,0.36136663,focus home interactive,adventure,0,2009,2000
+lemony snickets a series of unfortunate events,1.44,1.4492087,activision,platform,0,2004,2000
+n,0.1,0.3752298,atari,platform,0,2007,2000
+toriko gourmet monsters,0.16,0.3119293,namco bandai games,roleplaying,0,2012,2010
+bejeweled twist,0.15,0.3498194,popcap games,puzzle,0,2010,2010
+bejeweled blitz,0.02,0.18336327,mastertronic,puzzle,0,2010,2010
+transformers beast wars transmetals,0.11,0.6993174,bam entertainment,fighting,0,2000,2000
+original story from fairy tail gekitotsu kardia daiseidou,0.03,0.33349276,hudson soft,roleplaying,0,2011,2010
+medievil,0.83,0.72813505,sony computer entertainment,platform,0,1998,1990
+dead or alive ultimate,0.5,0.3711753,tecmo koei,fighting,0,2004,2000
+abunai koi no sousa shitsu,0.03,0.16941944,asgard,action,0,2015,2010
+there,0.06,0.3285023,infogrames,simulation,0,2002,2000
+pro baseball spirits 2015,0.28,0.30924642,konami digital entertainment,action,0,2015,2010
+cocoto kart racer,0.11,0.449282,conspiracy entertainment,racing,0,2008,2000
+blur,1.4,1.0939776,activision,racing,0,2010,2010
+ghost in the shell stand alone complex,0.23,0.43174177,namco bandai games,adventure,0,2004,2000
+mega man battle network,0.42,0.5584387,capcom,roleplaying,0,2001,2000
+lemmings,0.87,0.64449716,sony computer entertainment,puzzle,0,2006,2000
+chessmaster the art of learning,0.28,0.4098904,ubisoft,misc,0,2007,2000
+atelier iris 2 the azoth of destiny,0.06,0.30566913,tecmo koei,roleplaying,1,2005,2000
+sneakers,0.1,0.4323237,microsoft game studios,puzzle,0,2002,2000
+super monkey ball 3d,0.49,0.7903221,sega,action,0,2011,2010
+7th dragon iii code vfd,0.16,0.30711693,sega,roleplaying,1,2015,2010
+global touring challenge africa,0.1,0.29614586,rage software,racing,0,2001,2000
+tokimeki memorial 4,0.08,0.30495095,konami digital entertainment,adventure,1,2009,2000
+sbk x superbike world championship,0.41,0.49159122,black bean games,racing,0,2010,2010
+famicom mini super mario bros 2,0.42,1.1226417,nintendo,platform,1,2004,2000
+canvas 2,0.02,0.2739452,kadokawa shoten,adventure,1,2006,2000
+tiny tank,0.34,0.674798,sony computer entertainment,action,0,1998,1990
+call of duty 2 big red one,4.12,1.8862439,activision,shooter,1,2005,2000
+smash cars,0.11,0.42825955,metro 3d,racing,0,2003,2000
+gold and glory the road to el dorado,0.06,0.3168552,ubisoft,adventure,0,2000,2000
+suzuki tt superbikes,0.4,0.5132361,jester interactive,racing,0,2005,2000
+call of juarez,0.2,1.4303914,ubisoft,shooter,0,2007,2000
+legaia 2 duel saga,0.26,0.35507536,eidos interactive,roleplaying,1,2001,2000
+metroid zero mission,0.84,0.47678524,nintendo,adventure,0,2004,2000
+the sims superstar,1.68,6.5726633,electronic arts,simulation,0,2003,2000
+disneys the haunted mansion,0.55,2.2205496,taketwo interactive,platform,0,2003,2000
+chili con carnage,0.02,0.45391482,eidos interactive,shooter,0,2007,2000
+ncaa final four 2000,0.38,0.5642707,989 sports,sports,0,1999,1990
+chocobo no fushigi dungeon,1.22,0.4327669,squaresoft,roleplaying,0,1997,1990
+mario party 2,2.5,1.4552265,nintendo,misc,1,1999,1990
+puzzle  dragons x god chapter  dragon chapter,0.2,0.46196377,gungho,action,0,2016,2010
+tales of the tempest,0.18,0.4370122,namco bandai games,roleplaying,0,2006,2000
+amnesia,0.04,0.20921193,idea factory,adventure,0,2011,2010
+nba ballers chosen one,0.32,0.56573576,midway games,sports,0,2008,2000
+dragon ball daimaou fukkatsu,1.25,0.59108377,namco bandai games,roleplaying,0,1988,1980
+dynasty warriors next,0.27,0.4110428,tecmo koei,action,0,2011,2010
+samurai spirits cd,0.2,0.22828726,snk,fighting,0,1994,1990
+naruto gekito ninja taisen 4,0.33,0.5740661,tomy corporation,fighting,1,2005,2000
+jgtc alljapan grand touring car championship,0.42,0.45643288,tyo,racing,0,1998,1990
+the incredible hulk,2.03,1.1022092,universal interactive,action,0,2003,2000
+nascar heat,0.39,0.4711575,hasbro interactive,racing,0,2000,2000
+dynasty warriors 6,1.26,0.481187,tecmo koei,action,1,2007,2000
+are you smarter than a 5th grader,0.53,0.2726137,mindscape,misc,0,2007,2000
+blazblue calamity trigger,0.95,0.25552607,pqube,fighting,0,2009,2000
+the perfect golf,0.03,0.440391,seta corporation,sports,0,1995,1990
+nba inside drive 2003,0.31,0.49782038,microsoft game studios,sports,0,2002,2000
+pachitte chonmage tatsujin 15 pachinko fuyu no sonata 2,0.05,0.22347039,hackberry,misc,1,2008,2000
+mechassault,1.13,0.35450983,microsoft game studios,simulation,0,2002,2000
+no rules get phat,0.04,0.42673397,tdk mediactive,action,0,2001,2000
+kidou senshi gundam f91 formula senki 0122,0.33,0.19401218,namco bandai games,strategy,0,1991,1990
+lost in blue shipwrecked,0.08,0.39403453,konami digital entertainment,adventure,0,2008,2000
+virtua striker 2,0.32,0.37073088,sega,sports,1,1999,1990
+super dodge ball,0.02,0.5536289,technos japan corporation,sports,0,1995,1990
+bustamove universe,0.31,0.36498487,square enix,puzzle,0,2011,2010
+we cheer,0.53,0.31384686,505 games,simulation,0,2008,2000
+dark cavern,0.24,0.42825955,mattel interactive,shooter,0,1981,1980
+magic carpet,0.05,0.76952815,electronic arts,shooter,0,1995,1990
+steambot chronicles battle tournament,0.06,0.41981345,irem software engineering,fighting,0,2008,2000
+samurai warriors xtreme legends,0.45,0.71460164,tecmo koei,action,0,2004,2000
+superman returns,0.35,1.5702655,electronic arts,action,0,2006,2000
+yugioh monster capsule breed  battle,0.28,0.39210147,konami digital entertainment,roleplaying,0,1998,1990
+dragon ball z idainaru dragon ball densetsu,0.3399999999999999,0.61319166,namco bandai games,fighting,0,1996,1990
+shin megami tensei persona 3 fes,0.63,0.6283252,tecmo koei,roleplaying,1,2007,2000
+alvin and the chipmunks the squeakquel,0.4,0.50990444,majesco entertainment,misc,0,2009,2000
+nhl 2001,1.59,0.7734536,electronic arts,sports,0,2000,2000
+super robot taisen 64,0.2,0.4976192,banpresto,strategy,0,1999,1990
+kidz sports crazy golf,0.13,0.7926593,data design interactive,sports,0,2008,2000
+sonic mega collection plus,3.81,0.5867275,sega,misc,0,2004,2000
+defcon 5,0.07,0.54970324,psygnosis,shooter,1,1995,1990
+dynasty warriors,0.78,0.52726555,tecmo koei,action,0,2004,2000
+deca sports 3,0.24,0.35228676,hudson soft,sports,1,2010,2010
+fuzion frenzy 2,0.17,0.58857816,microsoft game studios,misc,1,2007,2000
+jleague pro soccer club wo tsukurou 2,0.49,0.31783092,sega,sports,1,1997,1990
+james bond 007 everything or nothing,3.54,1.975607,electronic arts,shooter,0,2004,2000
+my boyfriend,0.11,0.31983593,dtp entertainment,simulation,0,2008,2000
+motorstorm arctic edge,1.38,0.47146899,sony computer entertainment,racing,0,2009,2000
+star wars the clone wars jedi alliance,0.79,2.8047464,lucasarts,action,0,2008,2000
+section 8,0.3,0.5280761,southpeak games,shooter,1,2009,2000
+disneys the emperors new groove,0.31,0.5896365,sony computer entertainment,platform,0,2000,2000
+haunted casino,0.04,0.43141967,societa,adventure,0,1996,1990
+star wars empire at war  gold pack,0.09,0.42825955,lucasarts,strategy,0,2007,2000
+jade cocoon story of the tamamayu,0.27,0.3159784,crave entertainment,roleplaying,0,1998,1990
+this war of mine,0.02,0.39908844,deep silver,action,0,2016,2010
+armored core sl silent line portable,0.03,0.22820643,from software,simulation,0,2009,2000
+tiger woods pga tour 2000,0.66,1.0270635,electronic arts,sports,0,1998,1990
+tengai makyo dai yon no mokushiroku,0.01,0.26629293,hudson soft,roleplaying,0,2006,2000
+jewel quest iv heritage,0.06,0.39704883,iwin,puzzle,1,2011,2010
+super rtype,0.23,0.6990068,nintendo,shooter,0,1991,1990
+barnyard blast swine of the night,0.02,0.40734613,big ben interactive,platform,0,2008,2000
+csi hard evidence,0.99,0.37771228,ubisoft,adventure,0,2008,2000
+ikki tousen eloquent fist,0.02,0.19639616,marvelous interactive,fighting,0,2008,2000
+foto showdown,0.03,0.28198382,unknown,roleplaying,0,2010,2010
+virtual kasparov,0.02,0.44032753,titus,strategy,0,2002,2000
+sengoku cyber fujimaru jigokuhen,0.12,0.24269977,sony computer entertainment,strategy,0,1995,1990
+dissidia final fantasy universal tuning,0.06,0.3191567,square enix,fighting,0,2009,2000
+nfl quarterback club 99,0.62,0.49064517,acclaim entertainment,sports,0,1998,1990
+graffiti kingdom,0.03,0.5690532,505 games,roleplaying,0,2004,2000
+pokemon redpokemon blue,31.37,9.170599,nintendo,roleplaying,0,1996,1990
+farm frenzy animal country,0.15,0.29114208,city interactive,simulation,0,2009,2000
+gradius v,0.09,0.36376435,konami digital entertainment,shooter,1,2004,2000
+disneys meet the robinsons,0.33,1.0168772,disney interactive studios,action,0,2007,2000
+math play,0.31,0.39522213,ubisoft,puzzle,0,2006,2000
+yumeiro patissiere my sweets cooking,0.03,0.36063337,konami digital entertainment,simulation,0,2010,2010
+kobitodzukan kobito no fushigi  jikken set,0.08,0.2539462,nippon columbia,misc,0,2013,2010
+100 classic games,0.04,0.43158525,rondomedia,misc,0,2011,2010
+fighters destiny,0.16,0.34482872,ocean,fighting,0,1998,1990
+assassins creed revelations,9.19,4.034301,ubisoft,action,0,2011,2010
+kokoro no kokoron,0.03,0.23381504,namco bandai games,misc,0,2011,2010
+realsports volleyball,0.13,0.37191772,atari,sports,0,1981,1980
+jambo safari animal rescue,0.0999999999999999,0.35513377,sega,simulation,0,2009,2000
+triple play 98,1.1,0.42880452,electronic arts,sports,0,1997,1990
+boktai 2 solar boy django,0.04,0.28989154,konami digital entertainment,roleplaying,1,2004,2000
+call of duty modern warfare trilogy,0.04,10.42018,activision,shooter,0,2016,2010
+sly cooper thieves in time,0.8300000000000001,0.93660736,sony computer entertainment europe,platform,0,2013,2010
+kimi ga aruji de shitsuji ga ore de oshie nikki,0.02,0.17234519,minato station,adventure,0,2008,2000
+front mission alternative,0.14,0.31083968,squaresoft,strategy,0,1997,1990
+splashdown,0.8099999999999999,1.0446055,atari,racing,0,2001,2000
+go diego go great dinosaur rescue,1.39,0.5849276,taketwo interactive,action,0,2008,2000
+rugby 06,0.07,0.8033267,electronic arts,sports,0,2006,2000
+mortal kombat 4,2.19,4.5530944,gt interactive,fighting,1,1998,1990
+inazuma eleven go 2 chrono stone,0.47,2.214023,level 5,roleplaying,1,2012,2010
+bleach soul resurreccion,0.5,0.2869258,nippon ichi software,fighting,0,2011,2010
+penguins of madagascar,0.13,0.43237394,namco bandai games,action,0,2014,2010
+college slam,0.19,0.3873999,acclaim entertainment,sports,0,1995,1990
+wrath unleashed,0.12,0.38465327,lucasarts,strategy,0,2004,2000
+zatch bell electric arena,0.03,0.2728106,banpresto,fighting,0,2003,2000
+kamen rider battride war,0.19,0.67122847,namco bandai games,action,0,2013,2010
+f1 race stars,0.6599999999999999,0.4665687,codemasters,racing,0,2012,2010
+medal of honor european assault all region sales,1.88,0.55805326,electronic arts,shooter,0,2005,2000
+jleague excite stage 95,0.45,0.31664026,epoch,sports,0,1995,1990
+marvel ultimate alliance,4.5,1.1038008,activision,roleplaying,0,2006,2000
+wwe 2k15,3.23,3.5356026,taketwo interactive,sports,0,2014,2010
+boulder dash rocks,0.03,0.43221545,10tacle studios,puzzle,0,2007,2000
+bionicle matoran adventures,0.26,0.36791635,electronic arts,platform,0,2002,2000
+tomb raider the last revelation,2.89,1.8373367,eidos interactive,action,0,1998,1990
+bee movie game,1.06,0.43323672,activision,action,0,2007,2000
+the testament of sherlock holmes,0.35,0.6255296,focus home interactive,adventure,0,2012,2010
+rango the video game,0.5800000000000001,1.6366891,electronic arts,action,0,2011,2010
+marykate and ashley girls night out,0.2,0.568386,acclaim entertainment,misc,0,2002,2000
+hiiro no kakera 3 aoikuro no kusabi,0.03,0.1882911,idea factory,adventure,1,2008,2000
+sword  sorcery,0.1,0.42825955,micro cabin,roleplaying,0,1996,1990
+shrek hassle at the castle,0.66,0.4428314,tdk mediactive,action,0,2002,2000
+return to popolocrois a story of seasons fairytale,0.15,0.31337237,marvelous entertainment,simulation,0,2015,2010
+micro machines v3,0.1,0.44282687,codemasters,racing,0,1997,1990
+machi unmei no kousaten,0.02,0.17825133,chunsoft,adventure,0,2006,2000
+go go hypergrind,0.03,0.3722423,atlus,sports,0,2003,2000
+dr mario  puzzle league,0.33,0.52166486,nintendo,puzzle,0,2005,2000
+dancedancerevolution,0.64,0.27484572,konami digital entertainment,simulation,0,2010,2010
+the hustle detroit streets,0.14,0.440198,deep silver,sports,0,2005,2000
+quo vadis,0.08,1.154231,glams,strategy,0,1995,1990
+wwe day of reckoning 2,0.34,1.058849,thq,fighting,1,2005,2000
+hisshou 777 fighter pachi slot eiyu densetsu,0.05,0.27262992,vap,misc,0,1994,1990
+battlezone rise of the black dogs,0.07,0.40494716,crave entertainment,strategy,0,2000,2000
+disneys aladdin,1.78,0.681913,capcom,platform,0,1993,1990
+kousoku card battle card hero,0.11,0.27305093,nintendo,strategy,0,2007,2000
+nishijin pachinko monogatari 2,0.03,0.4142894,kss,misc,1,1996,1990
+calvin tuckers redneck jamboree,0.31,0.24451667,zoo games,misc,0,2008,2000
+all star tennis 99,0.05,0.43111855,ubisoft,sports,0,1999,1990
+pucca power up,0.06,0.393232,rising star games,platform,0,2011,2010
+toy story mania,1.92,0.57423556,disney interactive studios,misc,0,2009,2000
+dynasty warriors 2,0.83,1.0260674,thq,action,1,2000,2000
+kikou heidan jphoenix,0.06,0.13309158,takara,action,0,2001,2000
+bully scholarship edition,1.62,0.3624199,taketwo interactive,action,0,2008,2000
+popeye,1.64,2.113226,nintendo,platform,0,1983,1980
+football manager 2012,1.65,0.43343842,sega,sports,0,2011,2010
+kan colle kai,0.19,0.20597441,kadokawa games,action,0,2016,2010
+dead or alive dimensions,0.45,0.41118848,ubisoft annecy,fighting,0,2011,2010
+spy fox in dry cereal,0.06,0.25995415,majesco entertainment,adventure,0,2008,2000
+harukanaru toki no naka de yumenoukihashi,0.05,0.19606747,tecmo koei,adventure,0,2008,2000
+world series baseball 2k3,0.4,0.32639742,sega,sports,0,2003,2000
+go go ackman 3,0.04,0.5037368,banpresto,platform,1,1995,1990
+sakura sakura haru urara,0.01,0.24218443,gn software,adventure,0,2010,2010
+sushi goround,0.09,0.43927765,asylum entertainment,simulation,0,2010,2010
+jampack winter 99,1.69,0.4487571,sony computer entertainment,misc,0,1999,1990
+fifa soccer 64,0.49,6.256607,electronic arts,sports,0,1997,1990
+pro yakyuu spirits 5 kanzenban,0.08,0.27074498,konami digital entertainment,sports,1,2008,2000
+jam sessions sing and play guitar jp sales,0.01,0.24263607,ubisoft,misc,0,2007,2000
+bustamove ds,0.11,0.21187292,505 games,puzzle,0,2005,2000
+namco museum 64,1.45,0.40056407,namco bandai games,misc,0,1999,1990
+the guided fate paradox,0.07,0.3988312,nippon ichi software,roleplaying,0,2013,2010
+mario  luigi dream team,2.06,1.354261,nintendo,roleplaying,0,2013,2010
+winning post world 2010,0.04,0.3785407,tecmo koei,sports,0,2010,2010
+terminator salvation,0.89,0.7539765,warner bros interactive entertainment,shooter,0,2009,2000
+night at the museum battle of the smithsonian,0.78,0.4195857,majesco entertainment,action,0,2009,2000
+devil may cry hd collection,1.28,0.39596683,capcom,action,0,2012,2010
+demolition racer,0.31,0.53258234,infogrames,racing,0,1998,1990
+allpro football 2k8,0.41,0.40655196,taketwo interactive,sports,0,2007,2000
+kaidan restaurant ura menu 100sen,0.08,0.2394108,namco bandai games,misc,0,2010,2010
+history civil war secret missions,0.28,0.45022255,activision,shooter,0,2008,2000
+50 classic games,0.5700000000000001,0.35619086,destineer,misc,0,2009,2000
+shin hisui no shizuku hiiro no kakera 2 portable,0.02,0.10596475,idea factory,adventure,1,2010,2010
+wii sports club,0.4,5.5311055,nintendo,sports,0,2014,2010
+gt advance 3 pro concept racing,0.08,0.45505196,thq,racing,1,2002,2000
+jr pacman,0.78,0.6979847,atari,puzzle,0,1983,1980
+codename kids next door operation videogame,0.17,0.36436337,global star,platform,0,2005,2000
+mlb 16 the show,1.0,1.1487457,sony computer entertainment,action,0,2016,2010
+guilty gear,0.14,0.5034719,virgin interactive,fighting,0,1998,1990
+negima 3jikanme koi to mahou to sekaiju densetsu,0.04,0.20035195,konami digital entertainment,adventure,0,2006,2000
+barbie as the princess and the pauper,0.02,0.4353869,vivendi games,adventure,0,2004,2000
+zaidan houjin nippon kanji nouryoku kentei kyoukai kounin kanken ds 2  jouyou kanji jiten,0.33,0.19811137,rocket company,misc,1,2007,2000
+monster hunter frontier online season 90,0.04,0.672822,capcom,roleplaying,0,2010,2010
+commando steel disaster,0.02,0.37828612,lexicon entertainment,shooter,0,2008,2000
+nhl 2005,0.68,1.2023605,electronic arts,sports,0,2004,2000
+midnight club 3 dub edition america weekly sales,1.29,0.31286496,taketwo interactive,racing,1,2005,2000
+kamen rider battride war ii,0.12,0.91676795,namco bandai games,action,1,2014,2010
+final fantasy xi rise of the zilart,0.13,1.4864397,square enix,roleplaying,0,2003,2000
+chibirobo park patrol,0.19,0.1831491,unknown,adventure,0,2007,2000
+resident evil  code veronica x,2.4,2.2529573,capcom,action,0,2001,2000
+tetris attack,0.38,0.9358243,nintendo,puzzle,0,1996,1990
+dynasty warriors vol 2,0.05,0.52025044,tecmo koei,action,1,2006,2000
+jikkyou powerful pro yakyuu next,0.08,0.16605261,konami digital entertainment,sports,0,2009,2000
+championship pony,0.1,0.29275095,destination software inc,simulation,0,2008,2000
+escape from bug island,0.06,0.46049213,eidos interactive,action,0,2006,2000
+brave fencer musashi,1.14,0.57061225,squaresoft,roleplaying,0,1998,1990
+fire emblem,0.97,0.40110832,nintendo,strategy,0,2003,2000
+pokemon blackpokemon white,15.32,6.4817963,nintendo,roleplaying,0,2010,2010
+kokoro connect yochi random,0.02,0.21694921,namco bandai games,action,0,2012,2010
+momotarou dentetsu 12,0.35,0.2284973,hudson soft,misc,0,2003,2000
+burger island,0.31,1.0642438,destineer,action,0,2008,2000
+gran turismo 4 prologue,1.41,4.2525005,sony computer entertainment,racing,1,2003,2000
+the stronghold collection,0.13,0.42609888,taketwo interactive,strategy,0,2009,2000
+brothers in arms ds,0.04,0.83174086,ubisoft,shooter,0,2007,2000
+full auto,0.22,0.42825955,sega,shooter,0,2006,2000
+yakuza 2,1.09,0.46944714,sega,adventure,1,2006,2000
+criminal girls invite only,0.19,0.25439334,nippon ichi software,roleplaying,0,2013,2010
+broken sword 5 the serpents curse,0.0699999999999999,0.4313059,revolution software,adventure,1,2015,2010
+forsaken,0.24,0.44045985,acclaim entertainment,shooter,0,1998,1990
+alundra,0.23,0.4022743,psygnosis,roleplaying,0,1997,1990
+the legend of spyro dawn of the dragon,2.22,0.7733214,vivendi games,platform,0,2008,2000
+cars maternational championship,1.98,0.42488247,thq,racing,0,2007,2000
+the typing of the dead,0.05,0.43970817,sega,shooter,0,2000,2000
+hakuoki stories of the shinsengumi,0.05,0.110129446,idea factory,adventure,0,2010,2010
+battle arena toshinden,1.27,0.5682538,sony computer entertainment,fighting,0,1994,1990
+baseball advance,0.13,0.29741153,sega,sports,0,2002,2000
+shinseiki evangelion 2 tsukurareshi sekai  another cases,0.05,0.2691965,namco bandai games,adventure,1,2006,2000
+wwf in your house,0.62,0.61236846,acclaim entertainment,fighting,0,1996,1990
+boom blox,1.23,0.4423734,electronic arts,puzzle,0,2008,2000
+mega man battle network 5 double team ds us sales,0.07,0.48230898,nintendo,roleplaying,1,2005,2000
+whirl tour,0.27,0.3128122,crave entertainment,sports,0,2002,2000
+neo contra,0.21,0.36894605,konami digital entertainment,shooter,0,2004,2000
+thunder force v perfect system,0.05,0.45614612,technosoft,shooter,1,1998,1990
+dynasty warriors 5,1.44,0.56729305,tecmo koei,action,1,2005,2000
+mahjong taikai,0.04,0.31216592,tecmo koei,misc,0,2004,2000
+konjiki no gashbell makai no bookmark,0.26,0.20426625,banpresto,adventure,0,2004,2000
+cake mania bakers challenge,0.06,0.4992274,destineer,puzzle,0,2008,2000
+bustamove 4,0.22,0.69849694,acclaim entertainment,puzzle,1,1998,1990
+persona 5,0.44,2.1218243,atlus,roleplaying,1,2016,2010
+the misadventures of tron bonne,0.05,0.34471124,eidos interactive,adventure,0,1999,1990
+snk vs capcom the match of the millennium,1.6,0.6838964,sega,fighting,0,2006,2000
+elite beat agents,0.38,0.46672475,nintendo,misc,0,2006,2000
+skylanders trap team,4.4,1.9578981,activision,action,0,2014,2010
+cosmic ark,1.05,0.43526912,imagic,shooter,0,1981,1980
+kamen rider kabuto,0.06,0.48549467,namco bandai games,action,0,2006,2000
+dream c club zero,0.03,0.2321681,d3publisher,simulation,0,2011,2010
+dynasty warriors gundam 3,0.73,0.45717955,tecmo koei,action,1,2010,2010
+monopoly collection,0.09,0.42825955,electronic arts,misc,0,2011,2010
+bakumatsu rock,0.01,0.5091253,marvelous entertainment,action,0,2014,2010
+mind zero,0.15,0.9527946,gungho,roleplaying,0,2013,2010
+kimi no yuusha,0.01,0.21462394,snk playmore,roleplaying,0,2008,2000
+soul eater monotone princess,0.02,0.38222182,square enix,action,0,2008,2000
+udraw studio,2.46,0.4023794,thq,misc,0,2010,2010
+world soccer winning eleven 6 international,2.99,0.4351151,konami digital entertainment,sports,1,2002,2000
+the idolmster one for all,0.13,0.38321853,namco bandai games,misc,0,2014,2010
+daikaijuu battle ultra coliseum,0.02,0.25825965,namco bandai games,fighting,0,2008,2000
+dora the explorer game boy advance video volume 1,0.26,0.52817255,unknown,misc,0,2004,2000
+gokuhou mecha mote iinchou girls motekawa box,0.01,0.20158198,konami digital entertainment,simulation,0,2009,2000
+lego jurassic world,4.98,1.2564801,warner bros interactive entertainment,action,0,2015,2010
+mega man battle network 3 blue  white version,1.29,0.35417694,capcom,roleplaying,1,2002,2000
+dr muto,0.25,0.51144797,midway games,platform,0,2002,2000
+james bond 007 nightfire,5.0600000000000005,1.7233377,electronic arts,shooter,0,2002,2000
+super mario advance,5.49,6.928233,nintendo,platform,0,2001,2000
+magicka,0.03,0.39278167,paradox interactive,roleplaying,0,2011,2010
+armored core last raven,0.18,0.4167089,505 games,simulation,0,2005,2000
+pachislot teiou golgo 13 las vegas jp sales but wrong system,0.01,0.32322305,media entertainment,misc,0,2002,2000
+xcom 2,0.26,0.65176827,taketwo interactive,strategy,1,2016,2010
+999 nine hours nine persons nine doors,0.43,0.26262015,chunsoft,adventure,0,2009,2000
+dawn of heroes,0.08,0.8624303,majesco entertainment,roleplaying,0,2010,2010
+i spy fun house,0.83,0.4220724,scholastic inc,puzzle,0,2007,2000
+marvel super heroes vs street fighter,0.26,1.5640372,virgin interactive,fighting,0,1998,1990
+rapala pro bass fishing 2010,1.23,0.87479043,activision,sports,0,2010,2010
+nanatsuiro  drops pure,0.02,0.21246159,media works,adventure,0,2007,2000
+shinseiki evangelion battle orchestra portable,0.01,0.26944453,broccoli,fighting,0,2009,2000
+nobunagas ambition iron triangle,0.09,0.14751285,tecmo koei,strategy,0,2006,2000
+iridion ii,0.13,0.4115461,vivendi games,shooter,1,2003,2000
+world cup 98 france road to win,0.09,0.58694994,sega,sports,0,1998,1990
+mega man star force dragon  leo  pegasus,0.96,0.4487204,capcom,action,0,2006,2000
+ookami kakushi,0.04,0.23416972,konami digital entertainment,action,0,2009,2000
+naruto ninja destiny,0.19,0.6859102,namco bandai games,fighting,0,2006,2000
+kya dark lineage,0.16,0.29779598,atari,adventure,0,2003,2000
+dance dance revolution disney grooves,0.18,0.62076044,konami digital entertainment,simulation,0,2009,2000
+halo wars,2.63,1.0520965,microsoft game studios,strategy,0,2009,2000
+onimusha blade warriors,0.12,0.4190101,capcom,fighting,0,2003,2000
+academy of champions soccer,0.13,0.29298186,ubisoft,sports,0,2009,2000
+gretzky nhl 06,0.28,1.2171403,sony computer entertainment,sports,0,2005,2000
+the peanuts movie snoopys grand adventure,0.09,1.6574004,activision,action,0,2015,2010
+nascar thunder 2002,1.91,0.6674747,electronic arts,racing,0,2001,2000
+beat down fists of vengeance,0.17,0.48962587,capcom,action,0,2005,2000
+bulletstorm,1.71,0.52630657,electronic arts,shooter,0,2011,2010
+enemy front,0.12,0.35289782,city interactive,shooter,0,2014,2010
+discovery kids puppy playtime,0.33,0.3849242,505 games,simulation,0,2009,2000
+destiny the collection,0.1,1.5600929,activision,shooter,0,2016,2010
+dead or alive 2,1.14,0.29417443,tecmo koei,fighting,1,2000,2000
+kiniro no corda 2,0.06,0.24626806,tecmo koei,roleplaying,1,2007,2000
+mobile suit gundam perfect one year war,0.15,0.4179042,namco bandai games,strategy,0,1997,1990
+robotron 64,0.09,0.97696745,gt interactive,shooter,0,1998,1990
+codename panzers complete collection,0.01,0.27204618,nordic games,strategy,0,2016,2010
+lunar 2 eternal blue,0.12,0.41461444,kadokawa shoten,roleplaying,1,1998,1990
+spectral force genesis,0.09,0.25468928,nobilis,roleplaying,0,2008,2000
+soul eater plot of medusa,0.05,0.3430916,namco bandai games,action,0,2008,2000
+shanghai true valor,0.02,0.44056916,activision,puzzle,0,1998,1990
+katekyoo hitman reborn ds flame rumble kaien ring soudatsuen,0.08,0.16355668,takara tomy,fighting,0,2007,2000
+naruto shippuden gekito ninja taisen special,0.06,0.326737,takara tomy,fighting,0,2010,2010
+the conveni 4,0.02,0.38383216,hamster corporation,simulation,1,2006,2000
+classic nes series donkey kong,0.73,0.79833305,nintendo,platform,0,2004,2000
+carmageddon 64,0.01,0.46729374,virgin interactive,action,0,1999,1990
+air raid,0.77,0.45844454,menavision,action,0,1981,1980
+the walking dead survival instinct,1.29,2.2099314,activision,shooter,0,2013,2010
+madden nfl 11,5.94,6.223221,electronic arts,sports,0,2010,2010
+yakuza ishin,0.41,0.30877185,sega,action,0,2014,2010
+catherine,1.04,0.30352744,deep silver,adventure,0,2011,2010
+midway arcade treasures extended play,0.24,0.4890272,midway games,misc,0,2005,2000
+ultra bustamove,0.05,0.32499933,505 games,puzzle,0,2004,2000
+mario party 9,3.32,2.1551008,nintendo,misc,1,2012,2010
+nba ballers phenom,0.6,0.36355454,midway games,sports,0,2006,2000
+dynasty warriors 3 xtreme legends,1.0,1.0415261,tecmo koei,action,1,2002,2000
+resident evil survivor,0.71,1.0927304,eidos interactive,action,0,2000,2000
+arcania gothic 4,0.34,0.37829846,jowood productions,roleplaying,1,2010,2010
+spirit stallion of the cimarron,0.3,0.48749655,thq,platform,0,2002,2000
+cabelas outdoor adventures 2009,0.92,0.39097822,activision value,sports,0,2009,2000
+jissen pachislot hisshouhou hokuto no ken ds,0.04,0.27670848,sega,misc,0,2005,2000
+hioctane the track fights back,0.05,0.44283825,electronic arts,racing,0,1995,1990
+harvest moon 3d a new beginning,0.91,0.674327,marvelous entertainment,action,0,2012,2010
+cartoon network collection game boy advance video platinum edition,0.32,0.42758274,unknown,misc,0,2005,2000
+wild arms 5,0.28,1.7342918,505 games,roleplaying,1,2006,2000
+ds yamamura misa suspense maiko kogiku  kisha katherine  sougiya isa akashi  koto ni maru hana sanrin kyoto satujin jinken file,0.12,0.10445072,tecmo koei,adventure,0,2008,2000
+laser blast,0.39,0.42825955,activision,action,0,1981,1980
+jissen pachislot hisshouhou aladdin a,0.2,0.28215843,sammy corporation,misc,0,2002,2000
+funky barn,0.11,0.4317562,ubisoft,simulation,0,2012,2010
+ea sports ufc 2,1.29,8.154876,electronic arts,sports,1,2016,2010
+nba live 16,0.27,0.954685,electronic arts,sports,0,2015,2010
+wcw mayhem,2.01,1.0417345,electronic arts,fighting,0,1998,1990
+outrun 2006 coast 2 coast,0.09,0.46384025,sega,racing,1,2006,2000
+sengoku basara 4,0.27,0.7929099,capcom,action,1,2014,2010
+tokimeki memorial private collection,0.17,0.32039243,konami digital entertainment,misc,0,1996,1990
+tokyo xtreme racer,0.17,0.48798138,genki,racing,0,1999,1990
+avatar the game,3.48,1.2556196,ubisoft,action,0,2009,2000
+wtf work time fun,0.04,0.4306531,sony computer entertainment,puzzle,0,2005,2000
+tom clancys ghost recon jungle storm,1.16,1.3180261,ubisoft,shooter,0,2004,2000
+x3 terran conflict,0.03,0.4222027,deep silver,simulation,0,2008,2000
+reading training,0.09,0.43724865,benesse,misc,0,2007,2000
+singstar vol 3,0.14,1.0906409,sony computer entertainment,misc,1,2008,2000
+game  wario,0.24,0.6349636,nintendo,misc,0,2013,2010
+machiing maker 4,0.02,0.22217968,d3publisher,strategy,1,2011,2010
+lunar silver star harmony,0.24,0.71587694,gungho,roleplaying,0,2009,2000
+tourist trophy the real riding simulator,0.68,0.6292087,sony computer entertainment,racing,0,2006,2000
+aegis of earth protonovus assault,0.09,0.32645565,pqube,action,0,2016,2010
+dragons lair 3d return to the lair,0.09,1.294634,ubisoft,platform,0,2002,2000
+tomb raider underworld others sales,0.26,0.3054701,eidos interactive,adventure,0,2009,2000
+disneys the lion king simbas mighty adventure,0.15,0.6981814,activision,action,0,2000,2000
+last escort club katze,0.04,0.28015405,d3publisher,adventure,0,2010,2010
+utawarerumono chiriyukusha e no komoriuta,0.11,0.19573951,aqua plus,adventure,0,2006,2000
+dreamer series horse trainer,0.02,0.2371189,dreamcatcher interactive,simulation,0,2008,2000
+the crow city of angels,0.02,0.42308283,acclaim entertainment,action,0,1997,1990
+polar bowler,0.02,0.3803755,mumbo jumbo,sports,0,2008,2000
+saga frontier 2,0.94,1.0054692,squaresoft,roleplaying,1,1999,1990
+god eater off shot tachibana sakuyahen twin pack  animation vol7,0.01,0.14947766,namco bandai games,action,0,2016,2010
+binary star,0.01,0.18328977,idea factory,adventure,0,2014,2010
+girls mode 3 kirakira code,0.23,1.5858146,nintendo,action,1,2015,2010
+rescue heroes billy blazes,0.08,0.527271,vivendi games,action,0,2003,2000
+no more heroes,0.57,0.41962355,rising star games,action,0,2007,2000
+my makeup,0.09,0.5757103,oxygen interactive,misc,0,2008,2000
+detective conan phantom rhapsody,0.03,0.5856374,namco bandai games,action,0,2014,2010
+white knight chronicles origins,0.15,0.89658237,sony computer entertainment,roleplaying,0,2011,2010
+emergency mayhem,0.02,0.44072276,codemasters,racing,0,2008,2000
+nobunagas ambition tenshouki with powerup kit hd version,0.02,0.13858433,tecmo koei,strategy,0,2015,2010
+army men sarges war,0.26,0.43166435,global star,shooter,0,2004,2000
+nhl 13,1.32,0.50932264,electronic arts,sports,0,2012,2010
+dance dance revolution hottest party,2.08,0.65299016,konami digital entertainment,simulation,0,2007,2000
+littlebigplanet 2,3.42,5.5148563,sony computer entertainment,platform,1,2011,2010
+pacman world 3,0.71,0.4752218,namco bandai games,platform,1,2005,2000
+kirby tilt n tumble,1.23,0.7594416,nintendo,puzzle,0,2000,2000
+ape escape pumped  primed,0.08,0.3474769,sony computer entertainment,misc,0,2004,2000
+style savvy,2.61,0.41944844,nintendo,simulation,0,2008,2000
+toro to morimori,0.01,0.30593288,sony computer entertainment,misc,0,2009,2000
+winx club quest for the codex,0.06,0.28257492,konami digital entertainment,action,0,2006,2000
+timeshock pro pinball,0.03,0.4318565,empire interactive,misc,0,1998,1990
+nfl gameday,0.85,0.83213145,sony computer entertainment,sports,0,1995,1990
+gt advance 2 rally racing,0.11,0.44616753,thq,racing,1,2001,2000
+gran turismo 5,10.77,6.4885597,sony computer entertainment,racing,1,2010,2010
+kikiite hajimaru eigo kaiwa training  kikitore,0.01,0.16692069,benesse,misc,0,2008,2000
+power pro kun pocket 9,0.15,0.33156228,konami digital entertainment,sports,1,2006,2000
+fantasy aquarium world,0.07,0.4462282,destineer,simulation,0,2009,2000
+the king of fighters 2006,0.08,0.4318185,ignition entertainment,fighting,0,2006,2000
+shadow the hedgehog,1.77,1.1919206,sega,platform,0,2005,2000
+body and brain connection,0.2,0.3391986,namco bandai games,misc,0,2010,2010
+metroid prime 2 echoes,1.33,2.3726516,nintendo,shooter,1,2004,2000
+prison architect,0.02,0.323399,introversion software,action,0,2016,2010
+crash bandicoot 2 ntranced,1.36,0.47437668,vivendi games,platform,1,2003,2000
+rozen maiden duellwalzer,0.02,0.24294671,taito,adventure,0,2006,2000
+pdc world championship darts 2009,0.02,0.44093925,oxygen interactive,sports,0,2009,2000
+dark souls,3.14,0.44033754,namco bandai games,roleplaying,0,2011,2010
+the golf club,0.11,0.2512492,unknown,sports,0,2014,2010
+sd gundam force,0.02,0.38248205,namco bandai games,shooter,0,2004,2000
+little red riding hoods zombie bbq,0.04,0.6517851,destineer,shooter,0,2008,2000
+yugioh 7 trials to glory world championship tournament 2005,0.42,0.36177528,konami digital entertainment,misc,1,2005,2000
+bigfoot king of crush,0.03,0.32371643,zoo games,racing,0,2011,2010
+fighter destiny 2,0.05,0.7197426,imagineer,fighting,1,1999,1990
+cabelas survival shadows of katmai,0.59,0.36071175,activision,sports,0,2011,2010
+commandos strike force,0.08,0.39839798,eidos interactive,shooter,0,2006,2000
+froggers journey the forgotten relic,0.26,0.42825955,konami digital entertainment,action,0,2003,2000
+marc eckos getting up contents under pressure,0.05,0.3609603,atari,action,0,2006,2000
+rr64 ridge racer 64,0.4,0.5709024,nintendo,racing,0,1999,1990
+speed kings,0.16,1.3505886,acclaim entertainment,racing,0,2003,2000
+zac to ombra maboroshi no yuuenchi,0.04,0.17641623,konami digital entertainment,adventure,0,2010,2010
+jake power policeman,0.05,0.32565108,ubisoft,adventure,0,2008,2000
+game no kanzume vol 1,0.05,0.30907127,sega,misc,0,1994,1990
+infinite stratos 2 ignition hearts,0.06,0.32047752,5pb,adventure,1,2014,2010
+disney magic world 2,0.19,5.38635,nintendo,action,1,2015,2010
+san goku shi ds 3,0.04,0.19780077,tecmo koei,strategy,1,2010,2010
+nba 2k,0.05,0.48422998,sega,sports,0,1999,1990
+pirates the legend of black kat,0.2,0.3899836,electronic arts,adventure,0,2002,2000
+mobile suit gundam giren no yabou zeon dokuritsu sensouden,0.38,0.25130415,namco bandai games,strategy,0,2002,2000
+glover,1.08,1.3061073,hasbro interactive,platform,0,1998,1990
+kidou senkan nadesico,0.15,0.13027027,sega,strategy,0,1997,1990
+i love horses,0.23,0.43371278,gsp,simulation,0,2008,2000
+mad dash racing,0.15,0.8167145,eidos interactive,racing,0,2001,2000
+theatrhythm final fantasy,0.5,0.45578867,square enix,misc,0,2012,2010
+noddy in toyland,0.06,0.45781595,gsp,misc,0,2011,2010
+donkey kong country,13.53,5.0200205,nintendo,platform,0,1994,1990
+sammy sosa high heat baseball 2001,0.58,0.5086563,3do,sports,0,2000,2000
+secret of mana,1.83,1.8693057,squaresoft,roleplaying,0,1993,1990
+dream c club gogo,0.02,0.13010365,d3publisher,adventure,0,2014,2010
+transformers revenge of the fallen wii  ps2 version,0.45,4.0923386,activision,action,0,2009,2000
+d,0.11,0.21242625,acclaim entertainment,adventure,0,1995,1990
+retro game challenge,0.11,0.42896807,namco bandai games,action,0,2007,2000
+pipe mania,0.3,0.34623754,empire interactive,puzzle,0,2008,2000
+tomb raider the prophecy,0.14,2.5057673,ubisoft,action,0,2002,2000
+imagine family doctor,0.3,0.64386255,ubisoft,simulation,0,2009,2000
+dc iii da capo iii,0.03,0.25258815,kadokawa games,adventure,1,2013,2010
+j stars victory vs,0.8300000000000001,0.34840825,namco bandai games,fighting,0,2014,2010
+tennis no ojisama driving smash side king,0.02,0.24755427,konami digital entertainment,sports,0,2008,2000
+pirates of the caribbean at worlds end,2.74,0.75536925,disney interactive studios,action,0,2007,2000
+katekyoo hitman reborn ds fate of heat  hono no unmei,0.07,0.16271065,takara tomy,roleplaying,0,2008,2000
+the invincible iron man,0.04,0.87038034,activision,action,0,2002,2000
+silent hill 4 the room,0.69,0.8999044,konami digital entertainment,action,1,2004,2000
+spy hunter  super sprint,0.02,0.60497093,zoo digital publishing,racing,0,2005,2000
+koisuru otome to shugo no tate the shield of aigis,0.02,0.21331802,alchemist,adventure,0,2008,2000
+dino stalker,0.22,0.5026856,capcom,shooter,0,2002,2000
+okashi na shima no peter pan sweet never land,0.02,0.24542654,quinrose,adventure,0,2011,2010
+the bee game,0.19,0.44283003,midway games,adventure,0,2007,2000
+rogue galaxy directors cut,0.41,0.555467,sony computer entertainment,roleplaying,0,2007,2000
+vitamin x to z,0.06,0.23590212,d3publisher,adventure,0,2011,2010
+bahamut lagoon,0.62,0.4134128,squaresoft,roleplaying,0,1996,1990
+space camp,0.29,0.6585538,activision,action,0,2009,2000
+sonic riders,1.55,0.9664111,sega,racing,0,2006,2000
+the lost world jurassic park,1.02,2.3940215,electronic arts,action,0,1997,1990
+growlanser generations,0.11,0.2312329,atlus,roleplaying,0,2003,2000
+around the world in 80 days,0.21,0.33297783,playv,action,0,2010,2010
+destroy all humans,1.4,0.42825955,thq,shooter,0,2005,2000
+wipeout 3,0.34,0.6685561,psygnosis,racing,1,1999,1990
+real soccer 2009,0.06,0.41903853,ubisoft,sports,0,2008,2000
+worms world party,0.07,0.4186659,ubisoft,strategy,0,2002,2000
+fossil fighters frontier,0.35,0.4937405,nintendo,roleplaying,0,2014,2010
+house md,0.03,0.15202664,mindscape,adventure,0,2010,2010
+captain tsubasa j the way to world youth,0.03,0.39154512,namco bandai games,sports,0,1995,1990
+legend of legaia,0.66,0.30461854,sony computer entertainment,roleplaying,0,1998,1990
+paraparaparadise,0.03,0.36972317,konami digital entertainment,misc,0,2001,2000
+trace memory,0.3,0.33260703,nintendo,adventure,0,2005,2000
+2 in 1 combo pack sonic heroes  super monkey ball deluxe,0.65,0.47878814,sega,misc,1,2004,2000
+toca race driver 2,0.04,0.3572756,codemasters,racing,1,2004,2000
+mlb front office manager,0.15,0.39852262,taketwo interactive,sports,0,2009,2000
+fairy tail zelef kakusei,0.07,0.24150468,unknown,action,0,2012,2010
+the legend of heroes vii the trail of blue,0.26,0.41913217,falcom corporation,roleplaying,0,2011,2010
+the suite life of zack  cody tipton trouble,0.25,0.47269863,disney interactive studios,action,0,2006,2000
+elven legacy,0.02,0.1921604,paradox interactive,strategy,0,2009,2000
+sumikko gurashi omise hajimerundesu,0.14,0.22839357,nippon columbia,action,0,2015,2010
+suzumiya haruhichan no mahjong,0.02,0.22768247,kadokawa shoten,misc,0,2011,2010
+dragon ball z hyper dimension,0.21,0.69487214,namco bandai games,fighting,0,1995,1990
+total immersion racing,0.13,0.50563574,empire interactive,racing,0,2002,2000
+chicken hunter,0.02,0.46002644,phoenix games,shooter,0,2007,2000
+mind over matter,0.02,0.43562043,505 games,puzzle,0,2010,2010
+mx unleashed,2.36,0.3440061,thq,racing,0,2004,2000
+asuras wrath,0.6499999999999999,0.42648774,capcom,action,0,2012,2010
+family party fitness fun,0.15,0.36476204,d3publisher,sports,0,2010,2010
+motorstorm apocalypse,0.49,0.6743019,sony computer entertainment,racing,0,2011,2010
+soulcalibur broken destiny,0.51,0.44091117,namco bandai games,fighting,0,2009,2000
+batman  robin,0.11,1.5994337,acclaim entertainment,action,0,1998,1990
+the sims 3 seasons,0.17,0.6968336,electronic arts,simulation,1,2012,2010
+earthworm jim 2,0.03,1.2935225,vivendi games,platform,1,2002,2000
+haze,1.0,1.0273749,ubisoft,shooter,0,2008,2000
+the sims 4 luxury party stuff,0.02,0.7047959,electronic arts,simulation,1,2015,2010
+final fantasy x  x2 hd remaster,2.3,0.49636006,square enix,roleplaying,0,2013,2010
+wwe smackdown vs raw 2008,7.41,1.4256203,thq,fighting,0,2007,2000
+zombie army trilogy,0.3,0.36635792,rebellion developments,shooter,0,2015,2010
+teenage mutant ninja turtles ii back from the sewers,0.06,1.5008755,konami digital entertainment,action,1,1991,1990
+far east of eden shinden,0.03,0.4367469,hudson soft,fighting,0,1995,1990
+ninja gaiden ii,1.01,1.199073,tecmo koei,action,1,2008,2000
+age of empires mythologies,0.22,0.3940674,thq,strategy,0,2008,2000
+deadly premonition,0.42,0.39361984,rising star games,action,0,2010,2010
+vantage master portable,0.02,0.4043947,falcom corporation,roleplaying,0,2008,2000
+world sports competition,0.03,0.38975313,hudson soft,sports,0,2009,2000
+emergency 2012,0.09,0.27817613,deep silver,simulation,0,2010,2010
+ice age dawn of the dinosaurs,1.1800000000000002,0.42813808,activision,action,0,2009,2000
+petz saddle club,0.09,0.20629336,ubisoft,simulation,0,2009,2000
+bishoujo senshi sailormoon r,0.27,0.2771506,namco bandai games,fighting,0,1993,1990
+disgaea infinite,0.08,0.26522225,nippon ichi software,adventure,0,2010,2010
+nihon keizai shinbunsha kanshuu shiranai mamade wa son o suru mono ya okane no shikumi ds,0.1,0.23537235,nintendo,misc,0,2009,2000
+dragon warrior iii,5.45,2.3152452,enix corporation,roleplaying,1,1988,1980
+ben 10 omniverse 2,0.03,0.57118887,namco bandai games,action,1,2013,2010
+medabots metabee,0.05,0.3545987,natsume,roleplaying,0,2002,2000
+katekyoo hitman reborn kindan no yami no delta,0.03,0.11313431,marvelous interactive,action,0,2008,2000
+gaia saver hero saidai no sakusen,0.03,0.3078298,banpresto,roleplaying,0,1994,1990
+princess in love,0.08,0.36822712,dtp entertainment,simulation,0,2009,2000
