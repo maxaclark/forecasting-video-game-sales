@@ -1,6 +1,11 @@
 # Forecasting Video Game Sales 🎮
 
 A lightweight machine‑learning pipeline and Streamlit app to **forecast global video‑game sales** from game metadata (title, genre, platform, publisher, release year, franchise tags, etc.).
+The work is split into: 
+- **Data cleaning & feature engineering** (notebooks) 
+-  **Exploratory Data Analysis (EDA)** 
+-   **Modeling pipeline** (NLP + tabular features) 
+-    **Prototype Streamlit dashboard** for visualization and “what-if” exploration
 
 > ⚠️ **Project status:** *Work in progress*. The Streamlit dashboard is partially implemented; model integration and advanced feature insights will land in the next milestone.
 
