@@ -1,4 +1,4 @@
-# Forecasting Video Game Sales 🎮
+# Forecasting Video Game Sales 
 
 A lightweight machine‑learning pipeline and Streamlit app to **forecast global video‑game sales** from game metadata (title, genre, platform, publisher, release year, franchise tags, etc.).
 The work is split into: 
@@ -7,7 +7,7 @@ The work is split into:
 -   **Modeling pipeline** (NLP + tabular features) 
 -    **Prototype Streamlit dashboard** for visualization and “what-if” exploration
 
-> ⚠️ **Project status:** *Work in progress*. The Streamlit dashboard is partially implemented; model integration and advanced feature insights will land in the next milestone.
+> **Project status:** *Work in progress*. The Streamlit dashboard is partially implemented; model integration and advanced feature insights will land in the next milestone.
 
 ---
 
@@ -20,9 +20,9 @@ The work is split into:
   - [3) Launch the app](#3-launch-the-app)
   - [4) Stop the app](#4-stop-the-app)
 - [Using the App](#using-the-app)
-  - [📊 Sales Trends (Working)](#-sales-trends-working)
-  - [🎯 Prediction Interface (UI Only)](#-prediction-interface-ui-only)
-  - [🔍 Feature Insights (Planned)](#-feature-insights-planned)
+  - [ Sales Trends (Working)](#-sales-trends-working)
+  - [ Prediction Interface (UI Only)](#-prediction-interface-ui-only)
+  - [ Feature Insights (Planned)](#-feature-insights-planned)
 
 
 ---
@@ -92,17 +92,17 @@ Press **Ctrl + C** in the terminal running Streamlit.
 
 ## Using the App
 
-### 📊 Sales Trends (Working)
+###  Sales Trends (Working)
 - Filter by **Year**, **Genre**, **Platform**
 - Aggregate by **Year / Genre / Platform**
 - Interactive charts + **Top games** table
 
-### 🎯 Prediction Interface (UI Only)
+###  Prediction Interface (UI Only)
 - Fill in metadata: **Title, Platform, Genre, Year, Publisher**
 - Form submission is wired; **model predictions pending**
 - Regression model integration will arrive in the next milestone
 
-### 🔍 Feature Insights (Planned)
+###  Feature Insights (Planned)
 This page will eventually include:
 - **SHAP** feature-importance plots
 - **Correlation** heatmap
