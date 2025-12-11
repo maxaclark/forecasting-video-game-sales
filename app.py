@@ -37,8 +37,7 @@ def main():
         st.stop()
 
     st.caption(f"Using dataset: `{DATA_PATH}`")
-    st.write(f"**Rows:** {df.shape[0]} &nbsp;&nbsp; **Columns:** {df.shape[1]}")
-    st.dataframe(df.head(10), use_container_width=True)
+    
 
     # Basic sanity checks
     required_cols = {"Year", "Genre", "Platform", "Global_Sales"}
@@ -56,8 +55,8 @@ def main():
 
     if page == "Sales Trends":
         render_sales_trends(df)
-    elif page == "Prediction (stub)":
-        render_prediction_stub(df)
+    elif page == "Prediction (Prototype)":
+        render_prediction(df)
     else:
         render_feature_insights_stub()
 
@@ -65,7 +64,10 @@ def main():
 # ---------- Page 1: Sales Trends ----------
 
 def render_sales_trends(df: pd.DataFrame):
-    st.subheader("📈 Sales Trend Visualizer")
+    st.write(f"**Rows:** {df.shape[0]} &nbsp;&nbsp; **Columns:** {df.shape[1]}")
+    st.dataframe(df.head(10), use_container_width=True)
+
+    st.subheader(" Sales Trend Visualizer")
 
     df = df.dropna(subset=["Year"]).copy()
     df["Year"] = df["Year"].astype(int)
@@ -164,9 +166,20 @@ def render_sales_trends(df: pd.DataFrame):
 
 
 # ---------- Page 2: Prediction (stub) ----------
+def render_prediction(df: pd.DataFrame):
+    st.subheader("What-If Sales Prediction (Prototype)")
 
-def render_prediction_stub(df: pd.DataFrame):
-    st.subheader("🎯 What-if Prediction Interface (Layout Only)")
+    st.markdown("""
+    This page provides a **prototype interface** for exploring hypothetical game releases.
+    Users can specify metadata such as title, genre, release year, and platform to simulate 
+    how these factors relate to sales performance.
+
+    **Note:**  
+    Integrating the trained regression model into the dashboard requires the full preprocessing 
+    pipeline (categorical encoders, numeric scalers, and BERT-based title embeddings).  
+    As described in the final report, this end-to-end pipeline is not included in the current 
+    prototype version and will be incorporated in future work.
+    """)
 
     years = sorted(df["Year"].dropna().astype(int).unique())
     genres = sorted(df["Genre"].dropna().unique())
@@ -174,37 +187,44 @@ def render_prediction_stub(df: pd.DataFrame):
 
     with st.form("prediction_form"):
         col1, col2 = st.columns(2)
+
         with col1:
             title = st.text_input("Game Title", value="New Awesome Game")
             genre = st.selectbox("Genre", options=genres)
             publisher = st.text_input("Publisher", value="Unknown")
+
         with col2:
-            year = st.selectbox("Release Year", options=years, index=len(years) - 1)
+            year = st.selectbox("Release Year", options=years, index=len(years)-1)
             platform = st.selectbox("Platform", options=platforms)
 
-        submitted = st.form_submit_button("Predict (stub)")
+        submitted = st.form_submit_button("Simulate")
 
     if submitted:
-        st.info(
-            "Form submission works ✅\n\n"
-            "Model integration is **in progress** – the final regression model "
-            "from notebooks will be wrapped into a pipeline and called here."
-        )
-        st.json(
-            {
-                "Name": title,
-                "Year": int(year),
-                "Genre": genre,
-                "Publisher": publisher,
-                "Platform": platform,
-            }
-        )
+        st.info("""
+            ### Prediction Pipeline Pending Integration  
+            The trained models (Neural Network, XGBoost, LightGBM) rely on:
+            - Numerical scaling  
+            - One-hot encoding for categorical features  
+            - 768-dimensional **BERT embeddings** for game titles  
+            - A specific feature ordering used during training  
+
+            These components are part of the research workflow described in the final report 
+            and will be integrated into the dashboard in a future iteration.
+        """)
+
+        st.json({
+            "Title": title,
+            "Year": int(year),
+            "Genre": genre,
+            "Publisher": publisher,
+            "Platform": platform
+        })
 
 
 # ---------- Page 3: Feature Insights (stub) ----------
 
 def render_feature_insights_stub():
-    st.subheader("🔍 Feature Insights (SHAP & Correlations – Planned)")
+    st.subheader("Feature Insights (SHAP & Correlations – Planned)")
 
     st.markdown(
         """
