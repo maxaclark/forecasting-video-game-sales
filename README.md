@@ -7,7 +7,7 @@ The work is split into:
 -   **Modeling pipeline** (NLP + tabular features) 
 -    **Prototype Streamlit dashboard** for visualization and “what-if” exploration
 
-> **Project status:** *Work in progress*. The Streamlit dashboard is partially implemented; model integration and advanced feature insights will land in the next milestone.
+
 
 ---
 
