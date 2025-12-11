@@ -61,6 +61,7 @@ forecasting-video-game-sales/
 │   ├── nn_loss_mae.png
 │   └── xgb_feature_importance.png
 │
+├── Final-proj-team12.pdf               # Final project report
 ├── app.py                               # Streamlit Dashboard (prototype)
 └── README.md
 ```
