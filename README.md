@@ -20,9 +20,9 @@ The work is split into:
   - [3) Launch the app](#3-launch-the-app)
   - [4) Stop the app](#4-stop-the-app)
 - [Using the App](#using-the-app)
-  - [ Sales Trends (Working)](#-sales-trends-working)
-  - [ Prediction Interface (UI Only)](#-prediction-interface-ui-only)
-  - [ Feature Insights (Planned)](#-feature-insights-planned)
+  - [Sales Trends (Working)](#-sales-trends-working)
+  - [Prediction Interface (UI Only)](#-prediction-interface-ui-only)
+  - [Feature Insights (Planned)](#-feature-insights-planned)
 
 
 ---
@@ -30,19 +30,39 @@ The work is split into:
 ## Repository Structure
 ```text
 forecasting-video-game-sales/
-├─ data/
-│  ├─ test_results.csv             # Model evaluation outputs
-│  ├─ vgsales.csv                  # Original/raw Kaggle video game sales data
-│  ├─ vgsales_clean.csv            # Cleaned dataset used by the Streamlit dashboard
-│  └─ vgsales_consolidated.csv     # Title-/franchise-level consolidated dataset for modeling
-├─ notebooks/
-│  ├─ ML_pipeline.ipynb            # BERT + regression pipeline and model evaluation
-│  ├─ Vgsales_EDA.ipynb            # Exploratory Data Analysis (EDA)
-│  └─ platform_consolidation.ipynb # Platform/title consolidation and feature engineering
-├─ src/
-│  └─ data_cleaning.py             # Cleaning / preprocessing scripts used to produce vgsales_clean.csv
-├─ app.py                          # Prototype Streamlit dashboard
-└─ README.md                       # Project overview and instructions
+├── data/
+│   ├── X_test_name.npy
+│   ├── X_train_name.npy
+│   ├── test_results.csv
+│   ├── title_embeddings.parquet         # Text embeddings used during training
+│   ├── train_test_split.npz             # Train/test arrays for modeling
+│   ├── vgsales.csv                      # Original Kaggle dataset
+│   ├── vgsales_clean.csv                # Cleaned dataset for dashboard
+│   └── vgsales_consolidated.csv         # Consolidated (franchise/title-level) dataset
+│
+├── models/
+│   ├── knn_model.joblib
+│   ├── lightgbm_model.joblib
+│   ├── nn_model.keras
+│   ├── svm_model.joblib
+│   └── xgb_model.joblib
+│
+├── notebooks/
+│   ├── ML_pipeline.ipynb                # Model training workflow
+│   ├── Vgsales_EDA.ipynb                # Exploratory Data Analysis
+│   └── platform_consolidation.ipynb     # Feature engineering
+│
+├── src/
+│   └── data_cleaning.py                 # Cleaning & preprocessing scripts
+│
+├── visualizations/
+│   ├── lgbm_feature_importance.png
+│   ├── nn_feature_importance.png
+│   ├── nn_loss_mae.png
+│   └── xgb_feature_importance.png
+│
+├── app.py                               # Streamlit Dashboard (prototype)
+└── README.md
 ```
 
 ---
@@ -103,9 +123,8 @@ Press **Ctrl + C** in the terminal running Streamlit.
 - Regression model integration will arrive in the next milestone
 
 ###  Feature Insights (Planned)
-This page will eventually include:
-- **SHAP** feature-importance plots
-- **Correlation** heatmap
-- Additional EDA visualizations
+Intended to include:
+- Feature importance visualizations
+- Correlation heatmaps
 
 ---
